@@ -1,0 +1,3680 @@
+<DOC>
+<DOCNO>WT03-B15-1</DOCNO>
+<DOCOLDNO>IA057-000944-B027-13</DOCOLDNO>
+<DOCHDR>
+http://gw.sentin.com:80/down.html 206.26.168.119 19970109200908 text/html 1864
+HTTP/1.0 200 OK
+Server: Netscape-Commerce/1.1
+Date: Thursday, 09-Jan-97 20:16:43 GMT
+Content-type: text/html
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#006699" VLINK="#006699">
+<center><font size=5>Sentinel,Inc.</font><br>
+<font size=4>2800 Bob Wallace Ave.<br>
+Suite L-3<br>
+Huntsville,Alabama 35805<br>
+Phone: 205-534-9800 &nbsp;&nbsp;Fax: 205-534-9878</font></center>
+<hr>
+<font size=2>Please take a few moments to fill out, print and fax us this form, that way we may better serve you.</font>
+<hr>
+<center><font size=5><em>If you are Responsible for Environmental Compliance...<br>
+Your job just got Easier !</em></font></center>
+<p><font size=4>&nbsp;&nbsp;&nbsp;&nbsp;End Compliance <em>NIGHTMARES</em>...Award winning Software Provides:
+<FORM method=POST>
+<INPUT type=checkbox name="a1">UST/AST Management (maintenance records, inspections, and inventory)<br>
+<INPUT type=checkbox name="a2">Cradle to Grave Chemical Inventory Control<br>
+<INPUT type=checkbox name="a3">Waste Management and Disposal Tracking (custom forms and reports)<br>
+<INPUT type=checkbox name="a4">Waste Manifest Printing<br>
+<INPUT type=checkbox name="a5">Biennial Reporting (Forms OI,GM & State Tax Forms)<br>
+<INPUT type=checkbox name="a6">Sara Title III Section 313 (Form R)<br>
+<INPUT type=checkbox name="a7">Electronic Filing
+<br><br>
+Name:<INPUT NAME="realname" SIZE="20"> Title:<INPUT NAME="title" SIZE="20">
+<br><br>
+Company:<INPUT NAME="company" SIZE="20"> Address:<INPUT NAME="address" SIZE="20">
+<br><br>
+City:<INPUT NAME="city" SIZE="20"> State:<INPUT NAME="state" SIZE="5"> Zip:<INPUT NAME="zip" SIZE="10"> 
+<br><br>
+Phone:<INPUT NAME="realname" SIZE="15"> FAX:<INPUT NAME="fax" SIZE="15">
+</form>
+<hr>
+<center><a href="down1.html">Software Download</a></center>
+<font size=2>&#169;Sentinel,Inc. 1996</font>
+</BODY>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-2</DOCNO>
+<DOCOLDNO>IA057-000944-B027-21</DOCOLDNO>
+<DOCHDR>
+http://gw.sentin.com:80/down1.html 206.26.168.119 19970109200915 text/html 885
+HTTP/1.0 200 OK
+Server: Netscape-Commerce/1.1
+Date: Thursday, 09-Jan-97 20:16:55 GMT
+Content-type: text/html
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY BGCOLOR="#006699" TEXT="#FFFFFF" LINK="#FFFF00" VLINK="#FFFF99">
+<center><font size=6><b>Environmental Compliance Software Download Area</b></font></center>
+<hr>
+<center><img src="const.gif"></center>
+<hr>
+<center><a href="index.html"><img src="home.gif" alt="Home" border="0"></a></center>
+<hr>
+<center><font size=5>Sentinel,Inc.</font><br>
+<font size=4>2800 Bob Wallace Ave.<br>
+Suite L-3<br>
+Huntsville,Alabama 35805<br>
+Phone: 205-534-9800 &nbsp;&nbsp;Fax: 205-534-9878</font></center>
+<hr>
+<center><font size=4>Send Questions and or Comments to:</font></center><br>  
+<center><A href="MAILTO:sentinel@traveller.com"><img src="mail.gif" alt="Mail To" border="0"></A></center>
+<hr>
+&#169;Sentinel,Inc. 1996
+</BODY>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-3</DOCNO>
+<DOCOLDNO>IA060-000337-B001-287</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/ 206.148.208.105 19970115072916 text/html 2144
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:27:57 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18859853313276655; path=/
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> Atemi Corporation</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><P><HR>
+<TABLE CELLPADDING="2"><TR><TD><IMG ALIGN=Right SRC="atemi_title_transp.GIF"
+WIDTH="340" HEIGHT="173">
+</TD></TR><TR><TD><P ALIGN=Center><BR><BR><FONT SIZE=+1><A HREF="free_stuff.html">Click Here to Download Free Internet Encryption Software</A></FONT>
+<P ALIGN=Center><CENTER><A HREF="netshade.html"><FONT SIZE=+1>Click Here
+For
+Info on NetShade</FONT><SUP>TM</SUP><FONT SIZE=+1> for
+Windows</FONT></A></CENTER>
+<P ALIGN=Center><CENTER><FONT SIZE=+1><A HREF="product_info.html">Click Here
+for
+Info on Our Other Networking Products</A></FONT>
+</CENTER>
+<P ALIGN=Center>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR VALIGN="Middle"><TD
+VALIGN="Middle"><CENTER><A
+HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><CENTER><HR WIDTH=65%><BR>Atemi Corporation<BR>
+202 W. Hill, Suite 3W<BR>
+Champaign, IL  61820-3539</CENTER>
+<P><CENTER>
+(217) 352-3688<BR>
+FAX (217) 352-3689<BR>
+E-mail: <A
+HREF="mailto:support@atemi.com">support@atemi.com
+</A></CENTER>
+<P><CENTER>** This site was last modified on  December 30, 1996 **
+</CENTER>
+<ADDRESS><CENTER>[NOTE: Atemi is a registered trademark, and NetShade and
+AtemiConnect are trademarks, of Atemi Corporation.]</CENTER>
+</ADDRESS><CENTER><TABLE CELLPADDING="7"><TR VALIGN="Baseline"><TD VALIGN="Middle"><CENTER><A
+HREF="http://www.rsa.com/"><IMG
+ALIGN=Middle SRC="RSAPX100.GIF" WIDTH="100" HEIGHT="43"></A>
+</CENTER>
+</TD><TD VALIGN="Middle"><CENTER><CENTER><A HREF="http://www.eff.org/"><IMG
+ALIGN=Middle
+SRC="ribbon_transp.gif" WIDTH="44" HEIGHT="69"></A>
+</CENTER>
+</CENTER>
+</TD></TR></TABLE></CENTER><P>
+</TD></TR></TABLE><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-4</DOCNO>
+<DOCOLDNO>IA060-000337-B001-316</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/free_stuff.html 206.148.208.105 19970115072928 text/html 1407
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:28:06 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18977853313286540; path=/
+Content-length: 1183
+Last-modified: Thu, 02 Jan 1997 23:38:58 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Free Encryption Software</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><P><HR>
+<H1><P ALIGN=Center>NetShade<FONT SIZE=-1><FONT SIZE=-1><SUP>TM</SUP></FONT></FONT> Distribution Center
+</H1><P ALIGN=Center>
+<P ALIGN=Left><FONT SIZE=+1>NetShade v. 2.0, a seamless internet encryption
+utility, is currently available for free to non-commercial users. For info
+on commercial use, click <A HREF="sales_info.html">here</A>.</FONT>
+<P ALIGN=Left>
+<H2><P ALIGN=Left>What's currently available?
+</H2><P ALIGN=Left><FONT SIZE=+1>
+A beta version of NetShade</FONT><SUP><FONT SIZE=-1>TM</FONT></SUP><FONT SIZE=+1> for Windows 95
+</FONT><BR>
+</P><CENTER><TABLE BORDER CELLPADDING="10"><TR><TD><P ALIGN=Left><A HREF="netshade_free_domestic.html">Domestic Version</A>
+</TD></TR></TABLE></CENTER><P>
+<H2><P ALIGN=Left><CENTER><HR WIDTH=65%></CENTER>
+</H2><CENTER><TABLE BORDER CELLPADDING="2"><TR VALIGN="Middle"><TD
+VALIGN="Middle"><A HREF="overview.html">Home</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+<P ALIGN=Left>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-5</DOCNO>
+<DOCOLDNO>IA060-000337-B001-354</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/netshade.html 206.148.208.105 19970115072944 text/html 1543
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:28:22 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18820853313302649; path=/
+Content-length: 1319
+Last-modified: Thu, 02 Jan 1997 23:39:06 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>NetShade v2.0: Transparent Internet/LAN Encryption</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H1><CENTER>NetShade v2.0:
+Transparent Internet/LAN Encryption</CENTER>
+</H1><P><HR><CENTER> <BR> </CENTER>
+<UL><LI><A href="ns2.html">NetShade v2.0 Overview.</A> This page describes
+current
+security issues related to TCP/IP networking, explains how NetShade v2.0
+addresses these problems, and compares NetShade to other network security
+products
+on the market.<BR>
+<LI><A href="samples.html">"How would I use NetShade to protect...?"</A>
+Some sample NetShade configurations: protecting personal e-mail,
+local area networks, FTP sites, Web sites, etc.<BR>
+<LI><A HREF="white_paper.html">Sealed-Session Networking.</A> A white paper
+describing NetShade's architectural model in
+some detail.<BR>
+<LI><A HREF="NS2_screen_page.html">Screen Shots.</A>  NetShade 2.0 for Windows 95.
+</UL><P><CENTER><HR WIDTH=65%></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A HREF="overview.html">Home</A>
+</TD><TD><A HREF="free_stuff.html">Free Stuff</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-6</DOCNO>
+<DOCOLDNO>IA060-000337-B001-372</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/product_info.html 206.148.208.105 19970115072958 text/html 939
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:28:34 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18809853313314219; path=/
+Content-length: 716
+Last-modified: Thu, 02 Jan 1997 23:40:08 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Atemi Products</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><P><HR>
+<H2>Atemi Products:
+</H2><P><A href="netshade.html">NetShade (TM) v2.0: Transparent Internet
+encryption</A>
+<P><A href="connect.html">AtemiConnect (TM): LAN networking across the
+Internet</A>
+<P><A href="netshade11.html">NetShade (TM) v1.1: Transparent AppleTalk
+encryption</A>
+<P>
+<P><CENTER><HR WIDTH=65%></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR VALIGN="Middle"><TD
+VALIGN="Middle"><A HREF="overview.html">Home</A>
+</TD><TD><A HREF="free_stuff.html">Free Stuff</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-7</DOCNO>
+<DOCOLDNO>IA060-000337-B001-405</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/sales_info.html 206.148.208.105 19970115073011 text/html 1593
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:28:50 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18814853313330661; path=/
+Content-length: 1369
+Last-modified: Thu, 02 Jan 1997 23:40:14 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Atemi Sales</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H2><HR>
+</H2><H2>Purchasing Atemi Products
+</H2><P><FONT SIZE=+1>Atemi products are free for noncommercial use.
+&nbsp;However, there are several reasons why you may wish to purchase a full
+version:</FONT>
+<P>
+<UL><LI><FONT SIZE=+1>To use them commercially</FONT>
+<LI><FONT SIZE=+1>To obtain technical support</FONT>
+<LI><FONT SIZE=+1>To receive upgrades</FONT>
+<LI><FONT SIZE=+1>To get packaging and manual</FONT>
+<LI><FONT SIZE=+1>To support the development of these technologies</FONT>
+</UL><P><FONT SIZE=+1>For sales information, site license information, and further
+product information, you can contact our distributor directly:</FONT>
+<P ALIGN=Center><FONT SIZE=+1>Secure Distribution, Inc.<BR>Norm Yamaguchi</FONT><BR><FONT SIZE=+1>70 Washington Street, Suite 220<BR>Oakland, CA 94607<BR>510-251-6234 (voice)<BR>510-251-6235 (fax)<BR><A HREF="mailto:securedist@aol.com">securedist@aol.com</A></FONT>
+<P ALIGN=Left><CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR VALIGN="Middle"><TD
+VALIGN="Middle"><A HREF="overview.html">Home</A>
+</TD><TD><A HREF="free_stuff.html">Free Stuff</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-8</DOCNO>
+<DOCOLDNO>IA060-000337-B002-22</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/links.html 206.148.208.105 19970115073027 text/html 3521
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:29:02 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18822853313342761; path=/
+Content-length: 3297
+Last-modified: Thu, 02 Jan 1997 23:39:04 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> Other Web Sites of Interest</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H1><CENTER>Other Web Sites of Interest </CENTER>
+</H1><P><CENTER><HR WIDTH=90% SIZE=4></CENTER>
+</P><CENTER><TABLE CELLPADDING="15"><TR><TD VALIGN="Middle"><A HREF="http://www.eff.org/"><IMG ALIGN=Middle SRC="ribbon_transp.gif" WIDTH="44" HEIGHT="69"></A>
+</TD><TD><A HREF="http://www.rsa.com/"><IMG ALIGN=Middle 
+SRC="RSAPX100.GIF" WIDTH="100"
+HEIGHT="43"></A>
+</TD><TD><A HREF="big_sting.jpg"><IMG ALIGN=Middle 
+SRC="lets_wake_up.jpg"
+WIDTH="68" HEIGHT="67"></A>
+</TD><TD><A HREF="./aikido/Overview.html"><IMG ALIGN=Middle SRC="aikido/osensei.GIF" WIDTH="44" HEIGHT="64"></A>
+</TD></TR></TABLE></CENTER><P>This page contains links to Web Pages that contain more
+information on network security issues, encryption, cryptography,
+and eavesdropping.  Although we won't pretend that this list will ever become
+the
+be-all, end-all of security catalogs, we welcome any suggestions you might
+have
+on pages that we should include.  Send your suggestions via
+e-mail to <A
+HREF="mailto:support@atemi.com">support@atemi.com</A>.
+<P><CENTER><HR WIDTH=90% SIZE=4></CENTER>
+<H2>Security-related Pages
+</H2><UL><LI><A href="http://www.rsa.com/">RSA's Home Page</A> (also see
+<A
+href="http://www.rsa.com/rsalabs/faq/faq_home.html">RSA's Cryptography FAQ</A>)
+<LI><A
+href="http://www.yahoo.com/Computers_and_Internet/Security_and_Encryption/">Yahoo's
+Security and Encryption Page</A>
+<LI><A href="http://www.cs.purdue.edu/homes/spaf/hotlists/csec.html">Spaf's
+Hotlist for Computer Security, Law and Privacy</A>
+<LI><A href="http://www.telstra.com.au/info/security.html">Telstra Corporation's
+</A> list of security links
+<LI><A HREF="http://www.digicrime.com/">DigiCrime</A>- so you thought you were safe...
+</UL><P><CENTER><HR WIDTH=90% SIZE=4></CENTER>
+<H2>Security News Groups
+</H2><UL><LI><A href="news:alt.security">alt.security</A>
+<LI><A href="news:comp.security.misc">comp.security.misc</A>
+</UL><P><CENTER><HR WIDTH=90% SIZE=4></CENTER>
+<H2>Network Security Articles on the Web
+</H2><UL><LI><A href="http://techweb.cmp.com/nc/current/">Network Computing</A> article
+on
+network security (NOTE: you will have to run a search of CMP publications
+for the
+text "network security" in order to actually see the article.  Go figure...)
+<LI><A href="http://techweb.cmp.com/iw/current/">InformationWeek's</A> special
+report: "Are Your Computers Safe?" (NOTE: a search is required to get this
+text
+as well)
+</UL><P><CENTER><HR WIDTH=90% SIZE=4></CENTER>
+<H2>Other pages mentioning Atemi or NetShade
+</H2><UL><LI><A HREF="http://www.rsa.com/rsa/PRODUCTS/ssacat96/27a.html">RSA's Product
+Catalog</A>
+entry (a little out of date...)
+</UL><P><CENTER><HR WIDTH=90% SIZE=4></CENTER>
+<H2>Miscellaneous Links
+</H2><UL><LI><A href="http://www.ugconnection.org/">User Group Connection</A>
+site
+</UL><P><CENTER><HR WIDTH=65%></CENTER>
+<H2><CENTER><TABLE ALIGN=Center BORDER CELLPADDING="2"><TR VALIGN="Middle"><TD
+VALIGN="Middle"><A HREF="overview.html">Home</A>
+</TD><TD><A HREF="free_stuff.html">Free Stuff</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD></TR></TABLE></CENTER><P><HR>
+</H2></BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-9</DOCNO>
+<DOCOLDNO>IA060-000337-B002-50</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/netshade_free_domestic.html 206.148.208.105 19970115073104 text/html 1592
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:29:23 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18815853313363258; path=/
+Content-length: 1368
+Last-modified: Thu, 02 Jan 1997 23:39:10 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Domestic NetShade</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><P><HR>
+<H2 ALIGN=Center>Domestic NetShade<SUP><FONT SIZE=-1>TM</FONT></SUP> - U.S. and Canada Only
+</H2><P>
+<P>In case you didn't know, the United States government considers
+encryption software to be a military technology, and therefore regulates
+its export as munitions. &nbsp;For this reason, NetShade is available for download to residents of the United States and Canada only.
+<P>Fortunately, Michael Johnson has graciously allowed us use of his domestic FTP server for electronic distribution of our product. Once you have accessed the site, look in the "net/" directory. &nbsp;There you will find the file "NS95b10d.exe", which is a self-extracting archive of NetShade for Windows 95.
+<P>Please note that all transfers are logged and provided to U.S. law enforcement officials. &nbsp;The entry point to the ftp site is <A HREF="ftp://ftp.csn.net/mpj/README">ftp://ftp.csn.net/mpj/README</A> (/net/ns95b10d.exe).
+<P><CENTER><HR WIDTH=65%></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR VALIGN="Middle"><TD
+VALIGN="Middle"><A HREF="overview.html">Home</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+<P ALIGN=Left>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-10</DOCNO>
+<DOCOLDNO>IA060-000337-B002-134</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/ns2.html 206.148.208.105 19970115073154 text/html 10993
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:30:17 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18974853313417836; path=/
+Content-length: 10768
+Last-modified: Thu, 02 Jan 1997 23:39:19 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> NetShade v2.0 Overview</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1><CENTER>NetShade v2.0 Overview </CENTER>
+</H1><P><HR WIDTH=90% SIZE=4>
+<H2>Page Contents:
+</H2><UL><LI><A href="#why">Why should I be encrypting my TCP/IP sessions?</A>
+<LI><A href="#how">How does NetShade work?</A>
+<LI><A href="#compare">How is NetShade different from other encryption
+products?</A>
+</UL><P>
+<H2><A name="why">Why should I be encrypting my TCP/IP sessions?</A>
+</H2><P>Unfortunately, the technology on which the Internet and LANs are
+built is inherently insecure. &nbsp;Data does not travel directly from your
+machine to the intended destination. &nbsp;Instead, it is bounced and broadcast
+through a number of computer networks, until it can finally be grabbed off
+the network by the "receiver". &nbsp;The fact is, nothing stops other people
+from grabbing the data off the network, too. &nbsp;It is much like a party-line
+telephone; there is a polite agreement that other users of the line won't
+listen in, but nothing else protects your privacy.
+<P>In the past, network <B>eavesdropping</B> required a great deal of technical
+skill, as well as expensive hardware analysis tools. Today, stealing data
+off a LAN or the Internet is as easy as running a simple application called
+a 
+<B>protocol analyzer</B> -- some of which are available as shareware. &nbsp;For
+this reason, <B>it takes no skill or special ability to steal network data</B>,
+including email, file transfers, web data, or even login IDs and passwords.
+<P>Most computer professionals agree that <B>encryption</B> is the best way
+to prevent this type of network
+eavesdropping. Encryption can be used to transform messages into
+<B>ciphertext</B>, 
+making them unintelligible to network eavesdroppers.  When a message arrives
+at its destination, it can be <B>decrypted</B>: 
+restored to its original state with the "key" that was used to scramble it.
+<P>
+NetShade uses encryption to protect <B>all</B> of the TCP/IP data sent from
+your machine to other NetShade users.  
+While most network security tools use encryption to protect specific kinds
+of data (for example, e-mail), NetShade 
+can protect your e-mail, your FTP sessions, your Telnet sessions, your Web
+server -- in short, it can protect every
+type of data that can be sent over the Internet or any other type of TCP/IP
+network.  To learn how, read on.  (Also see
+<A href="samples.html">Sample NetShade Configurations</A> for specific
+implementation strategies.)
+<P>
+<HR WIDTH=90% SIZE=4>
+<A name="how"></A>
+<H2><A name="how">How does NetShade work?</A>
+</H2><P>NetShade automatically and invisibly encrypts all of the TCP/IP (e.g.,
+Internet) 
+data sent from one NetShade user to another, using a combination of secret
+key and public
+key encryption techniques (see below).
+<P>
+
+NetShade is transparent to the upper layers of the network architecture;
+that is,
+it runs independently of applications and system features that use your network
+services.  This means that it will work with Telnet, FTP, client/server
+applications, remote backup programs, remotely published documents, e-mail,
+remote databases, Web browsers/servers and any other TCP/IP-compatible
+application.
+<P>
+
+NetShade is also transparent to the lower layers of the system; that is,
+it runs
+independently of the network hardware.  This means that it will work with
+SLIP, PPP, Ethernet, token ring, wireless, etc.
+<P>
+<H3>Secret key encryption
+</H3><P>NetShade uses a number of different encryption methods that fall
+into two main
+categories: <B>secret key</B> encryption and <B>public key</B> encryption.
+<P> 
+Secret key encryption methods use a single secret key to lock and unlock
+data; 
+therefore, only someone with access to the key can decrypt the data.  This
+key must, of
+course, be kept secret from all third parties.
+<P>
+
+When data is encrypted, it becomes <B>ciphertext</B> and looks like garbage
+or noise. 
+Ideally, no information about the original data can be determined from this
+noise
+without knowledge of the secret key.  However, an entire branch of mathematics
+is devoted to finding an original message from its corresponding ciphertext.
+ This science is
+called <B>cryptanalysis</B> (you can think of it as the art of cracking
+encryption
+methods).  It is an extremely complex science which requires an in-depth
+mathematical knowledge of cryptography.
+<P>
+
+<A name="algs">NetShade currently supports the following algorithms:</A>
+<P>
+<UL><LI><B><A href="http://www.rsa.com/rsalabs/faq/faq_des.html">DES</A>.</B>
+(pronounced D.E.S. or "dezz") This algorithm was adopted as a
+standard by the US government in the 1970's.  Since then, it has held up
+well
+against analysis, so many people have a great deal of confidence in its security.
+ However, it is still possible to build multi-million dollar supercomputers
+which
+can try every possible key, thus unlocking ciphertext by "brute force." 
+Again,
+DES should protect your data from anyone but a government or other powerful
+entity.<BR>
+<LI><B>Triple-DES.</B>  This algorithm works by encrypting data
+three times with three different keys.  This makes the process of brute-force
+cryptanalysis take so long that it cannot even be done by the US government.
+ (It is
+much more than three times as strong as DES; it is more like a million-billion
+times stronger).  Triple-DES is widely considered to be unbreakable at this
+time.<BR>
+<LI><B>NightShade Algorithm.</B>  This is a "scrambling" algorithm designed
+specifically for encrypting network data at high speeds.  Although not as
+cryptographically strong as DES or IDEA, it is still much better than sending
+data with no encryption at all. &nbsp;In order to "crack" a message, an attacker
+would have to perform mathematical cryptanalysis, which is more than most
+people are willing or able to do. &nbsp;It is so fast that it can be left
+running at all times, so you will never have to send data in the clear.
+</UL><H3>Public key encryption
+</H3><P>Of course, the main problem with secret key encryption is finding
+a safe way to
+distribute the secret keys.  Fortunately, a number of methods have been developed
+for secure key distribution.  We use one called the
+<A href="http://www.rsa.com/">RSA public key cryptosystem</A>.
+<P>
+
+RSA requires each party wishing to communicate to have a pre-generated
+<B>keypair</B>, 
+consisting of a public and a private key.  These keys are complements of
+one another; 
+something encrypted with the public key can be unlocked only with the private
+key, 
+and something encrypted with the private key can only be unlocked with the
+public key.
+<P>
+
+This is very useful.  In practice, the public key may be distributed freely
+to
+anyone (hence its name), whereas the private key is kept secret.  If Alice
+wants
+to send a message to Bob, she can encrypt it with Bob's public key.  Once
+this has
+been done, no one (not even Alice) can unlock the message.  The only way
+it can
+be unlocked is with the private key, and Bob is the only one who knows this
+key.
+<P>
+
+Likewise, if Bob wants to reply, he can encrypt a message with Alice's public
+key; then, only she can unlock it (with her own private key).  For more
+information on 
+the RSA public key cryptosystem, visit the <A href="http://www.rsa.com/">RSA
+Web site.</A>
+<P>
+<H3>How NetShade uses these encryption methods
+</H3><P>NetShade sets up sealed sessions between any two NetShade-equipped
+machines
+before they start to exchange data.  Here's how the process works:
+<P>
+
+<B>Step 1:</B>
+<P>
+
+Alice's machine sends a "log-in" request to Bob's machine.  This request,
+which
+is sent in the clear, contains Alice's public key and specifies the algorithm
+that Alice wants to use for encryption (in this case, Alice has set DES as
+her
+primary mode).  Remember, it doesn't matter who intercepts the public key;
+it's
+OK for everyone to see it.
+<P>
+
+<B>Step 2:</B>
+<P>
+
+Next, Bob's machine generates a secret DES key at random.  This key will
+be used
+to encrypt the network traffic between the two machines.  The secret key
+is
+stored in the memory of Bob's machine.
+<P>
+
+<B>Step 3:</B>
+<P>
+
+Next, Bob encrypts the secret key using Alice's RSA public key.  Bob's machine
+then sends the encrypted key to Alice's machine.  Remember, no one will be
+able
+to steal the secret key off the network, since it is encrypted.
+<P>
+
+<B>Step 4:</B>
+<P>
+
+Finally, Alice's machine decrypts the secret key using her RSA private key.
+ At
+this point, both machines have a copy of the secret key.  From this point
+on, all
+transmissions between the two machines will be encrypted with the secret
+DES key.
+<P>
+
+Of course, this entire process takes place automatically, without user
+intervention.  All the user will notice is a slight pause at the beginning
+of the
+session, caused by the slowness of RSA encryption.
+<P>
+<CENTER>***</CENTER>
+<P>
+For a more technical description of how NetShade establishes secure sessions,
+consult the 
+<A HREF="white_paper.html">NetShade white paper</A>.  Also, the page describing
+<A href="samples.html">
+sample NetShade configurations</A> may be helpful.
+<P>
+<HR WIDTH=90% SIZE=4>
+<A name="compare"></A>
+<H2><A name="compare">How is NetShade different from other encryption
+products?</A>
+</H2><P>Most network security software products are only designed to secure
+specific types of data, such as
+e-mail or shared files.  By contrast, NetShade can secure any type of data
+that can be sent over the Internet
+or a TCP/IP LAN, regardless of what application sends the data or what it
+will be used for.  Over the next few
+years, people will be using the Internet to share information in many new
+ways: groupware, telephony, 
+videoconferencing, and more.  With NetShade, you'll never have to change
+your network/Internet security 
+system again; even better, you won't have to upgrade any new applications
+to support NetShade.  (In contrast, 
+security standards like the Secure Sockets Layer require applications to
+be rewritten in support of SSL.)
+<P>
+NetShade is also easier to use than most network security products.  As soon
+as NetShade has been configured with your
+specific security settings, it will run in the background and encrypt all
+of your TCP/IP data automatically.  You won't 
+have to learn any new applications, or even learn any new ways to use your
+existing ones: NetShade will simply apply
+an invisible blanket of security to all of your network activity.
+<P><CENTER><HR WIDTH=65%></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A 
+HREF="overview.html">Home</A>
+</TD><TD><A HREF="free_stuff.html">Free Stuff</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-11</DOCNO>
+<DOCOLDNO>IA060-000337-B002-174</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/samples.html 206.148.208.105 19970115073221 text/html 8828
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:30:44 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18862853313444731; path=/
+Content-length: 8604
+Last-modified: Thu, 02 Jan 1997 23:40:32 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>How Would I Use NetShade to ... ?</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1><CENTER>How Would I Use NetShade to ...
+?</CENTER>
+</H1><P><HR WIDTH=90% SIZE=4>
+<P>
+<UL><LI><A href="#point">... Secure an application that requires a point-to-point
+link?</A>
+<LI><A href="#mail">... Secure my e-mail messages?</A>
+<LI><A href="#web">... Secure a Web site?</A>
+<LI><A href="#lan">... Secure all of the data sent over a LAN?</A>
+<LI><A href="#group">... Secure a smaller LAN workgroup?</A>
+</UL><P>
+<P><HR WIDTH=90% SIZE=4>
+<A name="point"></A>
+<H2><A name="point">Securing Point-to-Point Applications</A>
+</H2><P>A "point-to-point" application is any program that establishes a
+direct link between two machines.
+Groupware, telephony, FTP, Telnet, videoconferencing programs, and client/server
+systems are all examples
+of point-to-point applications, as they all establish direct connections
+from one machine to another.  (E-mail
+systems are not usually point-to-point applications, as most of them route
+messages via intermediary machines.  See 
+<A href="#mail">below</A> for more on securing e-mail systems.)
+<P>
+Once NetShade has been installed on two machines, <B>any</B> information
+exchanged directly between those machines --
+regardless of which application is used to send the data -- will be automatically
+and invisibly encrypted.  It doesn't
+matter how the two machines are connected (Internet, LAN, VAN, WAN, serial
+link, etc.): as long as the link is 
+bi-directional, and as long as the information is exchanged using the operating
+system's TCP/IP network support, all of
+the information shared between those machines will be encrypted.  For example,
+installing NetShade on an FTP server
+or other Internet host will allow any NetShade user to establish an encrypted
+link with that host.
+<P>
+Since NetShade encrypts data at the protocol level, you won't need to modify
+any of the applications you use to
+exchange data.  Once NetShade is installed and configured on all the machines
+that communicate via point-to-point applications,
+you can keep using those applications in the same way that you use them now
+-- the only difference 
+is that with NetShade, the applications will be exchanging data across
+<B>secure</B> channels.
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<A name="mail"></A>
+<H2><A name="mail">Securing E-mail Systems</A>
+</H2><P>NetShade is designed to establish a secure TCP/IP connection from
+your machine to any other machine that is
+running NetShade.  This "point-to-point" security is automatically applied
+to any application that sends data directly from one
+machine to another.  However, most e-mail systems don't send messages directly
+to the addressees' machines; instead,
+they use a technique called "store and forward."  This makes e-mail systens
+slightly more difficult to protect than applications 
+supporting point-to-point communication.
+<P>
+When you send a message to somebody using a "store and forward" e-mail system,
+it is first routed to an intermediate
+machine called a <B>mail server</B>.  Your mail server determines which mail
+server the message recipient is using,
+and routes your message to that mail server.  Usually, the message is stored
+on the recipient's mail server until the
+recipient retrieves it.
+<P>Since NetShade requires direct contact between two machines to establish
+a secure channel
+between those machines, and since store-and-forward never puts the e-mail
+sender in direct contact with the e-mail
+recipient, an extra step is needed to secure the message in transit (see
+Figure 1 below).
+<P>
+<CENTER><IMG SRC="sampf1.GIF" WIDTH="690" HEIGHT="323"></CENTER>
+<P>
+Once NetShade has been installed on the intermediate mail servers, any e-mail
+routed between those servers
+can be secured in a simple three-step process.
+For example, if Alice wants to send a secure message to Bob, NetShade should
+be installed on her mail server and on Bob's mail server.
+When Alice sends the message, her copy of NetShade encrypts the message <B>for
+her mail server</B>, not for Bob.  Alice's
+mail server decrypts the message when it arrives, and then immediately
+re-encrypts the message for Bob's mail server; 
+again, the message is decrypted by Bob's server upon arrival.  When Bob retrieves
+his 
+e-mail from the mail server, the mail server encrypts it for Bob's machine;
+Bob's machine decrypts the e-mail when it
+arrives.  Of course, the entire process happens automatically, without any
+need for user intervention.
+<P>
+Although Alice's message has been unencrypted twice en route to Bob's machine,
+the points of greatest vulnerability --
+the network pathways -- are completely secure.  Nevertheless, this scenario
+underscores the need to combine
+NetShade with a strong local encryption product (such as
+<B><A HREF="www.rsa.com">RSA Secure</A></B>) in any situation where network
+data
+will be stored on a hard drive.
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<A name="web"></A>
+<H2><A name="web">Establishing a Secure Web Site</A>
+</H2><P>If NetShade is installed on a machine running a Web server, any other
+NetShade user will be able to access that 
+Web site securely.  As soon as authentication services are available (with
+version 2.1), server administrators will also be able to use NetShade to
+restrict
+access to private Web sites.
+<P>
+NetShade provides a level of security similar to that offered by the Secure
+Sockets Layer
+(SSL) security protocol.  However, NetShade is cheaper, more flexible and
+more easily maintained than the SSL system,
+which requires applications and servers to be modified at the source code
+level before their data can be secured.  Compare 
+this to NetShade's "plug-in" functionality, which adds security to all of
+your TCP/IP applications at once when it is installed.
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<A name="lan"></A>
+<H2><A name="lan">Securing a Local Area Network</A>
+</H2><P>While many people already realize that Internet traffic can easily
+be targeted by intruders, few realize that a similar
+situation exists on local area networks.  But as more and more organizations
+experience internal security breaches
+(where trade secrets are intercepted and stolen by an employee), LAN security
+systems must become better able to 
+defend against internal eavesdropping attacks.  NetShade can protect LAN
+traffic just as easily as it
+protects Internet data.  See Figure 2 below.
+<P>
+<CENTER><IMG src="sampf2.GIF"></CENTER>
+<P>
+Installing NetShade on every networked machine across a TCP/IP LAN will add
+an invisible blanket of security to the
+entire network.  All of the network services and applications are used in
+exactly the same way, but the network data
+-- including e-mail, shared files, client/server sessions, etc. -- is encrypted
+to defend against eavesdropping attacks.  
+Note that since NetShade encrypts data at the protocol level, any of the
+machines on this LAN can still
+communicate securely with other NetShade users across the Internet.
+<P>
+NetShade 2.0 will work with TCP/IP intranets. &nbsp;Future versions of NetShade
+will be adapted to offer protection for other types of networks: AppleTalk,
+IPX/SPX, and others.
+(Note that <A HREF="netshade11.html">NetShade version 1.1</A> can already
+be used to encrypt Appletalk LAN traffic).
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<A name="group"></A>
+<H2><A name="group">Securing a LAN Workgroup</A>
+</H2><P>If you are not interested in securing all of the machines on your
+LAN, NetShade can easily be scaled back to protect
+a smaller workgroup.  Any network data shared among members of this workgroup
+will automatically be encrypted; you can
+configure NetShade to allow unencrypted connections between the workgroup
+and non-NetShade users, or to reject any
+attempts at unencrypted communication.
+<P>
+<CENTER><IMG src="sampf3.GIF"></CENTER>
+<P>
+NetShade's flexibility of scale makes it the most cost-effective way to protect
+a subset of your network.  Since NetShade
+is a self-contained system, it can be managed entirely within its group of
+users.  And of course, it can easily be scaled
+up to protect the rest of the LAN as your organization's security needs change.
+<P>
+<P>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-12</DOCNO>
+<DOCOLDNO>IA060-000337-B002-210</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/white_paper.html 206.148.208.105 19970115073237 text/html 17068
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:31:14 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18975853313474925; path=/
+Content-length: 16843
+Last-modified: Thu, 02 Jan 1997 23:40:56 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>NetShade Technical White Paper</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P>To download a zipped PostScript version
+of this paper, <A HREF="ns_tech.zip">click here</A>.
+<P ALIGN=Left>To download an MSWord version of this paper,
+<A HREF="ns_tech.msw">click here</A>.
+<P ALIGN=Center><HR>
+<H1><P ALIGN=Center>An Overview of the Sealed-Session Networking Paradigm
+and the
+NetShade<FONT SIZE=-1><FONT SIZE=-1>(TM)</FONT></FONT>&nbsp;Implementation
+</H1><P ALIGN=Center>
+<P ALIGN=Center>DRAFT:  June 6, 1996
+<P ALIGN=Center><HR>
+<H2>Introduction
+</H2><P>The key design principles for the NetShade v2.x architecture are
+as follows:
+<P>&#183;	<B>NetShade can provide an automatic, invisible blanket of security
+for an entire enterprise-wide network.</B>  That is, it can secure data
+associated with all common network protocols, operating systems, and network
+applications without requiring user intervention or drastically slowing network
+performance.
+<P>&#183;	<B>NetShade is designed from the ground up to support multiple
+hardware platforms (Mac, WinTel, etc.) and protocols (TCP/IP, AppleTalk ,
+IPX/SPX, etc.)</B>.  This unique architecture allows NetShade to be easily
+upgraded to support emerging technologies&emdash;IP-NG, SSL, emerging key
+management standards, new encryption algorithms, etc.
+<P>These design principles represent the heart of Atemi's sealed-session
+networking paradigm.  In essence, sealed-session networking uses asymmetric
+(i.e., public key) encryption to securely share a session key between two
+communicating machines before any data is sent; once both parties have received
+the session key, that key is used to encrypt all the data sent between the
+two parties.
+<P>An implementation of SSN offers several advantages over other popular
+approaches to network security&emdash;it is application and link independent,
+easy to use and maintain, scalable to all types and sizes of networks, etc.
+ However, a full description of the benefits of sealed-session networking
+is beyond the scope of this paper .  Instead, we will focus on how the
+sealed-session networking paradigm is implemented in the NetShade v2.x
+architecture.
+<P><HR>
+<H2>Sealed-Session Networking Design Principles
+</H2><P>The overall goal of sealed-session networking (SSN) is to add an
+invisible layer of security to all the data sent over an enterprise's network,
+protecting it from eavesdropping attacks.  Since this goal can only be
+realistically achieved if the cost per user remains low, a hardware-based
+approach to the SSN paradigm would be ineffective.  Therefore, a completely
+software-based implementation of SSN should be the primary focus.  Hybrid
+hardware-software implementations should be of lower priority.
+<P>The key requirements for an effective SSN system are:
+<P>&#183;	It must use a software mechanism to intercept and encrypt network
+data at a low level in the system&emdash;between the application and physical
+layers of the network architecture.
+<P>&#183;	It must have a mechanism for securely sharing session keys between
+the transmitter and recipient in any network session.
+<P>&#183;	It must seed each session key with an effective random number.
+<P>&#183;	It must be able to establish simultaneous sealed sessions with
+multiple machines, each using a different session key.
+<P>&#183;	It must support some type of mechanism for authentication.
+<P>
+<H3>The RSA Public Key Cryptosystem
+</H3><P>Several of these requirements can be addressed through the RSA public
+key cryptosystem .  Using this technology involves the generation of an RSA
+keypair, which includes a public component and a private component.  There
+is a complex mathematical relationship between the two components, such that
+data encrypted with one component can only be decrypted with its corresponding
+component; for example, data encrypted with a public key can only be decrypted
+with the corresponding private key.  The RSA cryptosystem is widely recognized
+as one of the most secure (and most practical) implementations of asymmetric
+cryptography, as determining a private key from its corresponding public
+key is computationally impractical for keypairs of 512 bits or greater .
+<P>We have found that the RSA public key cryptosystem can address the need
+for a secure key exchange mechanism in an SSN implementation, and can also
+provide machine-based authentication to some extent.  The actual implementation
+of the RSA technology is described in more detail in the section describing
+NetShade's implementation of SSN.
+<P>
+<H3>MD5 Random Number Generation
+</H3><P>Another important part of an SSN product is a mechanism for generating
+reasonable random numbers.  This is a non-trivial problem, since most machines
+have only primitive pseudo-random number generators.  The possibility of
+reproduction of random seed data represents a significant security hole on
+these systems.
+<P>In our approach to SSN, all random numbers are generated using an MD5
+generator.  The generator is initially seeded at startup time using a number
+of volatile low-memory system values (including the clock).  A process is
+then started whereby the mouse location is sampled at varying times; changes
+in the mouse location further seed the MD5 space.
+<P><HR>
+<H2>Establishing a Sealed Session: the NetShade Implementation
+</H2><H3>Authentication and Key Exchange
+</H3><P>A NetShade user has the option of using an RSA-based authentication
+mechanism to create a list of machines that are allowed to communicate with
+that user.  Often, user-based authentication services (i.e., password logins)
+are already provided by the upper-layer networking applications.  These are
+often sufficient, and do not require the additional management effort of
+RSA key distribution.
+<P>However, there are clearly some situations in which a second layer of
+machine-based RSA authentication is desirable.  For instance, a user password
+login cannot effectively protect against so-called "Man-in-the-Middle" attacks.
+<P>Administrators of security systems will simply need to judge their own
+security needs, and whether or not they require the more complete authentication
+mechanisms provided.  The session establishment description below describes
+the fully authenticated method.
+<P>[NOTE: Authentication functionality will not be incorporated into the
+NetShade product line until version 2.1.]
+<P>
+<H4>RSA Keypair Distribution
+</H4><P>Each NetShade machine stores two complete RSA keypairs, an exchange
+keypair (EKP) and an authentication keypair (AKP).  Each NetShade machine
+also stores a file called a "keyring," which contains IDs and public keys
+for all the machines approved to exchange data with that machine.
+<P>Details of the key management mechanisms used to actually distribute the
+AKPs are beyond the scope of this paper.  Key management is a complex problem
+with many solutions, each having benefits and deficiencies.  For this reason,
+a number of different methods should be available, such as centralized key
+services or distributed "PGP-based" trust levels.
+<P>NetShade provides a mechanism for encrypting private keys and keyrings
+with a user passphrase.  This passphrase may be up to 64 characters long,
+and may contain spaces, punctuation, etc.  If this option is used, the private
+keys are stored on the disk using Triple-DES encryption with an MD5 hash
+of the passphrase.
+<P>As described earlier, all RSA keypairs include a public element and a
+private element.  The public portion of each user's authentication keypair
+(AKP-Pub) is distributed to all the machines which are "approved" to connect
+to that user's machine; each of these machines adds this AKP-Pub to its keyring
+file.  To NetShade, the keyring represents a list of entities that can
+communicate with a machine, and provides a means of proving the identity
+of an approved entity.
+<P>Each machine's EKP and AKP are generated and maintained separately.  The
+keypairs may be of different sizes, allowing a larger keypair to be used
+for authentication; for example, a 768 bit AKP could be used with a 512 bit
+EKP.  This allows EKPs to be changed frequently (thus enhancing security)
+without making authentication management a nightmare.  Currently, NetShade
+can create RSA keypairs ranging from 512 to 1024 bits.
+<P>
+<H4>Authenticating and Establishing a Sealed Session
+</H4><P>When a NetShade user requests a network connection to another NetShade
+user's machine, the authentication process is activated.  First, a packet
+containing the requestor's ID, EKP-Pub, and other miscellaneous information
+is prepared.  The entire packet is hashed with MD5.  The hash is then signed
+using the requestor's AKP-Priv and appended to the packet; the packet is
+then sent to the responder.
+<P>Upon receipt of the packet, the responder re-hashes the packet, and verifies
+the hash using the requestor's AKP-Pub (which is found in the responder's
+keyring).  If the request is valid and unmodified, a Triple-DES key is generated
+and placed in a response packet.  The Triple-DES key is then RSA encrypted
+using the requestor's EKP-Pub.
+<P>Some additional information is added to the packet, and then the entire
+packet is hashed and signed using the responder's AKP-Priv.  Finally, everything
+except the RSA-encrypted Triple-DES key is encrypted with the Triple-DES
+key, and the response packet is sent to the requester.
+<P>Upon receipt of this packet, the requester verifies the authenticity of
+the packet using its AKP-Pub keyring.  If genuine, it decrypts the Triple-DES
+key using its EKP-Priv.
+<P>At this point, both the requester and the responder have access to the
+Triple-DES key.  This key is then used to establish secure pipes for data
+using any bulk encryption algorithm desired by the requester.  Additional
+exchange packets are both protected and authenticated by the Triple-DES key.
+<P>
+<H3>Determining the Encryption Mode
+</H3><P>Different NetShade users may prefer to use different encryption
+algorithms.  One user may allow only DES and Triple-DES, while another might
+allow only the NightShade Algorithm.  Some users may allow unencrypted
+connections with their machines, as well.
+<P>To address this potential problem, NetShade allows each user to define
+a prioritized list of allowed encryption algorithms.  Any attempts to connect
+to a NetShade machine using an algorithm that does not appear in this list
+will be rejected.  (The user may define "cleartext" as an allowed algorithm,
+which will allow insecure connections to your machine; if authentication
+is turned off, even non-NetShade users will be able to connect with you.)
+<P>When attempting to connect to another machine, NetShade determines which
+algorithms (if any) are supported by both machines.  From this list, NetShade
+selects the algorithm with the highest priority on the requestor's allowed
+list.  For example, if the requester allows DES, Triple DES and NightShade
+in that order of priority, and the responder allows Triple DES and DES in
+that order of priority, the session will be established using DES as the
+bulk encryption algorithm.
+<P>If there are no encryption algorithms supported by both the requester
+and responder, the session will not be established.  NetShade will instead
+show the requester a dialog box listing the encryption algorithms that are
+supported by the responding machine.
+<P>
+<H3>Network Packet Interception and Re-Entry
+</H3><P>One of the most challenging aspects of implementing a SSN system
+is intercepting and re-admitting network data packets.  Although the specific
+mechanism NetShade uses to intercept data is proprietary, we can offer a
+rough description of how the process works.
+<P>One flexible aspect of the main NetShade architecture is the ability to
+intercept and secure data from various different levels of the networking
+hierarchy.  This is valuable for practical rather than conceptual reasons.
+ Different implementations of different protocols (for instance, Appletalk
+vs. TCP/IP) allow for interception at varying levels.  For example, NetShade
+intercepts TCP/IP at the data stream layer, whereas it intercepts Appletalk
+at the network packet layer.  For the purposes of discussion, we will use
+the term "packet" to refer to some chunk of data intercepted by NetShade;
+not necessarily a link-level network packet.
+<P>NetShade monitors all of the incoming and outgoing  packets.  If NetShade's
+authentication feature is turned on, any incoming or outgoing packets sent
+to or from a source not listed in the keyring are immediately rejected.
+<P>When processing any approved packet, NetShade checks the identity of the
+other party in the transaction (the sender of an incoming packet, or the
+recipient of an outgoing packet).  If that party has already established
+a sealed session with the host machine, the packet is sent to the encryption
+mechanism for encryption (outgoing) or decryption (incoming) using the
+pre-determined session key.  If no sealed session has been established, NetShade
+attempts to establish a sealed session with the sender's machine.
+<P>
+<H3>Data Encryption Mechanism
+</H3><P>The currently supported block ciphers (DES, Triple-DES) are implemented
+in cipher block chaining (CBC) mode.  All block algorithms used in the future
+will be supported in this mode.
+<P>For implementation reasons, the amount of initialization vector data available
+is dependent on the network protocol used.  For TCP/IP, a full 64 bits of
+IV data is used in block encryptions.
+<P>This discussion of NetShade's encryption focuses on TCP/IP data.  Note
+that the design of the encryption engine is flexible, and that future NetShade
+upgrades will add encryption support for data sent over the AppleTalk, IPX
+and SPX network protocols in the near future.  While the structure of data
+packets sent over these protocols will differ, the basic encryption functionality
+will operate much like the TCP/IP encryption process.
+<P>
+<H4>Data Encryption Process
+</H4><P>NetShade performs bulk encryption on the data field of each TCP/IP
+data block, and prepends an unencrypted "initialization vector" to this field.
+ Figure 2 shows how a standard TCP/IP data block is modified during this
+process.
+<P>Assuming that the data block has already been approved for transmission
+by the authentication mechanism and that a sealed session has already been
+established between the sender and receiver, NetShade routes the outgoing
+packet to the encryption engine.
+<P>Next, NetShade looks up the encryption algorithm and session key that
+were set during the session establishment process.  This information is used
+to encrypt all the data in the data block except for the TCP and IP headers.
+<P>
+<P ALIGN=Center>
+<IMG ALIGN=Bottom SRC="Page1_pict3.gif" ALT="[Image]" WIDTH="281" HEIGHT="188">
+<P ALIGN=Center><B>Figure 1.  TCP/IP Data Block Encryption Results</B>
+<P>
+<P>The NetShade header includes an initialization vector and some other basic
+information about the sealed session.  This information can be sent in the
+clear without compromising the security of the sealed session.
+<H4>Data Decryption Process
+</H4><P>Again, let us assume that an incoming packet has already been approved
+by the authentication mechanism and that a sealed session has already been
+established between the sender and receiver.  Using the packet's source IP
+address to determine the identity of the sender, NetShade looks up the algorithm
+and session key that were set during the session establishment process. 
+This key is combined with the initialization vector to decrypt the data block.
+<P>
+<H3>Planning for Modular Upgrades
+</H3><P>The NetShade architecture itself is designed as a series of modules,
+making it easy to add support for additional platforms, operating systems,
+network protocols, and features (see Figure 2).  Separate modules are devoted
+to platform-specific processing (memory management, interface, driver
+information, etc.), protocol-specific processing (packet processing and
+interception), the encryption mechanism (selecting the algorithms to be used),
+and authentication (selecting the method by which the identity of connecting
+machines or users can be verified). This modular design was chosen to reduce
+the development cycle for new versions of NetShade.
+<P ALIGN=Center>&nbsp;
+&nbsp;<IMG ALIGN=Middle SRC="Page1_pict2.gif" ALT="[Image]" WIDTH="398" HEIGHT="304">
+<P ALIGN=Center><B>Figure 2 : NetShade Modular Architecture</B>
+<P>
+<P>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-13</DOCNO>
+<DOCOLDNO>IA060-000337-B002-248</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/NS2_screen_page.html 206.148.208.105 19970115073302 text/html 782
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:31:34 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18976853313494205; path=/
+Content-length: 559
+Last-modified: Thu, 02 Jan 1997 23:39:51 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>NetShade 2.0 Screen Shot</TITLE>
+</HEAD>
+<BODY BACKGROUND="active_background.gif">
+<H3 ALIGN=Center>NetShade 2.0 for Windows 95</H3><P>
+</P><CENTER>
+<TABLE CELLSPACING="0" CELLPADDING="0"><TR><TD>
+<IMG
+ISMAP ALIGN=Middle SRC="NS2_screen1.GIF" WIDTH="378"
+HEIGHT="397">
+</TD></TR>
+<TR><TD><CENTER>
+<TABLE BORDER CELLSPACING="0" CELLPADDING="10"><TR><TD><A
+HREF="netshade.html">Go Back</A>
+</TD><TD><A HREF="NS2_screen_page2.html">View the "Security Levels" pane</A>
+</TD></TR></TABLE></CENTER>
+</TD></TR></TABLE></CENTER><P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-14</DOCNO>
+<DOCOLDNO>IA060-000337-B002-276</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/connect.html 206.148.208.105 19970115073339 text/html 7128
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:32:13 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18979853313533897; path=/
+Content-length: 6904
+Last-modified: Thu, 02 Jan 1997 23:38:45 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> AtemiConnect(TM): LAN Across the Internet </TITLE>
+</HEAD><BODY BGCOLOR="#ffffff" TEXT="#000000"><H1><CENTER>AtemiConnect<SUP>(TM)</SUP>:
+LAN Across the Internet
+</CENTER>
+</H1><P><HR WIDTH=90%
+SIZE=4>
+<P>
+<H2>Page Contents:
+</H2><UL><LI><A href="#whatis">What is
+AtemiConnect?</A>
+<LI><A HREF="#business">How can I use AtemiConnect?</A>
+<LI><A HREF="#ARA">How is AtemiConnect different from Apple
+Remote Access?</A>
+<LI><A href="#intersec">Aren't there serious security concerns
+associated with Internet networking?</A>
+<LI><A href="#integrate">Can
+AtemiConnect's technology be integrated into other applications?</A>
+</UL><P><HR WIDTH=90%
+SIZE=4>
+
+<A name="whatis"></A>
+<H2><A name="whatis">What is AtemiConnect?</A>
+</H2><P><A name="whatis">AtemiConnect is a utility that
+lets you establish an AppleTalk network connection over the Internet.  This
+product lets you connect your Macintosh to a remote AppleTalk LAN via the
+Internet, giving you access to all the data, programs and services on that
+LAN.
+When used with NetShade(TM), Atemi's network security utility, AtemiConnect
+sets
+up a <B>secure virtual network</B> across the Internet.  File sharing, remote
+backups, groupware, LAN-based e-mail, printing, etc. -- anything that you
+can do
+over your AppleTalk LAN can now be done over the Internet as well.  (The
+client
+and server must both be running the AtemiConnect software before the link
+can be
+established, and the remote LAN's AppleShare security settings will apply
+to the
+link.)</A>
+<P><A name="whatis"></A>
+<P><A name="whatis"> <HR WIDTH=90% SIZE=4> <A name="business"></A></A>
+<H2><A name="whatis">How can I use AtemiConnect?</A>
+</H2><P><A name="whatis"> AtemiConnect is designed to bridge the gap between
+LAN and
+Internet networking.  The old mindset for Internet use is
+that the network services available over the Internet are limited -- FTP,
+Web
+browsers, etc. -- and that you need special Internet-specific programs to
+use
+them.  With AtemiConnect, anything you can do over a LAN can be done across
+the
+Internet, using the same LAN-based applications that you use today.  In the
+short
+term, this product will save you money on long-distance modem connections
+and
+FAXes.  In the long term, it will help your organization share its resources
+more
+effectively and efficiently.</A>
+<P><A name="whatis"> </A>AtemiConnect offers a number of useful applications,
+including:
+<UL><LI>Replacement of ARA for telecommuting. &nbsp;The telecommuter can
+place a local call to a service provider instead of a long distance phone
+call. &nbsp;Also, if high speed lines are available, AtemiConnect can take
+advantage of the higher throughputs.
+<LI>Replacement of Fax. &nbsp;You can select remote Appletalk printers the
+same way as file servers. &nbsp;So, instead of sending faxes, you can print
+directly to a printer at a remote location. &nbsp;This allows for high
+resolution, color, and no long distance charges.
+<LI>Database applications. &nbsp;Use LAN-based database products over the
+Internet without modification.
+<LI>Games. &nbsp;Some LAN games (such as F18 Hornet) can be played head-to-head
+with people across the world.
+</UL><P><A name="whatis"><HR WIDTH=90% SIZE=4> </A>
+<H2><A NAME=ARA>How is AtemiConnect different from
+Apple Remote Access?</A>
+</H2><P><A name="whatis">There are two important distinctions between these
+two
+products. ARA uses your modem and a telephone line to exchange AppleTalk
+data,
+whereas AtemiConnect uses the Internet to accomplish the same purpose.  Since
+the
+cost of an Internet connection is usually much less than the cost of a
+long-distance phone call -- especially if you are connecting to someone in
+another country -- AtemiConnect is a much more cost-effective way to share
+information than ARA.</A>
+<P><A name="whatis"> The second major difference is connectivity.  If you
+want to allow multiple remote users to connect to your AppleTalk network
+at once,
+ARA requires you to purchase a "multiport server" -- an expensive piece of
+hardware that allows you to make multiple modem connections to a server at
+the
+same time -- and a modem for each simultaneous connection you wish to allow.
+ By
+contrast, AtemiConnect doesn't require any extra hardware at all; multiple
+users
+can use AtemiConnect to establish simultaneous AppleTalk sessions with a
+single
+server.</A>
+<P><A name="whatis"></A>
+<P><A name="whatis"> <HR WIDTH=90% SIZE=4>
+
+<A name="intersec"></A></A>
+<H2><A name="whatis">Aren't there serious security concerns associated with
+Internet networking?</A>
+</H2><P><A name="whatis">Yes.  The Internet is a notoriously insecure
+medium, and just about anything you send over it can easily be read by an
+intruder.  Most experts agree that if you plan to send any important business
+information over the Internet, you will need a way to keep it safe from outside
+eyes.</A>
+<P><A name="whatis"> Fortunately, there is a simple way to keep your AtemiConnect
+sessions
+private.  By combining this utility with Atemi's
+<A
+href="netshade.html">NetShade</A> network security software, your
+AtemiConnect data will be sent over a <B>secure virtual link</B>.  NetShade
+is designed
+to protect all the AppleTalk data sent from your Macintosh, making it an
+ideal
+way to keep AtemiConnect sessions out of the hands of intruders.  (Once
+installed, NetShade will automatically protect your ARA and LAN data as well;
+see
+the description of <A href="netshade.html">NetShade v1.1</A> for more
+information.)</A>
+<P>
+<P> <HR WIDTH=90% SIZE=4>
+
+<A name="integrate"></A>
+<H2><A name="integrate">Can AtemiConnect's technology be integrated into
+other
+applications?</A>
+</H2><P><A name="integrate">Yes, easily.  Application developers will find
+AtemiConnect to
+be the easiest way to add Internet support to any LAN-based application.</A>
+<P><A name="integrate">
+AtemiConnect is designed to operate independently of all types of applications,
+so this technology can be bundled onto any LAN application just by adding
+AtemiConnect to that application's installation disk.  This will add value
+not
+only to the application, which will now be able to communicate across the
+Internet, but also to your customers' Internet connections: they will be
+able to
+use the Internet to share data and resources around the world.  For more
+information on our licensing programs, contact
+<A
+href="mailto:support@atemi.com">Atemi Corporation</A>.</A>
+<P> 
+<P>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-15</DOCNO>
+<DOCOLDNO>IA060-000337-B002-303</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/netshade11.html 206.148.208.105 19970115073354 text/html 1790
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:32:31 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18858853313551762; path=/
+Content-length: 1566
+Last-modified: Thu, 02 Jan 1997 23:39:08 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>NetShade v1.1: Transparent AppleTalk Encryption</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H1><CENTER>NetShade v1.1:
+Transparent AppleTalk Encryption</CENTER>
+</H1><P><HR WIDTH=90% SIZE=4>
+<UL><LI><A href="security.html">NetShade v1.1 Overview.</A> A detailed
+description of NetShade v1.1, including a description of the problems it
+is designed to address.
+<LI><A href="basic.html">Basic NetShade Operation.</A> A simple discussion
+of how NetShade v1.1 establishes secure links between network users.
+<LI><A href="advanced.html">Advanced NetShade Operation.</A> A more technical
+discussion of NetShade's functionality.  This document describes NetShade's
+use of the <A href="http://www.rsa.com/">RSA public
+key cryptosystem</A>, describes how NetShade works in different network
+configurations, and more.
+<LI><A href="screenshot.html">NetShade v1.1 Screen Shots.</A> Two screen
+shots from the NetShade v1.1 interface.
+<LI><A href="specs.html">NetShade v1.1 Spec Sheet.</A> Specifications for
+NetShade v1.1.
+</UL><P>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-16</DOCNO>
+<DOCOLDNO>IA060-000337-B003-323</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/NS2_screen_page2.html 206.148.208.105 19970115073753 text/html 774
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:36:32 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18815853313792503; path=/
+Content-length: 551
+Last-modified: Thu, 02 Jan 1997 23:39:53 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>NetShade 2.0 Screen Shot</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H3 ALIGN=Center>NetShade
+2.0 for Windows 95
+</H3><P>
+</P><CENTER><TABLE CELLSPACING="0" CELLPADDING="0"><TR><TD><IMG
+ISMAP ALIGN=Middle SRC="NS2_screen2.GIF" WIDTH="378"
+HEIGHT="397">
+</TD></TR><TR><TD><CENTER>
+<TABLE BORDER CELLSPACING="0" CELLPADDING="10"><TR><TD><A
+HREF="netshade.html">Go Back</A>
+</TD><TD><A HREF="NS2_screen_page.html">View the "Main Controls" pane</A>
+</TD></TR></TABLE></CENTER></TD></TR></TABLE></CENTER><P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-17</DOCNO>
+<DOCOLDNO>IA060-000337-B003-352</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/security.html 206.148.208.105 19970115073803 text/html 8363
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:36:42 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18865853313802577; path=/
+Content-length: 8139
+Last-modified: Thu, 02 Jan 1997 23:40:45 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> NetShade v1.1 Overview</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1><CENTER>NetShade v1.1 Overview </CENTER>
+</H1><P><HR WIDTH=90% SIZE=4>
+<H2>Page Contents:
+</H2><UL><LI><A href="#issues">What do I need to know about network
+security?</A>
+<LI><A href="#different">How is NetShade different from other network
+security products?</A>
+<LI><A href="#works">How does NetShade work?</A>
+<LI><A href="#screen">What does NetShade's interface look like?</A>
+<LI><A href="#specs">What platforms does NetShade support?</A>
+<LI><A href="#future">When will NetShade be available for other
+platforms and protocols?</A>
+<LI><A href="#algs">What encryption algorithms does NetShade
+support?</A>
+<!-- <li><a href="#table">Main menu</a>-->
+</UL><P><HR WIDTH=90% SIZE=4>
+
+<A name="issues"></A>
+<H2><A name="issues">What you need to know about network
+security</A>
+</H2><P>Most people don't realize that <B>everything</B> sent over most networks
+and modem links
+can be intercepted and read by anyone who cares to listen.  Using a common
+network management tool called a
+<A href="http://www.cis.ohio-state.edu/text/faq/usenet/computer-security/sniffers/faq.html">
+protocol analyzer</A>, it is easy for anyone with access to your network
+to tap into all the
+data sent over it -- including passwords, user IDs, e-mail, shared files,
+etc.
+<P>For telecommuters, the eavesdropping problem is even more critical.  The
+telephone
+is a notoriously insecure medium, and there are dozens of ways for a determined
+intruder
+to access your telephone lines and tap into data sent during a remote session.
+ This problem
+puts business data at so much risk that many organizations do not let their
+employees telecommute at all.
+<P>
+Fortunately, there is a simple way to protect your AppleTalk network users
+and ARA telecommuters
+from these attacks.  NetShade v1.1 prevents eavesdropping and spoofing by
+<A
+href="http://www.rsa.com/rsalabs/faq/faq_gnrl.html">encrypting</A> all
+of your AppleTalk sessions before they reach the network.  To an eavesdropper,
+all of your network and ARA traffic will be completely unintelligible.
+<P>
+Here's how it works: when you send a message to another NetShade user, NetShade
+transforms it into <B>ciphertext</B> using a complex <B>secret key</B> (known
+only to you and the 
+message's recipient). To prevent an intruder
+from analyzing and duplicating your secret key, NetShade changes it
+with every new network session, and uses <A href="http://www.rsa.com/">RSA's
+public
+key
+cryptosystem</A> to share the new key securely with the receiving
+party.
+<P>
+If you need more speed or more security at any time, NetShade can change
+the way it
+encrypts your network data.  The military-strength
+<A
+href="http://www.rsa.com/rsalabs/faq/faq_des.html">DES</A>
+and Triple DES algorithm upgrades are available for maximum data
+protection, while the proprietary NightShade(TM) Algorithm scrambles data
+so fast that
+you won't even notice it running.
+<P>
+NetShade's ability to encrypt all your AppleTalk data automatically and invisibly
+makes it unique among software security products.  Your network users will
+never have to
+decide which data is sensitive enough to merit protection; in fact, they
+won't even need
+to change the way they use their network applications at all.  Best of all,
+you won't ever need to upgrade
+NetShade to support a new network application; groupware, multimedia tools
+and any other application
+that uses AppleTalk will be secured automatically and invisibly.
+<P>
+NetShade v1.1 -- just turn it on and leave it on, and rest assured that your
+entire network will remain
+safe and private.
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<H2><A name="different">How is NetShade different from other network
+security products?</A>
+</H2><H3><CENTER>NetShade is Flexible.</CENTER>
+</H3><P>NetShade protects all types of network traffic--regardless of source,
+purpose or
+destination--from being intercepted and analyzed by hackers or
+industrial spies. &nbsp;Security is not limited to a single application.
+<P>
+<CENTER></CENTER>
+<H3><CENTER>NetShade is Easy to Use.</CENTER>
+</H3><P>Because NetShade is so easy to install, configure and operate, you
+won't need to train your personnel in how to use it.  And because
+NetShade is so affordable, you can use it to secure every machine across
+your enterprise, rather than buying expensive protection for a few
+"mission critical" network users and leaving everyone else vulnerable
+to network attacks.
+<P>
+<CENTER></CENTER>
+<H3><CENTER>NetShade is Invisible.</CENTER>
+</H3><P>NetShade is designed to be as inconspicuous as possible.  Once you
+have
+loaded and configured NetShade, you won't ever have to think about it
+again; all of your network traffic will be encoded automatically and
+invisibly, preventing anyone other than the intended recipients from
+reading it.  And since NetShade won't slow your network's speed
+noticeably, it's easy to forget that NetShade was even installed on
+your computer.
+<CENTER></CENTER>
+<H3><CENTER>NetShade Secures Everything.</CENTER>
+</H3><P>NetShade is the only network security solution designed to protect
+<B>everything</B> you send over your network without affecting the way
+you work.  Now, network security can be the rule for your organization,
+rather than the exception.
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<A name="works"></A>
+<H2><A name="works">How does NetShade work?</A>
+</H2><P>Atemi has developed two papers to answer this question:
+<UL><LI><A HREF="basic.html">Basic NetShade Operation.</A>
+This paper offers a high-level explanation of how NetShade protects network
+traffic from eavesdroppers.  This is a non-technical look at NetShade's
+operation.
+<P>
+<LI><A href="http://www.atemicorp.com/advanced.html">Advanced NetShade
+Operation.</A> This paper covers NetShade's functionality from a technical
+perspective.  Topics here include RSA keypair exchange, insecure session
+handling, multi-algorithm operation, NetShade and non-encrypting devices,
+and
+NetShade configuration on a LAN, on a WAN, and over Apple Remote Access.
+</UL><P>
+<HR WIDTH=90% SIZE=4>
+<H2><A name="screen">What does NetShade's interface look like?</A>
+</H2><P>To see a screen shot from NetShade v1.1, click
+<A
+href="screenshot.html">here</A>.
+<P>
+<HR WIDTH=90% SIZE=4>
+<H2><A name="specs">What platforms does NetShade support?</A>
+</H2><DL><DT><B>Platforms supported:</B>
+<DD>MacOS (Accelerated for PowerMac)
+<DT>
+<DT><B>Protocols supported:</B><BR>
+<DD>AppleTalk, including Apple Remote Access (ARA)
+<DT><B>System requirements:</B><BR>
+<DD>Macintosh SE/30 or larger with at least 2 MB of RAM
+<DD>Apple System 7.0 or later
+<DD>AppleTalk version 57 or later
+</DL><P><HR WIDTH=90% SIZE=4>
+<H2><A name="future">When will NetShade be available for other
+platforms and network protocols?</A>
+</H2><P>See the information on <A href="ns2.html">NetShade v2.0</A> for the
+answer to this question.
+<P>
+
+<HR WIDTH=90% SIZE=4>
+<H2><A name="algs">What encryption algorithms does NetShade
+support?</A>
+</H2><P>At the present time, NetShade supports three main algorithms:
+<A href="http://www.rsa.com/rsalabs/faq/faq_des.html">DES</A>,
+Triple DES, and the NightShade Algorithm.  DES and Triple DES provide
+the strongest security, while NightShade is designed to maximize
+network throughput.  The RSA public key cryptosystem is used to share
+the secret keys for these algorithms securely.
+<P>
+Atemi is willing to develop NetShade modules for any encryption
+algorithm requested by our customers.  We are currently considering
+developing modules for RC5, IDEA and Blowfish; if you are interested in
+using these ciphers (or any others) with NetShade, please call us
+directly.
+<P>
+<P>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-18</DOCNO>
+<DOCOLDNO>IA060-000337-B003-382</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/basic.html 206.148.208.105 19970115073838 text/html 5432
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:37:06 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18974853313826908; path=/
+Content-length: 5208
+Last-modified: Thu, 02 Jan 1997 23:38:10 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> Basic NetShade Operation</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1><CENTER>Basic NetShade Operation </CENTER>
+</H1><P><HR WIDTH=90% SIZE=4>
+<P>
+NetShade is fairly easy to operate, but because it operates invisibly, it
+is not
+always obvious how your network data is being protected.  To help explain
+how
+this application works, we have developed a series of case studies that
+demonstrate how NetShade establishes secure sessions in a simple network
+environment.
+<P>
+If you are more interested in how NetShade handles RSA keypair exchange,
+insecure
+session requests and multiple encryption algorithms, or how NetShade could
+be
+installed on a LAN, WAN or Apple Remote Access (ARA) environment, consult
+the
+document titled <A href="advanced.html">Advanced NetShade Operation</A>.
+<P>
+<HR WIDTH=90% SIZE=4>
+<H2>Page Contents:
+</H2><UL><LI><A href="#case1">Case 1: An Insecure Network</A>
+<LI><A href="#case2">Case 2: Two NetShade Users</A>
+<LI><A href="#case3">Case 3: Adding a Fourth User</A>
+</UL><P><HR WIDTH=90% SIZE=4>
+<A name="case1"></A>
+<H2><A name="case1">Case 1: An Insecure Network</A>
+</H2><P>Figure 1 illustrates an extremely simple network with just three
+users: Alice,
+Bob and Trent.  Whenever one of these users wants to send private data to
+another
+user over the network, they are faced with a problem: the way the network
+is
+constructed means that the data will be sent to <B>all</B> the users on the
+network.
+<P>
+<CENTER><IMG src="11.GIF"></CENTER>
+<P>
+This means that normally, if Alice was sending network data (e-mail, shared
+files, etc.) to Bob, Trent's machine would also receive the data, but would
+then
+discard it after recognizing that the data was intended for Bob.  But using
+a
+common network utility called a <B>protocol analyzer</B>, Trent can capture
+and
+record the data before his machine discards it.  This method of network
+eavesdropping is essentially undetectable, so Alice and Bob might never know
+that
+Trent has been reading their private correspondence.
+<P>
+<HR WIDTH=90% SIZE=4>
+<H2><A name="case2">Case 2: Two NetShade Users</A>
+</H2><P>NetShade keeps private data out of eavesdroppers' hands by
+<B>encrypting</B> it,
+making it incomprehensible to anyone who doesn't know how to unscramble the
+data.
+ Whenever a network connection between two NetShade users is established,
+NetShade encrypts everything sent between those two machines, creating a
+<B>sealed session.</B>
+<P>
+<CENTER><IMG src="12.GIF"></CENTER>
+<P>
+In Figure 2, Alice has established a sealed session with Bob.  Now, when
+Trent
+tries to eavesdrop on Alice and Bob's network messages, all he will see is
+a
+stream of white noise.
+<P>
+<P>
+<HR WIDTH=90% SIZE=4>
+<A name="case3"></A>
+<H2><A name="case3">Case 3: Adding a Fourth User</A>
+</H2><P>The network environment gets a little more complex when you add a
+fourth network
+entity -- another user, a file server, etc. -- as shown in Figure 3.
+<P>
+<CENTER><IMG src="13.GIF"></CENTER>
+<P>
+As we mentioned in the previous case, NetShade can only set up secure
+sessions between NetShade users.  So if someone else's machine is not protected,
+all the data sent between your machine and that machine will be vulnerable
+to
+eavesdropping attacks.  In Figure 3, Bob has currently established a sealed
+session with Alice, and is also connected to Carol.  But since Carol is not
+running NetShade, Trent will be able to intercept all the data sent between
+Carol
+and Bob.
+<P>
+<CENTER><IMG src="14.GIF"></CENTER>
+<P>
+Installing NetShade on Carol's machine corrects this problem (see Figure
+4). 
+Now, Bob can establish secure connections with Alice and Carol simultaneously,
+protecting all of his network messages from Trent's eavesdropping attacks.
+Moreover, since each sealed session is protected with a unique key, Alice
+will be
+unable to eavesdrop on Bob's connection with Carol, even though she is running
+NetShade and is connected to Bob.  By the same token, Bob will be unable
+to
+eavesdrop on Alice's connection with Carol.
+<P>
+Because Trent is not running NetShade, all of his network data will be vulnerable
+to eavesdropping, even if he is connected to someone who is running NetShade.
+Everyone else on the network, however, will be able to share their private
+data
+without fear of being overheard.  (Note: If Alice or Bob would rather not
+allow
+Trent to connect with their machines over an insecure medium, NetShade can
+also
+be configured to reject all insecure connections.  This feature is described
+in
+more detail in the document titled <A href="advanced.html">Advanced NetShade
+Operation.</A>)
+<P>
+<HR WIDTH=90% SIZE=4>
+<CENTER></CENTER>
+<P><CENTER>
+Click <A href="advanced.html">here</A> to read "Advanced NetShade
+Operation."</CENTER>
+<P><CENTER><HR WIDTH=65%></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-19</DOCNO>
+<DOCOLDNO>IA060-000337-B003-411</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/advanced.html 206.148.208.105 19970115073905 text/html 14744
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:37:44 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18862853313864398; path=/
+Content-length: 14519
+Last-modified: Thu, 02 Jan 1997 23:37:53 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> Advanced NetShade Operation</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1><CENTER>Advanced NetShade Operation
+</CENTER>
+</H1><P><HR WIDTH=90% SIZE=4>
+<P>
+This document contains some fairly detailed descriptions of NetShade's security
+features.  If any of this information seems confusing or overly technical
+to you,
+consider reviewing the <A href="basic.html">Basic NetShade Operation</A>
+document.
+<P>
+<H2>Page Contents:
+</H2><UL><LI><A href="#RSA">RSA keypair exchange</A>
+<LI><A href="#insecure">Handling insecure session requests</A>
+<LI><A href="#multi">Using multiple encryption algorithms</A>
+<LI><A href="#printers">Printers and other unencrypting devices</A>
+<LI><A href="#environment">NetShade network configurations: LAN, WAN, ARA</A>
+</UL><P><HR WIDTH=90% SIZE=4>
+<A name="RSA"></A>
+<H2><A name="RSA">RSA Keypair Exchange</A>
+</H2><P>NetShade uses <B>secret key encryption</B> to encrypt all the network
+data sent
+to and from each protected machine.  Secret key encryption methods use a
+single
+secret key to lock and unlock data.  Therefore, only the people with the
+key can
+decrypt it.  This key must, of course, be kept secret from all third parties.
+<P>
+Of course, the main problem with secret key encryption is finding a safe
+way to
+distribute the secret keys.  Fortunately, a number of methods have been developed
+for secure key distribution.  We use one called the
+<A
+href="http://www.rsa.com/">RSA public key cryptosystem</A>.
+<P>
+Instead of a single secret key, RSA uses a <B>keypair</B>, consisting of
+a public
+and a private key.  These keys are complements of one another; something
+encrypted with the public key can be unlocked only with the private key,
+and
+something encrypted with the private key can only be unlocked with the public
+key.
+<P>
+This is very useful.  In practice, the public key may be distributed freely
+to
+anyone (hence its name), whereas the private key is kept secret.  If Alice
+wants
+to send a message to Bob, she can encrypt it with his public key.  Once this
+has
+been done, no one (not even Alice) can unlock the message.  The only way
+it can
+be unlocked is with the private key, and Bob is the only one who knows this
+key.
+<P>
+Likewise, if Bob wants to reply, he can encrypt a message with Alice's public
+key; then, only she can unlock it (with her own private key).
+<P>
+NetShade uses the RSA cryptosystem to set up a <B>sealed session</B> between
+any
+two NetShade-equipped machines before they start to communicate over a network.
+The first time these machines try to communicate, NetShade will generate
+a new,
+unique secret encryption key and exchange it using the two machines' RSA
+keypairs.  The process works like this:
+<P>
+<H3>Step 1
+</H3><P>Alice's machine sends a "log-in" request to Bob's machine.  This
+request, which
+is sent in the clear, contains Alice's public key and specifies the algorithm
+that Alice wants to use for encryption (in this case, Alice has set DES as
+her
+active mode).  Remember, it doesn't matter who intercepts the public key;
+it's OK
+for everyone to see it.
+<P>
+<H3>Step 2
+</H3><P>Next, Bob's machine -- which allows the DES communication mode --
+generates a
+secret DES key at random.  This key will be used to encrypt the network traffic
+between the two machines.  The secret key is stored in the memory of Bob's
+machine.
+<P>
+<H3>Step 3
+</H3><P>Next, Bob encrypts the secret DES key using Alice's RSA public key.
+ Bob's
+machine then sends the encrypted key to Alice's machine.  Remember, no one
+will
+be able to steal the secret key as it travels across the network, since it
+is
+encrypted.
+<P>
+<H3>Step 4
+</H3><P>Finally, Alice's machine decrypts the secret key using her RSA private
+key.  At
+this point, both machines have a copy of the secret key.  From this point
+on, all
+transmissions between the two machines will be encrypted with the secret
+DES key.
+<P>
+<HR WIDTH=90% SIZE=4>
+<H2><A name="insecure">Handling Insecure Session Requests</A>
+</H2><P>Most NetShade environments will include a mix of NetShade users and
+unprotected
+machines.  Since NetShade cannot establish secure sessions with unprotected
+machines, having a greater number of unprotected machines on a network makes
+it
+more likely that someone will establish an insecure connection to your machine.
+<P>
+NetShade lets you decide how your machine will handle requests for insecure
+sessions.  If you want to ensure that data from your machine can only be
+sent
+over a secure channel, you can tell NetShade to allow only secure (i.e.,
+encrypted) connections with your machine.  If you wish to allow insecure
+connections, you may choose to have NetShade warn you whenever someone
+establishes such a connection with your machine.
+<P><A name="fig1"><CENTER><IMG src="21.GIF"></CENTER></A>
+<P>
+In Figure 1, we see that Alice has configured NetShade to allow insecure
+connections, but to warn her whenever an insecure session is about to take
+place.
+ By contrast, Bob has set his copy of NetShade to reject any attempt to set
+up an
+insecure session.  (Since Alice, Bob and Carl will all be using the server,
+the
+server's copy of NetShade has been set to allow all types of connections.)
+<P>
+In this situation, Alice will be able to establish secure connections with
+Bob
+and the server, since both of those machines are running NetShade.  If Alice
+connects to Carl (or vice versa), she will be warned that an insecure connection
+to her machine has been established.  Bob, on the other hand, will only be
+able
+to establish connections with Alice or the server; if he tries to establish
+a
+connection with Carl, NetShade will reject the connection.  Carl won't notice
+anything unusual when connecting with Alice or the server, but he will receive
+a
+"remote machine not responding" message if he tries to connect with Bob.
+<P>
+<HR WIDTH=90% SIZE=4>
+<A name="multi"></A>
+<H2><A name="multi">Using Multiple Encryption Algorithms</A>
+</H2><P>NetShade can establish several different types of secure sessions
+simultaneously,
+giving you even more flexibility in setting the level of security for each
+machine on your network.  Figure 2 shows how the machines in our sample
+configuration might take advantage of this flexibility.
+<P>
+<CENTER><A name="fig2"><IMG src="22.GIF"></A></CENTER>
+<P>
+Each copy of NetShade on this network is able to support four communication
+modes.  Listed from least secure to most secure, those modes are: No encryption,
+NightShade, DES, and Triple DES (NOTE: the standard version of NetShade only
+includes the first two modes; DES and Triple DES are available separately
+or with
+the advanced NetShade Bundles).  From this list of available modes, each
+user
+determines which communication modes will be <B>allowed</B> with his or her
+machine.  Any attempts to communicate with a machine using a mode that is
+not
+allowed will be rejected.
+<P>
+As Figure 2 shows, Alice's machine allows NightShade, DES and unencrypted
+sessions to be established with her machine.  Bob wants more security on
+his
+machine, so he allows only Triple DES and DES connections.  The server allows
+all
+four communication modes.  (Since Carl is not running NetShade, he effectively
+allows only unencrypted communication.)
+<P>
+On each NetShade machine, one of the allowed modes is always set as the
+<B>active
+mode</B>: the preferred method of communication for that machine.  (In Figure
+2,
+each user's active mode is marked with a star.)  Alice prefers to communicate
+using NightShade, since it is the quickest secure algorithm available.  Bob
+has
+set his active mode to Triple DES, since it provides the most security.
+<P>
+Whenever a NetShade machine initiates a connection to another machine, it
+tries
+to establish that connection using its active mode.  If the receiving machine
+does not allow that mode, the initiating machine tries to find a mode that
+both
+machines will allow.  If the recipient machine does not support any of the
+connecting machine's allowed modes, the connection will not be established.
+<P>
+For example, suppose that Alice wants to connect to Bob's machine.  Her active
+mode is NightShade, so she starts by trying to set up a NightShade session
+with
+Bob.  However, Bob doesn't allow the NightShade mode, so Alice's machine
+tries to
+find a mode that both parties will allow.  It turns out that the only mode
+that
+will work is DES, so NetShade establishes a DES session between Alice and
+Bob.
+<P>
+Remember: all of these session negotiation functions happen in the background.
+Each user merely connects to the desired machine using the standard method
+(e.g.,
+mounting a volume with the Chooser); everything else happens automatically
+and
+invisibly.
+<P>
+<HR WIDTH=90% SIZE=4>
+<A name="printers"></A>
+<H2><A name="printers">Printers and Other Unencrypting Devices</A>
+</H2><P>NetShade allows you to specify an "exception list" of devices that
+can only
+receive unencrypted data.  For example, since printers do not support encryption,
+you can add your printer name to this list; even if you have set NetShade
+to
+disallow unencrypted communications, all data sent to the printer will be
+unencrypted.
+<P>
+You can also add the name of a network user to this list.  In our sample
+network
+configuration, for example, Bob could add Carl's name to the exception list.
+This would enable Bob and Carl to communicate insecurely, even though Bob
+would
+typically reject all attempts to establish an insecure session.
+<P>
+To use a printer and retain maximum network security, you can assign a computer
+on your network to act as a dedicated "print spooler."  In this scenario,
+the
+printer is removed from the network and attached directly to the dedicated
+computer; that computer's only job is to forward print jobs to the printer.
+Since the print spooler can run NetShade, this setup allows you to send encrypted
+print jobs over the network.
+<P>
+<HR WIDTH=90% SIZE=4>
+<A name="environment"></A>
+<H2><A name="environment">NetShade Network Configurations</A>
+</H2><P>
+<H3>NetShade on a LAN
+</H3><P>The examples presented in the earlier parts of this document
+(<A
+href="#fig1">Figure 1</A> and <A href="#fig2">Figure 2</A>) describe typical
+NetShade-LAN environments.  Adding more or less users to this type of LAN
+environment would have little impact on NetShade's performance, although
+as more
+network users start to run NetShade, the overall security of the LAN traffic
+will
+rise accordingly.
+<P>
+<H3>NetShade on a WAN
+</H3><P>Running NetShade on a wide-area network (WAN) is fairly similar to
+the LAN
+configuration.  Figure 3 shows a typical NetShade-WAN arrangement.
+<P>
+<CENTER><IMG src="23.GIF"></CENTER>
+<P>
+In a wide-area network, multiple networks are connected using a device called
+a
+<B>router</B>.  When a machine on one network sends data to a machine on
+another
+network, it is passed through the router, which determines where the data
+needs
+to be forwarded.
+<P>
+Since many routers are designed to forward data over insecure public channels
+--
+e.g., the Internet or telephone wires -- many organizations use special
+encrypting routers to ensure that their data cannot be read in transit. 
+But
+since NetShade encrypts your network data at the source and decrypts it at
+its
+destination, no special equipment is needed to secure the routed data.
+<P>
+In fact, since NetShade encrypts and decrypts your network data at the source
+and
+destination points respectively, this is in some ways a superior solution
+to an
+encrypting router.  If the encryption took place at the router level, and
+D
+wanted to send data to G, that data would still be vulnerable to eavesdropping
+by
+all the other users on both networks.  NetShade's point-to-point encryption
+ensures that the data cannot be intercepted at any point in trasit, providing
+substantially more security.  Now, G can connect with J, A, B and D
+simultaneously, secure in the knowledge that no eavesdroppers will be able
+to tap
+into any of these links.
+<P> 
+In some cases, it may be desirable to apply greater security to cross-network
+communication than to single-network data.  Since NetShade can easily be
+upgraded
+to support ultra-secure algorithms such as DES and Triple DES, when you send
+information to a user on a separate network -- for example, when A makes
+a
+connection with J -- you could simply change your active mode to one of these
+algorithms.  After the cross-network connection is broken, you can reset
+your
+active mode to NightShade if you like.
+<P>
+<H3>NetShade over Apple Remote Access (ARA)
+</H3><P>Using NetShade over Apple Remote Access is also very similar to using
+NetShade
+over a LAN.  Figure 4 illustrates a typical NetShade-ARA configuration.
+<P>
+<CENTER><IMG src="24.GIF"></CENTER>
+<P>
+In this scenario, remote user F logs into ARA server E over a dial-up modem
+connection.  The ARA connection allows F to communicate with any machine
+on the
+network, including E.  Assuming that F shares at least one allowed communication
+mode (see <A href="#multi">Using Multiple Encryption Modes</A> section) with
+A,
+B, D and E, all the data sent between F and those machines will be encrypted.
+Since C is not running NetShade, data sent between F and C will not be encrypted.
+ By the same token, even if E (the ARA server) was not running NetShade,
+data
+sent between F and A would still be encrypted.
+<P>
+<H3>Complex NetShade Network Configurations
+</H3><P>One of the most appealing aspects of NetShade is that it can secure
+network
+traffic over complex networks, including those with multiple zones and internets,
+without requiring any knowledge of how the network is set up.  As long as
+your
+NetShade machine can send AppleTalk data to any other NetShade machine --
+regardless of how that data gets there -- you can establish a sealed session
+between those two machines.
+<P>
+If you have any questions regarding the applicability of NetShade to a specific
+network configuration, send us e-mail at
+<A
+HREF="mailto:support@atemi.com">support@atemi.com</A>.
+<P>
+<HR WIDTH=90% SIZE=4>
+<CENTER>
+Click <A href="basic.html">here</A> to read "Basic NetShade
+Operation."</CENTER>
+<P>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-20</DOCNO>
+<DOCOLDNO>IA060-000337-B003-429</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/screenshot.html 206.148.208.105 19970115073916 text/html 1295
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:37:55 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener1885785331387537; path=/
+Content-length: 1072
+Last-modified: Thu, 02 Jan 1997 23:40:40 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>NetShade v1.1 Screen Shot</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H1><CENTER>NetShade v1.1 Screen Shots
+</CENTER>
+</H1><P><CENTER><HR></CENTER>
+<P><CENTER>
+<IMG ALIGN=Top SRC="screen.gif" WIDTH="453" HEIGHT="151"></CENTER>
+<P><CENTER>NetShade Controller, Main Window</CENTER>
+<P><CENTER>(this window can be expanded to show more options; see
+below)</CENTER>
+<P><CENTER>
+<IMG align=top src="bigscreen.gif"></CENTER>
+<P><CENTER>NetShade Controller, Expanded Main Window</CENTER>
+<P><CENTER></CENTER>
+<P><CENTER>
+<CENTER><HR WIDTH=65%></CENTER>
+<CENTER></CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="overview.html">Home</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="free_stuff.html">Free Stuff</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="sales_info.html">Sales</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="product_info.html">Product Info</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="links.html">Links</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-21</DOCNO>
+<DOCOLDNO>IA060-000337-B003-454</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/specs.html 206.148.208.105 19970115073925 text/html 1143
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:38:04 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18864853313884233; path=/
+Content-length: 920
+Last-modified: Thu, 02 Jan 1997 23:40:47 GMT
+</DOCHDR>
+<!doctype html public "-//W30//DTD W3 HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE> NetShade Specifications</TITLE>
+</HEAD><BODY BACKGROUND="active_background.gif"><H1><CENTER>NetShade Specifications
+</CENTER>
+</H1><P>
+<HR WIDTH=90% SIZE=4>
+<H2>NetShade v1.1 Specifications
+</H2><P><B>Platform support:</B>
+<P>MacOS (accelerated for PowerMac)
+<P><B>Protocols supported:</B>
+<P>AppleTalk, including Apple Remote Access (ARA)
+<P><B>System requirements:</B>
+<P>Macintosh SE/30 or larger with at least 2 MB of RAM
+<P>Apple System 7.0 or later
+<P>AppleTalk version 57 or later
+<P><CENTER><HR WIDTH=65%></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A 
+HREF="overview.html">Home</A>
+</TD><TD><A HREF="free_stuff.html">Free Stuff</A>
+</TD><TD><A HREF="sales_info.html">Sales</A>
+</TD><TD><A HREF="product_info.html">Product Info</A>
+</TD><TD><A HREF="links.html">Links</A>
+</TD></TR></TABLE></CENTER><P><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-22</DOCNO>
+<DOCOLDNO>IA060-000337-B003-43</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/Overview.html 206.148.208.105 19970115073505 text/html 1321
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:33:43 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18820853313623721; path=/
+Content-length: 1097
+Last-modified: Mon, 30 Dec 1996 19:49:25 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Aikido at Central Illinois Aikikai</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P><HR>
+<CENTER></CENTER>
+</P><CENTER><TABLE CELLPADDING="2"><TR><TD><CENTER><IMG ALIGN=Middle SRC="osensei.GIF" WIDTH="44" HEIGHT="64">
+</CENTER>
+</TD><TD><IMG ALIGN=Middle SRC="cia_header.GIF" ALT="Central Illinois Aikikai" WIDTH="360" HEIGHT="54">
+</TD></TR></TABLE></CENTER><P>
+<CENTER></CENTER>
+</P><CENTER><TABLE CELLPADDING="2"><TR><TD><IMG ALIGN=Middle SRC="kanji1.GIF"
+WIDTH="96"
+HEIGHT="263">
+</TD><TD><H2 ALIGN=Center>Champaign/Urbana's Only <BR>Non-Profit Aikido
+Center<BR><BR>Affiliated with World Headquarters<BR> in Tokyo, Japan
+</H2><P ALIGN=Center>
+<P ALIGN=Right><A HREF="about_cia.html">About Central Illinois Aikikai</A><BR><A HREF="about_aikido.html">About Aikido</A><BR><A HREF="cia_schedule.html">Class Schedules and Info</A><BR><A HREF="maps_and_directions.html">Maps and Directions</A><BR><A HREF="cia_sign_up.html">How can I sign up for  a class?</A>
+<P ALIGN=Right>
+<H2 ALIGN=Center><FONT SIZE=+1>217-384-6370</FONT>
+</H2></TD></TR></TABLE></CENTER><P><HR>
+<P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-23</DOCNO>
+<DOCOLDNO>IA060-000337-B003-504</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/about_cia.html 206.148.208.105 19970115073955 text/html 1668
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:38:25 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18821853313905249; path=/
+Content-length: 1444
+Last-modified: Mon, 30 Dec 1996 19:48:32 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Central Illinois Aikikai Information</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1 ALIGN=Center><HR>Central Illinois Aikikai
+</H1><P ALIGN=Center><I>2 doors east of Philo Rd. on Washington St.</I><BR>
+<H2><TABLE CELLPADDING="2"><TR><TD><P ALIGN=Right>Central Illinois Aikikai
+is one of over 20 member
+dojos (training halls) in the Midwest Aikido Federation, and
+has continued in Champaign-Urbana since 1974.  It is the
+only Aikido organization in Champaign-Urbana affiliated
+with Hombu Dojo (Tokyo), The United States Aikido
+Federation (USAF), and the Midwest Aikido Federation (MAF).
+Individuals interested in Aikido are welcome to watch
+any class.<BR>
+</TD><TD><IMG ALIGN=Right SRC="dojo.jpg" ALT="(Picture of Dojo)" WIDTH="288"
+HEIGHT="177">
+</TD></TR><TR><TD>
+</TD><TD>
+</TD></TR><TR><TD><IMG ALIGN=Left SRC="shrine.jpg" ALT="(Picture of Shomen)"
+WIDTH="252" HEIGHT="146">
+</TD><TD><P ALIGN=Center>
+<P ALIGN=Center>
+<P ALIGN=Center>If you have any questions, feel free to call us at 384-6370. &nbsp;Note
+that you will probably have to leave a message.
+<P ALIGN=Center>
+<P>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><CENTER><A 
+HREF="Overview.html">CIA
+Home Page
+</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="maps_and_directions.html">Maps</A>
+</CENTER>
+</TD><TD><CENTER><A HREF="cia_schedule.html">Schedule</A>
+</CENTER>
+</TD></TR></TABLE></CENTER><P>
+</TD></TR></TABLE><P><HR>
+</H2><P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-24</DOCNO>
+<DOCOLDNO>IA060-000337-B004-7</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/about_aikido.html 206.148.208.105 19970115074010 text/html 6390
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:38:45 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18975853313925955; path=/
+Content-length: 6166
+Last-modified: Mon, 30 Dec 1996 19:48:30 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>About Aikido</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P><HR>
+<H1 ALIGN=Center>About Aikido
+</H1><P><A HREF="#what_is_aikido">What is Aikido?</A>
+<P><A HREF="#history_of_aikido">History of Aikido</A>
+<P><A HREF="#why_study_aikido">Why Study Aikido?</A>
+<P><A HREF="http://www.yahoo.com/Recreation/Sports/Martial_Arts/Aikido/">Yahoo's
+Aikido Page</A>
+<P>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A HREF="Overview.html">CIA
+Home Page
+</A>
+</TD></TR></TABLE></CENTER><P><HR>
+<H2><A NAME=what_is_aikido>What is Aikido?</A>
+</H2><P><I>"Aikido is the principle of nonresistance.  Because it is
+nonresistant, it is victorious from the beginning.
+Those with evil intentions or contentious thoughts
+are instantly vanquished." -- Morihei Ueshiba, Founder of Aikido</I>
+<BR><BR>
+Aikido is a modern Japanese martial art with roots in Jujitsu, Kendo,
+and Judo.  It emphasizes unbalancing throws and pins,
+and the student learns how to redirect an attacker's motions instead of
+trying to stop them by force.  As a result, balance and perception
+become more important than physical size or strength.
+<BR><BR>
+The name of Aikido is composed of three Japanese words: <I>ai</I>,
+meaning harmony; <I>ki</I>, spirit or energy; <I>do</I>, the path,
+system or way.  Aikido is <I>the way of the spirit of harmony.</I>
+<BR><BR>
+Martial arts are studied for self-defense and self-improvement,
+but Aikido is different from other martial arts in that the
+practitioner seeks to achieve self-defense without injury to
+attackers.  Instead of being a tool for the correction of others,
+Aikido is a way through which students become more aware of their
+own potentials and limitations.
+<BR><BR>
+Aikido is not a sport.  There are no competitive tournaments.
+The Aikidoist betters his or her self without belittling others.
+And because Aikido seeks no harm to others, techniques can be
+practiced at full power without fear of injury.
+<P><HR>
+<H2><A NAME=history_of_aikido>A History of Aikido</A>
+</H2><P>Morihei Ueshiba, called <I>O-Sensei</I> (meaning "great teacher"),
+founded the martial art known throughout the world today as
+Aikido.  Born in 1883 in Japan, he dedicated himself to becoming strong
+after seeing his father attacked by political opponents.  He sought
+out and studied with masters in several martial arts, eventually
+becoming an expert in jujitsu (the art of weaponless combat),
+kenjitsu (combat with a sword), and sojitsu (combat with a spear).
+<BR><BR>
+Dissatisfied with mere strength and technical mastery,
+he also immersed himself in religious and philosopical studies.
+The stories of his immense physical strength and martial
+prowess are impressive enough, but more important is the
+legacy of non-violence and human integrity he has left mankind.
+<BR><BR>
+In early 20th-century Japan, involvement in the martial parts
+was a competitive and dangerous business.  Contests, feuds
+and rivalries often resulted in injuries and deaths.
+The formulation of Aikido dates from an incident that
+occured in 1925.  In the course of a discussion about the
+martial arts, a disagreement arose between O-Sensei and a
+naval officer who was also a fencing instructor.
+The officer challenged O-Sensei to a match, and attacked with
+a wooden sword.  O-Sensei faced the officer unarmed, and won
+the match by evading blows until his attacker dropped
+from exhaustion.  O-Sensei later recalled that he had felt
+his opponent's movements before they where executed, and that
+this was the beginning of his enlightenment.  He had
+defeated an armed attacker without hurting him -- without
+even touching him.
+<BR><BR>
+O-Sensei later wrote: <I>"Budo (the Martial Way) is not
+felling the opponent by our force; nor is it a tool to lead
+the world into destruction with arms.  True budo is to accept
+the spirit of the universe, keep the peace of the world,
+correctly produce, protect and cultivate all things in Nature."</I>.
+<BR><BR>
+O-Sensei continued to practice and teach Aikido into his old age.
+Observers marveled at his martial abilities, vitality, and
+good humor.  He was still giving public demonstrations of Aikido
+at age 86, four months before his death.
+After he passed away on April 26, 1969, the Japanese government
+postumously declared Morihei Ueshiba a Sacred National Treasure
+of Japan.
+<BR><BR>
+O-Sensei's son, Kissomaru Ueshiba, inherited the title
+<I>Doshu</I> ("Leader of the Way") and continues his
+father's work at Hombu Dojo, Aikido World Headquarters, in
+Tokyo, Japan.  Today, Aikido is practiced by men, women
+and children throughout the world, and O-Sensei's
+teachings enrich the lives of thousands of people.
+<P><HR>
+<H2><A NAME=why_study_aikido>Why Study Aikido?</A>
+</H2><P>Aikido offers practical self-defense, but more importantly,
+it teaches self-improvement.  Aikido is more than the study
+of physical techinques.  Proper etiquette, attitude and
+behavior are also emphasized.  Throwing and falling are
+stressed equally -- one's practice partner is not an opponent.
+Techniques are acquired by being thrown, and
+practiced by throwing.  Aikido improves not only one's
+physical conditioning (stamina, balance, flexibility,
+coordination, strength and resilience) but also mental
+conditioning:  self confidence, concentration, alertness
+and concern for others.
+<BR><BR>
+Also, Aikido has an ethic:  <I>to defend yourself without
+vengeance, to forgive your enemies, and to harmonize with
+any attack of any description.</I>  Aikido technique is a
+metaphor for a way to lead your life:  avoid confrontations,
+harmonize with unavoidable challenges, and maintain grace
+under pressure through good times and bad.
+<BR><BR>
+Because Aikido does not depend on physical strength, it is
+attractive to men and women of all sizes and ages, and can
+be practiced well into old age.  In addition to empty-handed
+techniques, techniques using or defending against weapons
+such as the <I>jo</I> (walking staff), <I>bokken</I>
+(wooden sword), and <I>tanto</I> (knife) are also taught.
+<BR><BR>
+<HR>
+<P>
+<CENTER></CENTER>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A 
+HREF="Overview.html">CIA
+Home Page
+</A>
+</TD></TR></TABLE></CENTER><P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-25</DOCNO>
+<DOCOLDNO>IA060-000337-B004-39</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/cia_schedule.html 206.148.208.105 19970115074038 text/html 1719
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:39:05 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener1897685331394514; path=/
+Content-length: 1496
+Last-modified: Mon, 30 Dec 1996 19:48:47 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Class Schedule</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P><HR>
+<H1><P ALIGN=Center>Class Schedule
+</H1><PRE><P>
+<P>Mon  6:45 -  7:45 pm  John Brandon      (Adult Beginners' Class)
+<P>     8:00 -  9:00 pm  Rick Kubetz       (Adult Class)
+<P>Tue  6:45 -  7:45 pm  Mark Valentine    (Adult Class)
+<P>     8:00 -  9:00 pm  Knut Bauer        (Advanced Adult Class)
+<P>                                        (instructor's invitation only)
+<P>Wed  5:30 -  6:30 pm  John Brandon      (Youth Class)
+<P>     6:45 -  7:45 pm  Patrick Hammond   (Adult Beginners' Class)
+<P>     8:00 -  9:00 pm  instructor varies (Adult Class)
+<P>Thu  6:45 -  7:45 pm  Knut Bauer        (Adult Class)
+<P>     8:00 -  9:00 pm  Knut Bauer        (Adult Class)
+<P>Fri  6:45 -  7:45 pm  Mark Valentine    (Adult Class)
+<P>Sat  9:00 - 10:00 am  John Brandon      (Advanced Youth Class)
+<P>                                        (instructor's invitation only)
+<P>Sat 10:15 - 11:15 am  John Brandon      (Youth Class)
+<P>Sun 10:00 - 11:00 am  Knut Bauer        (Adult Class)
+</PRE><P>Beginners classes run for ten weeks, twice a week. &nbsp;The entire session costs $35. &nbsp;You can start at any time by showing up a few minutes early.
+<P>Regular monthly dues for members are $35 for non-students, $25 for students.
+<P>Feel free to show up and watch any class.
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A 
+HREF="Overview.html">CIA
+Home Page
+</A>
+</TD></TR></TABLE></CENTER><P><HR>
+<P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-26</DOCNO>
+<DOCOLDNO>IA060-000337-B004-68</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/maps_and_directions.html 206.148.208.105 19970115074108 text/html 746
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:39:43 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18979853313983731; path=/
+Content-length: 523
+Last-modified: Mon, 30 Dec 1996 19:49:21 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Maps and Directions</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P><HR>
+<H1 ALIGN=Center>Maps and Directions
+</H1><P><A HREF="simple_map.html">A simple map of the area near the dojo</A>
+<P><A HREF="campus_directions.html">Directions from University of Illinois campus</A>
+<P><A HREF="interstate_directions.html">Directions from interstate highways</A>
+<P>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A 
+HREF="Overview.html">CIA
+Home Page
+</A>
+</TD></TR></TABLE></CENTER><P><HR>
+<P>
+<P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-27</DOCNO>
+<DOCOLDNO>IA060-000337-B004-105</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/cia_sign_up.html 206.148.208.105 19970115074137 text/html 720
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:40:16 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18858853314016483; path=/
+Content-length: 497
+Last-modified: Mon, 30 Dec 1996 19:48:48 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Class Sign Up</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P><HR>
+<H2>How can I sign up for a class?
+</H2><P>For now, just go ahead and show up at a scheduled beginners' class.
+&nbsp;(Just check our <A HREF="cia_schedule.html">schedule</A>.) &nbsp;To
+find our dojo, take a look at our
+<A HREF="maps_and_directions.html">maps</A>.
+<P>
+</P><CENTER><TABLE BORDER CELLPADDING="2"><TR><TD><A 
+HREF="Overview.html">CIA
+Home Page
+</A>
+</TD></TR></TABLE></CENTER><P><HR>
+<P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-28</DOCNO>
+<DOCOLDNO>IA060-000337-B004-125</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/simple_map.html 206.148.208.105 19970115074153 text/html 2501
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:40:31 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18978853314031708; path=/
+Content-length: 2277
+Last-modified: Mon, 30 Dec 1996 19:49:33 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Central Illinois Aikikai</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1 ALIGN=Center><HR>Surrounding Area
+</H1><PRE><P ALIGN=Center>
+<P ALIGN=Center> |                                     N                         |
+<P ALIGN=Center> |Cottage Grove Ave.                   ^                         |
+<P ALIGN=Center> |                                     |                         |
+<P ALIGN=Center> |                                    -+-             Glover Ave.|
+<P ALIGN=Center> |                                     |                         |
+<P ALIGN=Center> |                                                               |
+<P ALIGN=Center> |                                                               |
+<P ALIGN=Center> |                                                               |
+<P ALIGN=Center> |                                                               |
+<P ALIGN=Center> |\                                                              |
+<P ALIGN=Center> | \                                                             |
+<P ALIGN=Center> |  \                                                            |
+<P ALIGN=Center> |   \      +------------+     Central Illinois Aikikai          |
+<P ALIGN=Center> |    \     | Hansen's   |      |   +-----------------------+    |
+<P ALIGN=Center> |     \    | Auto       |      +-&gt; |                       |    |
+<P ALIGN=Center> |      \   | Repair     |          |                       |    |
+<P ALIGN=Center> |       \  +------------+          |                       |    |
+<P ALIGN=Center> |        \                         |                       |    |
+<P ALIGN=Center> |         \                        |                       |    |
+<P ALIGN=Center> |          \                       +-----------------------+    |
+<P ALIGN=Center> |           \                                                   |
+<P ALIGN=Center>    -+------------+--------------------------------------------------+----
+<P ALIGN=Center> |            |                 Washington St.                   |
+<P ALIGN=Center> |            |                                                  |
+<P ALIGN=Center> |            |Philo Rd.                                         |
+</PRE><P ALIGN=Center><HR>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-29</DOCNO>
+<DOCOLDNO>IA060-000337-B004-166</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/campus_directions.html 206.148.208.105 19970115074225 text/html 796
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:40:46 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18861853314046527; path=/
+Content-length: 573
+Last-modified: Mon, 30 Dec 1996 19:48:34 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Directions from U of I Campus</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><H1 ALIGN=Center><HR>Directions from U of I Campus
+</H1><P>Take Green Street east until it ends at Lincoln Square Mall.
+<P> Turn right on Race Street, and continue to the intersection with E. Washinton Street.
+<P>Turn left on E. Washington, and continue through&nbsp;the intersection with Philo Road.
+<P>The dojo is located 1/2 block past Philo Road, on the left, just past Hansen's Auto Repair. &nbsp;We are in the next warehouse, at the northwest corner.
+<P><HR>
+<P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-30</DOCNO>
+<DOCOLDNO>IA060-000337-B004-196</DOCOLDNO>
+<DOCHDR>
+http://www.atemi.com:80/aikido/interstate_directions.html 206.148.208.105 19970115074250 text/html 1305
+HTTP/1.0 200 OK
+Date: Wed, 15 Jan 1997 07:41:15 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Set-Cookie: Apache=widener18860853314075558; path=/
+Content-length: 1081
+Last-modified: Mon, 30 Dec 1996 19:49:10 GMT
+</DOCHDR>
+<HTML><HEAD>
+<TITLE>Interstate Travel Instructions</TITLE>
+</HEAD><BODY BGCOLOR="#ffffff"><P><HR>
+<H2>Travel Instructions from I-74, I-57, and I-72
+</H2><P>From I-72, take I-57 North to I-74 east (toward Indianapolis).  Continue
+with the directions from I-74.
+<BR><BR>
+From I-57 (north- or south-bound), take I-74 east.  Continue with the
+directions from I-74.
+<BR><BR>
+From I-74 (east- or west-bound), take the Cunningham Ave. (US Rt. 45)
+Exit south.  After about 1.25 mi on Cunningham, you will reach the
+intersection with University Ave.  There is a light there.  Rt. 45
+turns west at this point.  Continue straight.  Cunningham Ave.
+becomes Vine St. when you cross this intersection.  About 0.75 mi
+beyond University Ave., you will reach Washington St., where there
+is a 4-way stop sign.  Turn left (east) onto Washington, and continue
+another 0.5 mi to Philo road (the next 4-way stop sign).  The dojo
+is on your left after you cross Philo Rd.,
+in the back of the warehouse next door to Hansen's Auto Repair.
+Park in the gravel lot behind the dojo.
+<P><HR>
+<P>
+</BODY></HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-31</DOCNO>
+<DOCOLDNO>IA032-000661-B045-321</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/ 194.125.2.11 19970209131740 text/html 5544
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:17:51 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Sun, 02 Feb 1997 15:52:50 GMT
+ETag: "161c1-14b7-32f4b852"
+Content-Length: 5303
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Amnesty International Irish Section</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://amnesty.iol.ie/cgi-bin/rand_image.pl">
+<CENTER>
+<H1>Amnesty International Irish Section</H1>
+<TABLE BGCOLOR="#FFFFFF" CELLPADDING="20" BORDER="1">
+<TR><TD ALIGN="center" VALIGN="center">
+<FONT COLOR="#D00000"><H1>NEWSFLASH!</H1></FONT>
+<H2>Visit the AI Comedy Spectacular<BR>
+"So You Think You're <S>Funny</S>/Irish"<BR>
+at: <A HREF="http://www.amnesty.ie">http://www.amnesty.ie</A></H2>
+<H3>THE CURTAINS RISE AT 8PM GMT SUNDAY 2 FEBRUARY</H3>
+</TABLE>
+<HR>
+<IMG SRC="pix/aiislogo.gif" WIDTH="177" HEIGHT="200" ALIGN="right" ALT="AI Irish Section Logo">
+<H3>Amnesty International Irish Section<BR>is launching its Web Site on the 2nd of
+February</H3>
+<B>Thanks are due to the good people at<BR>Webfactory for making it possible!</B>
+<P>
+<A HREF="http://www.webfactory.ie"><IMG SRC="pix/webflogo.gif" WIDTH="250" HEIGHT="148" ALT="WebFactory" BORDER="0"></A>
+<P><H2>Please note that the URL will be: <A HREF="http://www.amnesty.ie/">http://www.amnesty.ie</A></H2>
+<HR>
+<P><IMG SRC="pix/sligo.jpg" WIDTH="300" HEIGHT="206" BORDER="1">
+<BR><B>Spreading the message! China Campaign
+<BR>march in Sligo, 28th April 1996.</B>
+<P>Amnesty International is an independent worldwide movement working
+impartially for the release of all prisoners of conscience, fair and prompt trials for all
+political prisoners, an end to torture, executions, 'disappearances' and extrajudicial executions.
+It is funded by donations from its members and supporters throughout the world.
+<P><B>NOTE: The following items will be moving to our new Web site next week (<A HREF="http://www.amnesty.ie">http://www.amnesty.ie</A>) and will be updated when they are moved.</B>
+<P><TABLE BORDER="0">
+<TR><TD>
+<UL>
+<LI><A HREF="aicom.html"><B>The Amnesty International Comedy Event</B></A>*
+<LI><A HREF="womennet.html"><B>Women's Rights are Human Rights</B></A>*
+<LI><A HREF="jerrymcf.html"><B>Death Penalty: The case of Jerry Mc Fadden</B></A>*
+<LI><A HREF="ex191fu1.html"><B>Kenya: Koigi wa Wamwere released on bail (Urgent Action)</B></A>*
+<LI><A HREF="colomb1.html"><B>Colombia: Bellacruz "How Many More Peasants Will
+Have to Die?"</B></A>*
+<LI><A HREF="hrdmexca.html"><B>International Human Rights Day</B></A>*<BR>
+AI Appeals on behalf of Human Rights defenders in Central America and Mexico
+<LI><A HREF="ukraine.html"><B>Ukraine - Secret mass executions called "barbaric"</B></A>
+<LI><B>AI Irish Section Group pages</B>
+<UL>
+<LI><A HREF="ai-sg.html"><B>The AI Sandymount Group home page</B></A>
+<UL><LI><A HREF="mexico.html"><B>Sandymount group Mexico Action File</B></A></UL>
+<LI><A HREF="http://pc1.315.rtc-waterford.ie/amnesty/amnesty.html"><B>The AI Waterford
+Group home page</B></A>
+</UL>
+<LI><A HREF="turkcamp.html"><B>The Turkey Campaign, October 1996 - April 1997</B></A>
+<UL>
+<LI><A HREF="turkcas0.html"><B>Turkey - Children at risk</B></A>
+<LI><A HREF="turkcas1.html"><B>Turkey - Human rights defenders</B></A>
+<LI><A HREF="turkcas2.html"><B>Turkey - Widespread torture</B></A>
+<LI><A HREF="turkcas3.html"><B>Turkey - Trade unionists under attack</B></A>
+<LI><A HREF="turkcas4.html"><B>Turkey - 'Disappearance': how to torture a whole family</B></A>
+<LI><A HREF="turkcas5.html"><B>Turkey - Targeting journalists</B></A>
+</UL>
+<LI><A HREF="chincamp.html"><B>The China Campaign, March - September 1996</B></A>
+<LI><A HREF="urgenta.html"><B>The First Urgent Action</B></A>
+<LI><A HREF="uan.html"><B>The On-Line Urgent Action Network - due soon</B></A>
+<LI><A HREF="refugee.html"><B>Refugees - an Irish Perspective</B></A>
+<LI><A HREF="ktortsum.html"><B>Kenya: Torture Compounded by Denial of Medical Care</B></A>
+<LI><A HREF="deathpen.html"><B>The Anti-Death Penalty Page</B></A>
+<LI><A HREF="aimembfm.html"><B>Become a Member of Amnesty International<B></A>
+<LI><A HREF="udhright.html"><B>The Universal Declaration of Human Rights</B></A>
+<LI><A HREF="thanks.html"><B>Amnesty International Would Like to Thank...</B></A>
+<LI><B>Coming Soon...</B>
+<UL>
+<LI><B>The AI Irish Section Scrapbook</B>
+<LI><B>News of Events Due</B>
+<LI><B>AI Contacts Page</B>
+<LI><B>How You can Fight for Human Rights</B>
+<LI><B>AI Irish Section History</B>
+<LI><B>Student and Youth Page</B>
+<LI><B>Newsgroups for Members and Non-Members</B>
+<LI><B>On-Line Newsletter</B>
+</UL></UL></TABLE>
+<HR>
+For information contact Conor Murray at: <A HREF="mailto:murraycp@amnesty.iol.ie">murraycp@amnesty.iol.ie</A>
+or call him on +353-1-677 6361.<BR>
+Amnesty International Irish Section, Se&aacute;n MacBride House, 48 Fleet Street, Dublin 2, Ireland.
+<P><I>NOTE: Some of these pages use JPEG images for optimal filesize/quality ratio.</I>
+<HR WIDTH="40%"> 
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 2 February 1997</TT>
+<HR WIDTH="40%"> 
+<B><I>These pages have been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+<P><B><I>
+The information and material exhibited on these pages is supplied
+by Amnesty International Irish Section, and the Internet Service
+Providers, Ireland On-Line, are not liable for any information or
+material appearing hereon.
+</I></B>
+<CENTER>
+</BODY>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-32</DOCNO>
+<DOCOLDNO>IA032-000661-B045-344</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/aicom.html 194.125.2.11 19970209131751 text/html 3269
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:18:02 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Sun, 02 Feb 1997 15:15:39 GMT
+ETag: "161c0-bd5-32f4af9b"
+Content-Length: 3029
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+<Head>
+<Title>SO YOU THINK YOU'RE FUNNY/IRISH</Title>
+<META HTTP-EQUIV=REFRESH CONTENT="10;URL=http://www.amnesty.ie">
+</Head>
+
+<Body BGColor=#FFFFFF Text=#000000 Link=#0000FF VLink=#800080 ALink=#FF0000>
+<CENTER>
+<IMG SRC="pix/comlogo.gif" WIDTH="600" HEIGHT="65" VSPACE="20">
+<FONT COLOR="#D00000">
+<H1>A Comedy Spectacular in Aid of<BR>
+Amnesty International</H1>
+</FONT>
+<TABLE BGCOLOR="#FFFFE8" CELLPADDING="20" BORDER="1">
+<TR><TD ALIGN="center" VALIGN="center">
+<FONT COLOR="#D00000"><H1>NEWSFLASH!</H1></FONT>
+<H2>Visit the Comedy Show at: <A HREF="http://www.amnesty.ie">http://www.amnesty.ie</A></H2>
+<H3>(newer browsers will automatically send you there in 10 seconds)</H3>
+<H3>THE CURTAINS RISE AT 8PM GMT SUNDAY 2 FEBRUARY</H3>
+</TABLE>
+<BR CLEAR="all">
+<TABLE BORDER="1" CELLPADDING="20">
+<TR><TD VALIGN="middle" ALIGN="center">
+<IMG SRC="pix/aiislogo.gif" WIDTH="177" HEIGHT="200">
+<TD ROWSPAN="2">
+<B>Amnesty International is organising the first-ever evening of the very very best of Irish comedy in the Gaiety Theatre on February 2nd.</B>
+<P>This unique event will run from 8 pm till late, and will be recorded for broadcast. Irish comedy is on the crest of a wave of international acclaim following success after success - from the Edinburgh Festival to the London club circuit, from America to Australia.
+<P>Bill topping Irish comedians have donated their services for this star-studded fundraising evening. Exciting names like Dermot Morgan, Rosaleen Linehan, Dylan Moran (winner of the Edinburgh Perrier Comedy Award), Pauline McLynn (winner of Best Comedy Actress in Britain), Kevin McAleer, Ed Byrne, the Nualas, Jason Byrne, Brendan O'Carroll, D'Unbelievables, Barry Murphy, Pom Boyd, Owen O'Neill, Eddie Bannon, Brendan Dempsey, Michelle Read, will all be making a vital comical donation on the night. The live event and recorded event will be directed by Gerry Stembridge. All proceeds will go to fund Amnesty International's crucial work.
+<TR><TD>
+<FONT SIZE="-2">
+Amnesty International is an independent worlwide movement working impartially for the release of all prisoners of conscience, fair and prompt trials for political prisoners, an end to torture, executions, 'disappearances' and extrajudicial executions. It is funded by donations from its members and supporters throughout the world.
+</FONT>
+<TR><TD COLSPAN="2" ALIGN="center">
+<B>Tickets go on sale on Wednesday 18th December,<BR>
+Tickets are IR�30 and IR�40 and are available from the Gaiety Box office +353-1-6771717<BR>
+Early booking is advisable</B>
+<P>For more information contact:<BR>
+<B>Phill McCaughey, Event Organiser, Ph +353-1-6776361, Fax +353-1-6776392</B>
+</TABLE>
+</CENTER>
+
+<CENTER>
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<P>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 2 February 1997</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-33</DOCNO>
+<DOCOLDNO>IA032-000661-B045-386</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/womennet.html 194.125.2.11 19970209131803 text/html 9375
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:18:13 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Fri, 24 Jan 1997 15:45:35 GMT
+ETag: "161ad-23ae-32e8d91f"
+Content-Length: 9134
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+<Head>
+<Title>Women�s Rights are Human Rights</Title>
+</Head>
+
+<Body BGColor=#FFFFFF Text=#000000 Link=#0000FF VLink=#800080 ALink=#FF0000>
+
+<H1 ALIGN=center>Amnesty International Irish Section</H1>
+<HR>
+<FONT COLOR="#C00000"><H1 ALIGN=center>Women�s Rights are Human Rights</H1></FONT>
+
+<CENTER>
+<TABLE BORDER="0" WIDTH="500"><TR><TD ALIGN=center>
+<I>"The human rights of women and of the girl-child are an inalienable, integral and indivisible part of universal human rights."</I>
+<BR>
+Declaration of the UN World Conference on Human Rights June 1993
+</TABLE>   
+</CENTER>
+<HR>
+
+<FONT COLOR="#C00000"><H3>The need for the protection and promotion of women�s rights as human rights</H3></FONT>
+
+<P>Amnesty International recognises that human rights are indivisible and inter-dependent, and works to promote all the human rights enshrined in the Universal declaration of human rights, through human rights education programmes and campaigning for ratification and implementation of human rights treaties. 
+
+<P>The Human Rights of women have been specifically targeted by Amnesty International since 1989. In that year the International Women�s Network was founded following the decision at the International Council Meeting, Amnesty International�s supreme governing body, to increase the focus which Amnesty gives to Women�s Rights. 
+
+<P>The reasons for Amnesty�s specific targeting of Women�s rights lie within the reality of today�s world in which; <B>most of the casualties of war are women and children; most of the world�s poor are women and children and 80% of the world�s refugees are women and children.</B> 
+ 
+<P>Women are in double jeopardy. Discriminated against as women, they are also as likely as men, If not more so, to become victims of human rights violations. Few countries treat their women as well as their men. The consequences of this discrimination are terrible. More women and girl-children die each day from various forms of gender based discrimination and violence than from any other form of human rights abuse. Every year, according to the UN Children�s Fund (UNICEF), more than a million infant girls die because they are born  female. Every year, because of discrimination, millions of women are mutilated, battered to death, burned alive, stripped of their legal rights and bought and sold in an unacknowledged  but international trade in slaves for domestic or sexual purposes. Because of their gender women are at risk of a range of  violent abuses by private organisations and individuals. 
+
+<P>The global status of women has necessitated the specification and clarification of the existing body of international humanitarian law, and promotion of the concept that women�s rights are human rights. Amnesty International sent a delegation to The Fourth UN World Conference on Women of 1995, to work with other NGOs and to lobby for this desperately required specification and implementation of human rights standards. In the following text the results of the conference are reviewed and the question of "where to next?" is discussed. 
+<HR>
+
+<FONT COLOR="#C00000"><H2>The Fourth World Conference on Women, Beijing 1995</H2></FONT>
+
+<P>In 1995 Amnesty International undertook a campaign on women and human rights which ran from March until the end of September, and culminated in attendance at the fourth world conference on women (FWCW) in Beijing in September of that year. An Amnesty International delegation to the conference presented Amnesty�s message with respect to armed conflict and the human rights of women, universality of human rights and violence against women. Members and groups around the world simultaneously carried out their own demonstrations, exhibitions and vigils, and two staff from the Irish section attended the conference.
+
+<FONT COLOR="#C00000"><H3>Amnesty International�s objectives for the FWCW</H3></FONT> 
+
+<P>Our primary objective was that the platform for action, which was to be adopted at the conference should include:<BR>
+<I><B>A clear statement of the current impediments to women�s  enjoyment of their human rights but, above all, focus on practical steps which governments will implement to ensure a real and measurable advance in the situation of women in every region of the world.</B></I> 
+
+<P>According to Kirsten Timothy, Deputy Director of the UN Division for the advancement of women and coordinator for the fourth world conference on women:<BR>
+<I>"The real battlefield in the fight for women�s equality is still back at home in the context of the cultural, religious and traditional norms that govern our societies. Only by exposing the real situation of women everywhere to public scrutiny can change occur."</I>
+ 
+<P>In the Beijing declaration, the declaration of the conference, governments reaffirmed their commitment to the UN Charter, the Universal Declaration of Human Rights and other international human rights instruments. Furthermore they commit themselves to ensuring:<BR>
+<I>"the full implementation of the human rights of women and the girl child as an inalienable, integral and indivisible part of all human rights and fundamental freedoms".</I>
+
+ 
+<FONT COLOR="#C00000"><H3>The Platform for action</H3></FONT>
+ 
+<P>The platform for action is the document produced by the conference which sets out the actions to be undertaken by governments in the areas of education, review of national laws and implementation of international conventions. 
+
+<P>It represents an important step by governments all over the world towards acknowledging the reality of human rights violations against women and includes the following important declaration of the universality and indivisibility of all human rights. 
+
+<P><B>While the significance of national and regional particularities and various historical, cultural and religious backgrounds must be borne in mind, it is the duty of states, regardless of their political, economic and cultural systems, to promote and protect all human rights and fundamental freedoms.</B>
+
+<P>The platform for action advanced several concepts, such as those that promote sexual rights, the valuation of women�s unpaid work, the equal right of women to inheritance, the condemnation of genital mutilation as a form of violence, the concept that women�s rights are human rights, and the need to take action to  curb all forms of violence against women. 
+
+<P>It weaknesses include a reluctance to identify many human rights violations against women which are prevalent throughout the world, in peace as well as conflict, such as rape or sexual abuse and other forms of cruel, inhuman or  degrading punishment. Nonetheless Amnesty International views the platform for action as an important step forward by the world�s governments towards acknowledging the reality of human rights violations against women and girls. 
+
+<FONT COLOR="#C00000"><H3>Beyond Beijing - The Struggle Continues</H3></FONT>
+
+<P>Governments attending the Fourth UN World Conference on Women agreed in the Platform for Action that:<BR>
+<I>"the full and equal enjoyment of all human rights and fundamental freedoms by women and girls is a priority for Governments and the UN and is essential for the advancement of women..."</I> and that: <I>"Governments must not only refrain from violating the human rights of all women, but must work actively to promote and protect these rights."</I> ( strategic objective 1, paragraphs 213 and 215)
+
+<P>In addition to the broad statement above, individual governments presented their Commitments for the promotion and protection of women�s rights as human rights in plenary speeches at the close of the conference. It is now the focus of Amnesty International, UN agencies and other NGO�s  to ensure that governments worldwide fulfil the commitments they undertook at Beijing, to actively disseminate information relating to the conference and to educate women worldwide on what the platform for action could mean for them. 
+
+<P>To this end a number of human rights groups, including Amnesty International have come together for the purposes of organising a working Conference entitled "Women�s Rights are Human Rights", to take place in Dublin in March of this year - check this page for further information on the upcoming Conference. 
+
+<P>Amnesty International emphasises the importance of the principle endorsed in Beijing that women�s rights are human rights and will continue to urge that this principle be put into action by governments developing national plans of action for the promotion and protection of women�s human rights, through ongoing lobbying and campaigning activities worldwide.
+
+<CENTER>
+<P><B>For further information, please contact:<BR>
+Sophie Magennis: <A HREF="mailto:smagenni@amnesty.iol.ie">smagenni@amnesty.iol.ie</A></B>
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<HR>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 24 January 1997</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-34</DOCNO>
+<DOCOLDNO>IA032-000661-B045-411</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/jerrymcf.html 194.125.2.11 19970209131812 text/html 4727
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:18:23 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Fri, 10 Jan 1997 18:38:38 GMT
+ETag: "16085-1186-32d68cae"
+Content-Length: 4486
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+
+<Head>
+<Title>Death Penalty - Texas, USA - The Case of Jerry Mc Fadden</Title>
+</Head>
+
+<Body BGColor=#FFFFFF Text=#000000 Link=#0000FF VLink=#800080 ALink=#FF0000>
+
+<H1 ALIGN=center>Amnesty International Irish Section</H1>
+<HR>
+<H1 ALIGN=center>Death Penalty - Texas USA<BR>
+<FONT COLOR="#C00000">The Case of Jerry Mc Fadden</FONT></H1>
+
+<IMG SRC="pix/jerrymcf.jpg" WIDTH="199" HEIGHT="220" BORDER="1" VSPACE="5" HSPACE="10" ALIGN=left>
+
+<P>Jerry Mc Fadden has been on Death Row in Huntsville Prison, Texas, since 1987, for a murder Amnesty International feels he may be innnocent of. Jerry is half Irish and half Cherokee Indian. His father was from Donegal, and it is partially because of his Irish roots that the AI Irish Section made the decision to campaign on his behalf, though the main reason is that there is so much evidence to suggest his innocence.
+
+<P>Suzanne Harrison was brutally murdered on the evening of May 4th, 1986. Two days later Jerry was arrested. Jerry's conviction was obtained on flawed and scant circumstantial evidence and the dubious testimony of a so-called 'prison witness', to the effect that Jerry had confessed to him. The trial records show that prison employees testified that the alleged contact between Jerry and the witness could not have been possible - due to their housing locations and single recreation status. 
+
+<P>Jerry was due to be executed last year, but received a stay of execution three days before he was due to be put to death. Amnesty International has recently received news that Jerry is likely to have a new execution date set within the next couple of months. Since 1900 there have been 28 prisoners executed in the USA who were later found to have been innocent. Could Jerry become yet another sad statistic?
+
+<P>This is why we need to make people aware of Jerry's case and why Amnesty International is now campaigning on his behalf. Amnesty International believes that the Death Penalty is WRONG in all cases, but is even more so when there is a strong likelihood that the inmate to be executed is innocent.
+
+<P><B>Here are just some of the facts and evidence in this case:</B>
+<P>
+<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="4">
+<TR BGCOLOR="#F0F0E0"><TD VALIGN=top><B>EVIDENCE...</B>
+<TD>A car similar to the one owned by Jerry was seen at the scene. This car was a blue and white Blazer with an automatic transmission, bright tail lights, large off-road tyres and a man (not identified as Jerry) was seen in the driver's seat. He could be seen because of the interior light.
+<TR><TD VALIGN=top><B>FACT...</B>
+<TD>Jerry's car was a blue and white Bronco, it had a standard transmission and, because it had recently been in an accident, had no tail lights. It had no interior light and had narrow street-tyres.
+<TR BGCOLOR="#F0F0E0"><TD VALIGN=top><B>EVIDENCE...</B>
+<TD>A hair was found on clothing belonging to Jerry. The State said that this hair was from the victim.
+<TR><TD VALIGN=top><B>FACT...</B>
+<TD>This hair was long and blonde, the victim had short auburn hair, while Jerry's wife had long blonde hair. The t-shirt that the hair was found on had been bought the day before Jerry's arrest.
+<TR BGCOLOR="#F0F0E0"><TD VALIGN=top><B>EVIDENCE...</B>
+<TD>A semen sample indicated that the murderer was a secretor with foreign markers F, X and B.
+<TR><TD VALIGN=top><B>FACT...</B>
+<TD>Jerry is a non-secretor with foreign markers F and B. Markers can be dropped during testing, but not picked up.
+<TR BGCOLOR="#F0F0E0"><TD VALIGN=top><B>EVIDENCE...</B>
+<TD>Jerry was convicted of another offence that allegedly took place at the same time, but in another county.
+<TR><TD VALIGN=top><B>FACT...</B>
+<TD>True! The drive from the location of the other offence to the location of the murder is approximately one hour. There were two witnesses who could identify Jerry for this robbery, but not one witness who could identify him as the murderer. He received 20 years for the robbery and the death penalty for the murder!
+</TABLE>
+<HR>
+<CENTER>
+<B>For further information on this case, contact:<BR>
+Trish Delahoyde: <A HREF="mailto:tdelahoy@amnesty.iol.ie">tdelahoy@amnesty.iol.ie</A></B>
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<HR>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 10 January 1997</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-35</DOCNO>
+<DOCOLDNO>IA032-000661-B045-437</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/ex191fu1.html 194.125.2.11 19970209131822 text/html 4275
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:18:32 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Tue, 17 Dec 1996 19:21:41 GMT
+ETag: "16154-fc3-32b6f2c5"
+Content-Length: 4035
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+
+<Head>
+<Title>URGENT ACTION - Further Information on EXTRA 191/96</Title>
+</Head>
+
+<Body BGColor=#FFFFFF Text=#000000 Link=#0000FF VLink=#800080 ALink=#FF0000>
+
+<H1 ALIGN=center>Amnesty International Irish Section</H1>
+<FONT COLOR="#FF0000"><H1 ALIGN="center">URGENT ACTION</H1></FONT>
+<HR>
+<CENTER>
+<H2>AI INDEX: AFR 32/17/96 --- 16 DECEMBER 1996</H2>
+<H3>Further information on EXTRA 191/96 (AFR 32/16/96, 9 December 1996)</H3>
+<H2>Health Concern / Prisoners of Conscience</H2>
+<TABLE BORDER="0" WIDTH="90%">
+<TR><TD WIDTH="100" VALIGN=top>
+<B>KENYA</B>
+<TD>
+<B>Koigi wa WAMWERE, aged 47, human rights activist, former political prisoner, former member of parliament, journalist<BR>
+Charles Kuria WAMWERE, former political prisoner<BR>
+G.G. Njuguna NGENGI, councillor for Molo, farmer</B>
+</TABLE>
+</CENTER>
+<HR>
+
+<P>On 13 December 1996 Koigi wa Wamwere was released on bail from imprisonment on the grounds of ill-health.  He remains in Nairobi Hospital and is due to travel to the United Kingdom shortly for the urgent medical treatment which he needs for his heart complaint. 
+
+<P>Speaking by telephone from the hospital to a member of Amnesty International�s International Secretariat, Koigi wa Wamwere said that he was "very, very happy for all the work that Amnesty International has done on my behalf".  He requested that his deep gratitude be passed on to everybody who had sent appeals, saying that he believed these had had a crucial effect in both preventing a death sentence in October 1995 and in his current release.  He expressed the hope that he will "get an opportunity to thank them in a better way".
+
+<P>Amnesty International welcomes the release of Koigi wa Wamwere but continues to call for the immediate and unconditional release of Charles Kuria Wamwere and G.G. Njuguna Ngengi as prisoners of conscience. Both are in need of the special diets they have been prescribed in hospital but are reportedly not receiving.  G.G. Njuguna Ngengi has non-insulin dependent diabetes and Charles Kuria Wamwere has a stomach problem, and their poor diets mean that these complaints are exacerbated.
+
+<P><B>FURTHER RECOMMENDED ACTION: Please send telegrams/telexes/faxes/express/ airmail letters in English or in your own language:</B>
+- welcoming the release on bail of Koigi wa Wamwere for medical treatment abroad;<BR>
+- urging that, as a prisoner of conscience, his release be made unconditional;<BR>
+- expressing renewed concern for G.G. Njuguna Ngengi and Charles Kuria Wamwere and urging that they be released immediately and unconditionally as prisoners of conscience;<BR>
+- urging that as a matter of priority their medically prescribed diets be provided.
+
+<P><B>APPEALS TO:</B>
+
+<P>President Daniel arap Moi<BR>
+Office of the President<BR>
+PO Box 30501, Nairobi, Kenya<BR>
+<B>Telegrams: President Moi, Nairobi, Kenya<BR>
+Telexes: 22003 FOREIGN ROB / 22796 FOREIGN RB<BR>
+Faxes: + 254 2 337340 (if no tone, please try later)<BR>
+Salutation: Your Excellency</B>
+
+<P>Mr Amos Wako<BR>
+Attorney General<BR>
+Office of the Attorney General<BR>
+PO Box 40112, Nairobi, Kenya<BR>
+<B>Telegrams: Attorney General Wako, Sheria, Kenya<BR>
+Faxes: + 254 2 211 082<BR>
+Salutation: Dear Attorney General</B>
+
+<P>Chief Justice Abdul Majid Cockar<BR>
+Law Courts<BR>
+Nairobi, Kenya<BR>
+<B>Telegrams: Chief Justice Cockar, Law Courts, Nairobi, Kenya<BR>
+Faxes: +254 2 333449 (c/o Registrar�s Office)<BR>
+Salutation: Dear Chief Justice</B>
+
+<P><B>COPIES TO:</B>
+
+<P>Caleb Atemi<BR>
+Assistant News Editor<BR>
+Daily Nation<BR>
+POB 8117<BR>
+Nairobi, Kenya
+
+<P><B>PLEASE SEND APPEALS IMMEDIATELY.</B> Check with your Section office if sending appeals after 20 January 1997.
+
+<CENTER>
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<HR>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 17 December 1996</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-36</DOCNO>
+<DOCOLDNO>IA032-000661-B045-464</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/colomb1.html 194.125.2.11 19970209131835 text/html 4881
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:18:42 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Fri, 13 Dec 1996 19:09:24 GMT
+ETag: "1614f-1220-32b1a9e4"
+Content-Length: 4640
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+
+<Head>
+<Title>AI News Service 240/96 - AMR 23/70/96 - Colombia: Bellacruz</Title>
+</Head>
+
+<Body BGColor=#FFFFFF Text=#000000 Link=#0000FF VLink=#800080 ALink=#FF0000>
+
+<H1 ALIGN=center>Amnesty International Irish Section</H1>
+<HR>
+<H3 ALIGN=center>News Service 240/96 --- AI INDEX: AMR 23/70/96 --- 12 DECEMBER 1996</H3>
+<H2 ALIGN=center>COLOMBIA: BELLACRUZ "HOW MANY MORE PEASANTS WILL HAVE TO DIE?"</H2>
+
+<P>The European Union (EU) should take decisive action now to help prevent further deaths of forcibly displaced Colombian peasant farmers, Amnesty International said today as representatives of the farmers continue their visit to several European countries.
+
+<P>Even in the past few days, the paramilitary have killed four peasant farmers from the Bellacruz Ranch. How many more have to die before a strong, clear message is sent to the Colombian Government that justice should be done and paramilitary activities should be brought to an end," the organization said.
+
+<P>Last October, the European Parliament adopted a resolution expressing concern about the human rights situation faced by the 280 peasant farmer families forcibly evicted by a paramilitary group from lands in the Bellacruz Ranch, department of Cesar. In urging the EU to take further steps, the organization noted the EU�s ongoing program of cooperation with the Andean countries, including Colombia. 
+
+<P>"The very nature of that cooperation places the EU in a unique position to demand stronger action on the part of the Colombian Government to protect the basic human rights of its citizens," Amnesty International said.
+
+<P>"An ever increasing number of people are dying at the hands of the paramilitaries who commit atrocities with almost total impunity. It is only when these perpetrators are held to account for their crimes that the Colombian Government will be sending a clear message that this will not be tolerated."
+
+<P>Amnesty International welcomes yesterday�s call by Dick Spring, Irish Minister of Foreign Affairs, for respect for human rights with regards to the Bellacruz case and the organization hopes that this will secure a strong response from the European Union (EU) and its Member States (Ireland currently holds the presidency of the EU).
+
+<P>Amnesty International has been echoing Colombian human rights organizations in making repeated calls to the Colombian authorities to protect the lives of the nearly 2,000 individuals forcibly displaced from the ranch by illegal paramilitary forces operating with the support of the Colombian army.  Nevertheless, the threats and killings by the paramilitary have continued, and the  recent killings of four more peasant farmers just a few days ago raise to at least 30 the number of civilian farmers killed or "disappeared" as a result of the Bellacruz conflict.
+ 
+<P>Brothers Diosenel, Dinael and Jos� del Carmen Toscano were killed on 5 December, in front of their young children by members of a paramilitary group who entered the house where they were hiding in Valledupar, department of Cesar.  Their brother, peasant farmer leader Jes�s Toscano, was killed three days earlier in Pelaya, also in the department of Cesar, after returning to his house to collect some things.
+
+<P>The paramilitary members responsible for killing Jes�s reportedly swore they would kill the whole Toscano family, and are said to have been looking for several months for Ariel Toscano, a fifth brother, who they also intend to kill.
+
+<P>On 22 November, Amnesty International warned of a likely increase of human rights abuses by the paramilitary group operating in the Bellacruz Ranch and neighbouring areas, after documenting a paramilitary meeting said to have taken place on the ranch on 15 November.  A death list was displayed at the meeting, and those present reportedly agreed that the Bellacruz peasant farmers would be persecuted and killed wherever they went, as a lesson for the denunciations brought by them at  national and international level.
+
+<P>"The brutal killing of four members of the Toscano families -- and the very real threat faced by others -- are clear indications that the fears expressed were well founded, and that lack of action on the part of the Colombian authorities is costing more and more lives every day," Amnesty International said.
+
+<P>ENDS\
+
+<CENTER>
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<HR>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 13 December 1996</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-37</DOCNO>
+<DOCOLDNO>IA032-000661-B046-31</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/hrdmexca.html 194.125.2.11 19970209131847 text/html 8142
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:18:57 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Tue, 10 Dec 1996 14:28:33 GMT
+ETag: "1614c-1edd-32ad7391"
+Content-Length: 7901
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+
+<Head>
+<Title>AI News Service 234/96 - AMR 02/05/96 - Central America and Mexico</Title>
+</Head>
+
+<Body BGColor=#FFFFFF Text=#000000 Link=#0000FF VLink=#800080 ALink=#FF0000>
+
+<H1 ALIGN=center>Amnesty International Irish Section</H1>
+<HR>
+<H3 ALIGN=center>News Service 234/96 --- AI INDEX: AMR 02/05/96 --- 10 DECEMBER 1996</H3>
+<H2 ALIGN=center>INTERNATIONAL HUMAN RIGHTS DAY: AMNESTY INTERNATIONAL APPEALS ON BEHALF OF HUMAN RIGHTS DEFENDERS IN CENTRAL AMERICA AND MEXICO</H2>
+
+<P>Marking international human rights day, Amnesty International today published a report which highlights the dangers, abuses and difficulties facing those dedicated to the defence and promotion of human rights in Central America and Mexico.
+
+<P>In its report <I>Human Rights Defenders on the Front Line</I>, Amnesty International surveys the situation in El Salvador, Guatemala, Honduras and Mexico and concludes that there is a persistent pattern of intimidation and persecution of defenders in the region, including in those countries undergoing peace processes and political transitions. 
+
+<P>"Governments renege all too frequently on two of their most important obligations, the promotion and protection of human rights. Furthermore, they attack those who carry out these activities, or allow others to attack them with impunity," the human rights organization said.
+
+<P>"Solidarity and grassroots action to promote human rights values is often the only tool civil society has to protect these rights. Members of these organizations, or isolated individuals, should be protected, not targeted."
+
+<P>A wide range of non-governmental organizations, individuals and associations - trade unions, popular and religious organizations, etc - are part of the struggle for the defence of human rights. Defenders  include lawyers, journalists, peasant leaders, trade unionists, students, relatives of victims and many others who denounce and investigate violations, support and protect the victims, campaign for an end to impunity, promote human rights education and mobilize their communities by means of campaigns to end violations.
+
+<P>In Mexico, Amnesty International has observed a new, alarming and increasing pattern of abuses against human rights defenders which has meant that practically all organizations dedicated to this task have lately suffered intimidation, threats and even attacks because of their work. In recent months, some members of these organizations have been targets of abduction followed by torture by individuals believed to be linked to the security forces.
+
+<P>Even prominent members of the clergy involved in human rights defence have been threatened and attacked. On 29 June 1995, gunmen opened fire on Catholic bishop Arturo Lona Reyes, a well-known human rights defender and chairperson of the Tepeyac Human Rights Centre in Tehuantepec, state of Oaxaca.
+ 
+<P>Samuel Ruiz, also a Catholic bishop, has also been persecuted because of his work on behalf of indigenous peasants in the state of Chiapas.
+
+<P>In Honduras, many people involved directly or indirectly in the investigation of serious human rights violations committed in the past, both as representatives of civil society and of the investigative apparatus of the state, are constant targets of threats intimidation and attacks by members of the security forces.
+
+<P>Members of the judiciary, such as the judges Mar�a Antonieta Mendoza de Castro and Roy Medina, have received death threats as a result of their role in bringing cases against members of the military. Prosecution lawyers in trials of military personnel, such as Linda Lizzy Rivera, the prosecuting lawyer in the trial of two officers eventually sentenced for the rape and murder of a 16-year old, have been the target of threats or attacks.  Even the Commissioner for Human Rights, Leo Valladares, has received anonymous telephone calls, obliging him to take special measures to protect members of his family.
+
+<P>In Guatemala, although there is currently no deliberate government policy of repression, information gathered by Amnesty International indicates that those working to end impunity - judges, lawyers, journalists, members of human rights organizations - are frequent victims of torture, extrajudicial executions, abductions and death threats by agents linked to the state�s security forces.
+
+<P>According to the United Nations Independent Expert for Guatemala, Monica Pinto, the same situation is faced by  "all organized sectors of civil society and those who support the peace process in general." Amnesty International maintains that these human rights violations are carried out with the consent or complicity of certain public officials.
+
+<P>Practically all those involved in the investigation of the murder in 1990 of anthropologist Myrna Mack have been threatened or attacked in some way: the police commissioner in charge of the investigation was murdered in 1991; judge Mar�a Eugenia Villase�or, author of a book critical of the way the judiciary has handled the case, has received repeated threats and one of the police officers responsible for her protection was abducted and beaten. In 1996, those suspected of masterminding the killing were released on bail.
+
+<P>In El Salvador, despite a decrease in the scale of  human rights violations since the end of the civil conflict, people active in the defence of human rights continue to be subjected to threats, attacks and intimidation.
+
+<P>The premises of the Salvadorean Women�s Movement, the Committee of Relatives of Victims of Human Rights Violations and FUNDASIDA, an organization dedicated to the care of those affected by AIDS, have been repeatedly raided and the organizations� members have often been threatened. The most dramatic incident was the May 1994 killing of Alexander Rodas Abarca, a guard at the offices of the Salvadorean Women�s Movement. 
+
+<P>In 1995, the director of the Human Rights Institute of the University of Central America, Benjamin Cuellar, was also attacked by unknown individuals immediately after taking part in an event  commemorating the killing of six Jesuit priests by the security forces in 1989.
+
+<P>Amnesty International highlights the emergence of groups dedicated to intimidation and the persistence of "death squads". Among the most notorious is the Roberto D�Aubuisson Nationalist Force, FURODA, whose first public statement in June 1996 threatened fifteen people with death, including several members of the Catholic church and the National Human Rights Procurator, Victoria Marina Vel�squez.
+
+<P>In view of this situation, Amnesty International is calling on governments of the region explicitly to acknowledge the legitimacy and value of the work of human rights defenders and to adopt administrative and legal measures to prevent any restrictions on this work.
+
+<P>The human rights organization is also urging greater cooperation and support by governments for United Nations staff involved in human rights monitoring in those countries where the UN has missions.
+
+<P>Amnesty International also recommends that the Organization of American States (OAS) initiate the drafting of an Inter-American Declaration on the Protection of Human Rights Defenders at the next session of its General Assembly, and that it include a chapter on human rights defenders in its annual report.
+
+<P>ENDS/
+
+<CENTER>
+<TABLE>
+<TR><TH><B>For more information, see:</B>
+<TR><TD>
+<PRE>
+Amnesty International, Central America and Mexico:
+Human Rights Defenders on the Front Line 
+AI Index AMR 02/01/96
+</PRE>
+</TABLE> 
+
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<HR>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 10 December 1996</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-38</DOCNO>
+<DOCOLDNO>IA032-000661-B046-56</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/ukraine.html 194.125.2.11 19970209131857 text/html 5695
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:19:07 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Wed, 04 Dec 1996 18:47:05 GMT
+ETag: "16088-154e-32a5c729"
+Content-Length: 5454
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+<Head>
+<Title>AI News Service 232/96 - EUR 50/16/96 - Ukraine</Title>
+</Head>
+
+<Body BGColor="#FFFFFF" Text="#000000" Link="#0000FF" VLink="#800080" ALink="#FF0000">
+
+<H1 ALIGN=center>Amnesty International Irish Section</H1>
+<HR>
+<H3 ALIGN=center>News Service 232/96 --- AI INDEX: EUR 50/16/96 --- 3 DECEMBER 1996</H3>
+<H2 ALIGN=center>UKRAINE: SECRET MASS EXECUTIONS IN UKRAINE CALLED "BARBARIC"</H2>
+
+<P>Following the shocking information revealed last Friday by the Council of Europe that Ukraine has secretly executed more than one hundred prisoners this year, Amnesty International is urgently calling on the Ukrainian authorities to immediately stop any further executions.
+
+<P>The executions were described by a special representative of the 40-nation Council of Europe as barbaric and in defiance of the commitment Ukraine made to institute an immediate moratorium on executions on joining the Council of Europe in November 1995. 
+
+<P>"This is a shameful number of executions -- only China is known to have executed more prisoners this year," Amnesty International said today.
+
+<P>The executions were disclosed at a news conference on Friday 29 November in Kiev, Ukraine, at the end of an international seminar on the death penalty organized by the Council of Europe. In a dramatic statement, Zsolt Nemeth, Council of Europe rapporteur on the honouring of obligations and commitments by Ukraine, told journalists he had just received the "shocking" information. He said that the executions could only be characterized as "barbarism" and called into question the credibility of Ukraine. 
+
+<P>"<I>Ukraine must now institute an immediate moratorium on executions and provide a timetable for abolishing the death penalty,"</I> Zsolt Nemeth said.<I>"We cannot be satisfied with promises. We need to see concrete plans."</I>
+
+<P>Zsolt Nemeth called on the Ukrainian authorities to disclose the names of those executed -- under a 1993 law, information on the death penalty is a state secret. He said that executed prisoners were buried in unmarked graves and their families were not notified of the executions.
+
+<P>After this disclosure Ukrainian Minister of Justice Serhiy Holovaty confirmed that 89 prisoners were executed in the first six months of 1996. He told the news conference he believed Ukraine must honour its commitment to stop executions.
+
+<P>Eric Prokosch, an Amnesty International representative, told the news conference that Ukraine must take five steps to implement its commitment to the Council of Europe.
+
+<P>First, there must be a political decision not to sign any more execution orders. Second, this decision must be formalized by the central government issuing an order to all prison governors that no further executions are to be carried out. These two steps should be taken immediately.
+
+<P>Third, the government must begin to prepare public opinion to accept the abolition of the death penalty. Fourth, it must sign Protocol No. 6 to the European Convention on Human Rights, providing for the abolition of the death penalty in peacetime. Lastly, the government and parliament must prepare and enact legislation to remove the death penalty from the country's penal code.
+
+<P>The number of executions disclosed by the Council of Europe rapporteur confirms reports received by Amnesty International that approximately 100 people were executed this year. Amnesty International has been able to confirm five of those executions, one in March, one in June, two in August and one in October. The organization has appealed to President Leonid Kuchma to grant clemency to all death penalty prisoners, but President Kuchma never replied to the appeals.
+
+<P>Birger Hagard, Chairperson of the Committee on Legal Affairs and Human Rights of the Parliamentary Assembly of the Council of Europe, said at the news conference it was hard to understand why this number of executions had happened. <I>"Ukraine hurts itself by having these executions,"</I>  he said. <I>"Ukraine hurts its reputation as a free country with relations to the rest of Europe."</I>
+
+<P>According to Amnesty International, the relatives of Sergey Tekuchev, executed in October, have claimed that he was innocent and that his confession was obtained under duress. There are claims that the emergency services were called six times in October 1994 to treat him for injuries resulting from beatings in custody and that the prison authorities refused to pass to him medication from his relatives.
+
+<P><B>BACKGROUND</B>
+
+<P>Ukraine committed itself on 26 September 1995 to sign Protocol No. 6 to the European Convention on Human Rights within one year of accession to the Council of Europe <I>"and to put into place, with immediate effect from the day of accession, a moratorium on executions"</I>. It acceded to the Council of Europe on 9 November 1995.
+
+<P>The Council of Europe is an intergovernmental organization comprising 40 western and eastern European states. Its Parliamentary Assembly adopted a policy in June 1996 that any new state joining the Council must stop executions immediately and indicate its willingness to abolish the death penalty.
+
+<P>ENDS\
+<CENTER>
+<P><A HREF="index.html"><B>HOME PAGE</B></A>
+<HR>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 4 December 1996</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</A></I></B>
+</CENTER>
+
+
+</Body>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-39</DOCNO>
+<DOCOLDNO>IA032-000661-B046-81</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/ai-sg.html 194.125.2.11 19970209131911 text/html 4260
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:19:18 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Wed, 04 Dec 1996 18:46:55 GMT
+ETag: "16087-fb4-32a5c71f"
+Content-Length: 4020
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Amnesty International Sandymount Group</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF"
+ BACKGROUND="http://amnesty.iol.ie/cgi-bin/rand_image.pl">
+
+<CENTER>
+<TABLE BORDER=10>
+<TR><TD>
+<FONT SIZE="6"><I>AI Sandymount Group Home Page</I></FONT>
+</TABLE>
+<P>
+<b><i>We meet at 8pm on the second Tuesday of every month in the
+Multiple Sclerosis office at:<BR> Sandymount Green, Dublin
+4, Ireland.</i></b>
+</CENTER>
+
+<hr>
+<IMG SRC="pix/aiislogo.gif" ALIGN=RIGHT HEIGHT=200 WIDTH=177 >
+<BR><BR>
+<CENTER>
+<TABLE BORDER="0">
+<TR><TD>
+<H4>No man is an island unto himself <BR>
+Every man's death diminishes me <br>
+Send not to know for whom the bell tolls<br>
+It tolls for thee.</H4>
+(John Donne)
+</TABLE>
+</CENTER>
+<BR>
+
+<H3>Group History<p></H3>
+The group was established in 1984.  Since then the group has worked
+on two prisoner of conscience (POC) cases (Russia and Cuba) and a disappearance in
+Mexico.  The two POCs were released but after seven years work
+there was no outcome on the Mexican case. The group has held
+several major fundraising events for the Irish section including
+auctions, music gigs and a comedy night. We usually have 10
+members at a group meeting. <p>
+
+
+<H3>Current Activities</H3>
+<B>Turkey Campaign:</B>
+<UL>
+<LI>We took part in the demonstration at the Turkish
+embassy.
+<LI>We are collecting anti-torture petitions which were
+distributed in local schools.
+<LI>These will be presented to the 
+Turkish Embassy on International Childrens Day.
+<LI>We are meeting with local elected D&aacute;il (Parliament) representatives.
+<LI>At each group meeting we finish up by writing appeal letters for some
+of those featured in the campaign.
+</UL>
+
+<H3>Upcoming Events</H3>
+<UL>
+<LI>Nationwide fundraiser selling Guatemalan bracelet for �1 each.
+<LI>Gig in <b>Whelans pub Friday 13th December.</b>
+<LI> Group Christmas Party!!!
+</UL>
+
+<H3>Help us with our <A HREF="mexico.html">Action File on Mexico</A>.</H3>
+<hr size=5 >
+
+<H3>Information about Amnesty and Human Rights</H3>
+
+<TABLE BORDER="0">
+<TR><TD ALIGN=LEFT VALIGN=top>
+<B><a href="http://www.amnesty.org/aboutai/index.html">
+<img src="pix/button.help.gif" width="40" height="40" ALIGN=middle>
+What does Amnesty do?</a>
+<BR><BR> 
+
+<a href="http://www.amnesty.org/aisect/index.html">
+<img src="pix/button.smile.gif" width="40" height="40" ALIGN=middle>
+Visit AI sections world-wide</a>
+<BR><BR>
+
+<a href="http://www.igc.org/amnesty/urgact/urgact.html">
+<img src="pix/button.mail.gif" width="40" height="40" ALIGN=middle>
+Urgent Action</a> changed monthly.</B>
+
+<TD ALIGN=LEFT VALIGN=top>
+<B><a href="http://www.traveller.com/~hrweb/legal/undocs.html">
+<img src ="pix/button.books.gif" width="40" height="40" ALIGN=middle>
+UN Human Right Documents</a>
+<BR><BR>
+
+<a href="http://www.abolition-now.com/">
+<img src="pix/button.sun.gif" width="40" height="40" ALIGN=middle>
+WWW Abolition page.</a>
+<BR><BR>
+
+<a href="http://www.usis.usemb.se/human/index.htm">
+<img src="pix/icon.world.gif" width="40" height="40" ALIGN=middle>
+US Dept. of State country reports</a></B>
+</TABLE>
+<BR><BR>
+
+<B>DP info on <a href="http://members.aol.com/jseering/index.html">VIRGINIA</A>
+and <a href="http://www.inetport.com/~ai500/DP.html">TEXAS</a>. 
+Lots of other <a href="http://www.wco.com/~aerick/dp.htm">DP links</a></B>
+
+<HR>
+<CENTER>
+<i><strong>This page is maintained by the
+<a href="mailto:aismount@amnesty.iol.ie">AI Sandymount group</a></strong></i>
+<img src="pix/eiresmall.gif" width="50" height="30" align=middle vspace="15">
+</CENTER> 
+<hr>
+
+<CENTER>
+<B><A HREF="http://amnesty.iol.ie/">
+<img src="pix/arrow.blue.left.gif" width="40" height="40" align=middle>
+AI Irish Section</a> home page.</B><P> 
+
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 4 December 1996</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</I></B>
+</CENTER>
+
+</BODY>
+</HTML>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-40</DOCNO>
+<DOCOLDNO>IA032-000661-B046-114</DOCOLDNO>
+<DOCHDR>
+http://amnesty.iol.ie:80/mexico.html 194.125.2.11 19970209131921 text/html 6855
+HTTP/1.1 200 OK
+Date: Sun, 09 Feb 1997 13:19:32 GMT
+Server: Apache/1.2b6
+Connection: close
+Content-Type: text/html
+Last-Modified: Tue, 03 Dec 1996 19:16:57 GMT
+ETag: "16074-19d6-32a47ca9"
+Content-Length: 6614
+Accept-Ranges: bytes
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Mexico Action File for Sandymount Group, Ireland</title>
+</HEAD>
+
+<body bgcolor="#FFFFFF" background="pix/sky.gif">
+<CENTER>
+<H2>Amnesty International Irish Section - Sandymount Group</H2>
+<TABLE BORDER="5">
+<TR><TD>
+<CENTER><img src="pix/action_f.gif" width="450" height="26" ALT="Action Files"></CENTER>
+</TABLE>
+</CENTER>
+<BR><BR>
+<img src="pix/guayasam.gif" ALIGN=left width="241" height="241" HSPACE="10" BORDER="1">
+
+Most Amnesty groups have an action file. It usually concerns
+someone who is a prisoner of conscience or perhaps a
+disappeared person. The group will campaign, often for several
+years, for the person's release or "reappearance". The campaign
+will include letter writing, petitions, local area lobbbying and
+press and media publicity in the local area.  The group
+effectively adopts someone. We are working on a case in <a href="http://www.usis.usemb.se/human/mexico.htm">
+<B>Mexico</B></a>. Please take a moment to read it and write an appeal letter.
+
+<p><b>Manuel Manriquez San Agustin</b> is a musician and member of
+the Otomi indigenous community of Rancheria Piedra Blanca,
+Tutotepec in the State of Hidalgo.  He was arbitrarily arrested
+without warrant by the PJDF in Mexico City on 2 June 1990.  Like
+many Indian defendants in Mexico, he was allegedly detained
+because of his ethnic and economic background, which the police
+interpreted as precluding his access to lawyers or complaints
+mechanisms.  Manuel Manriquez, who did not speak nor write
+Spanish at the time remained incommunicado for four days under
+police custody and was brutally tortured with beatings; near
+asphyxiation with plastic bags over his head; carbonated water
+with chilli forced into his nose (a method known as tehuacanazo,
+which takes it's name from a popular brand of mineral water)
+burns, and electric shocks to sensitive parts of his body and
+was forced to "sign" papers he could not understand. 
+
+<p>He was accused of murder and brought before a judge who, based on the defendant's "signed confession" remanded Manuel Manriquez San
+Agustin to the Reclusorio Preventivo Norte on charges of murder.
+ Despite the illegality of his detention, the clear signs of
+torture - which were later certified by a prison doctor - and the
+lack of evidence other than his signed statements without an
+interpreter to support the charges   was sentenced in July 1991
+to 24 years imprisonment.  The sentence was confirmed on appeal
+on February 1992, despite lack of any further evidence. 
+
+<p>His case was also presented before the National Human Rights
+Commission (CNDH) which has issued a statement on his behalf
+acknowledging his torture, to no avail.  Since his arrest....
+has learnt to speak and read Spanish and, in September 1991,
+co-founded a human rights organisation with other indigenous
+prisoners: the <i>Comision de Defensa Campesina e Indigena del
+Comite Ricardo Lopez Juarez</i>, which has actively campaigned
+on behalf of the rights of Indians and peasants imprisoned in
+the Reclusorio Preventivo Norte and other prisons in Mexico.
+
+<p>Manuel Manriquez has become increasingly involved in campaigning
+for an end to torture and other human rights violations in
+Mexico. For example, on the first of April 1993 he joined a
+hunger strike carried out in several Mexican prisons by more
+than 50 prisoners.  The inmates were calling for an end to
+torture and for fair and prompt trials in the Mexican criminal
+justice system. 
+
+<p>In March 1994 a recurso de amparo was presented on his behalf, before the Supreme Court of Justice of the Federal District in order to contest the legality of his sentence.  It was rejected in September 1994 and his sentence was confirmed.
+
+<p>At the end of July 1994 Manuel Manriquez began his fourth hunger strike since imprisonment, calling for the release of scores of those reportedly under false charges in Mexican prisons and, in desperation at the repeated lack of effective response from the authorities, on 15 August 1994 he stitched his lips in protest and began a dry hunger strike refusing to take any liquids or solid foods for over a week.  He
+gave up his hunger strike on 23 august and was transferred to
+hospital where he received medical attention. 
+
+<p>In October 1994 Manuel Manriquez solicitor submitted another recurso de amparo on his behalf, which by September 1995 had not been
+responded to by the courts. 
+
+<p> On 11 November 1994 Manuel Manriquez was transferred, without any previous warning, from the prison in Mexico City.  His transferral took place in the late hours of the night and he was deprived of his personal belongings. It was reportedly carried out in response to his
+peaceful activism on behalf of prisoners' human rights .  He was
+held incommunicado for four days before being allowed to see his
+solicitor. In January 1995 he was interviewed in prison by an
+Amnesty International delegate, who had visited him twice before
+in 1992 and 1993. Amnesty International, who considers Manuel
+Manriquez San Agustin to be a prisoner of conscience, continues
+to call for his immediate and unconditional release. 
+
+<P>
+<CENTER>
+<B>Please send an appeal letter asking for the release of Manuel Manriquez to:</B>
+<P>
+<TABLE BORDER="0">
+<TR><TD><b>Lic. Ernesto Zedillo Ponce de Leon<BR>
+Presidente de la Republica<BR>
+Palacio Nacional<BR>
+06067 Mexico D.F.<BR>
+Mexico</B>
+</TABLE>
+<BR>
+<TABLE BORDER="0">
+<TR><TD ALIGN=LEFT VALIGN=top>
+<img src="pix/candle.gif" WIDTH="80" HEIGHT="80" ALIGN="middle">
+Amnesty won the<b> Nobel
+peace prize </b>in 1977
+<TD ALIGN=LEFT VALIGN=top>
+<img src="pix/nobel.gif"WIDTH="76" HEIGHT="76">
+</table>
+<BR><BR>
+Mexico is a very popular holiday  destination. Here is some
+<a href = "http://mexico-travel.com/sectur/sectur.html"><B>tourism
+information.</B></a>
+
+<HR>
+<TABLE>
+<TR><TD ALIGN=LEFT VALIGN=TOP>
+<B><A HREF="index.html"><img src="pix/arrow.blue.left.gif" WIDTH="40" HEIGHT="40" ALIGN="middle"> AI Irish Section</a> home page.</B></TD>
+<TD WIDTH="50">
+<TD ALIGN=LEFT VALIGN=top>
+<B><A HREF="ai-sg.html"><img src="pix/arrow.blue.left.gif" WIDTH="40" HEIGHT="40" ALIGN="middle"> AI Sandymount Group</a> home page.</B>
+</TABLE>
+
+<HR>
+<BR>
+This page was created by the <A HREF="mailto:aismount@amnesty.iol.ie"><B>AI
+Sandymount group</B></A>.
+<P>
+<A HREF="mailto:webmaster@amnesty.iol.ie">webmaster@amnesty.iol.ie</A><TT> +++ 3 December 1996</TT>
+<BR><B><I>This page has been made possible by <A HREF="http://www.iol.ie/">Ireland On-Line</I></B>
+</CENTER>
+</BODY>
+</HTML>
+</DOC>

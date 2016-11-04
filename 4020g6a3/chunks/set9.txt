@@ -1,0 +1,1951 @@
+<DOC>
+<DOCNO>WT03-B15-361</DOCNO>
+<DOCOLDNO>IA074-000483-B007-300</DOCOLDNO>
+<DOCHDR>
+http://acc123.usc.edu:80/Docs/icsur011.html 128.125.48.102 19970125004037 text/html 20191
+HTTP/1.1 200 Document follows. 
+Server: IBM-Secure-Export-ICS/v970115 Beta
+Date: Fri, 24 Jan 1997 21:39:10 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 19959
+Last-Modified: Mon, 13 Jan 1997 17:12:58 GMT
+</DOCHDR>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>Internet Connection Secure Server Quick Beginnings</TITLE>
+<!-- Begin Header Records  ========================================== -->
+<!-- ICSURMST SCRIPT A converted by B2H R2.4 (262) (CMS-OS2) by       -->
+<!-- KETRING at RALVM13 on 20 Dec 1996 at 16:44:30                    -->
+<META HTTP-EQUIV="security"  CONTENT="public">
+<META HTTP-EQUIV="updated"  CONTENT="Fri, 20 Dec 1996 16:44:14">
+<META HTTP-EQUIV="review"  CONTENT="2000">
+<META HTTP-EQUIV="expires"  CONTENT="2000">
+</HEAD><BODY>
+<!-- COMPONENT_NAME: web                                             -->
+<!--                                                                 -->
+<!-- FUNCTIONS:                                                      -->
+<!--                                                                 -->
+<!-- ORIGINS:  27                                                    -->
+<!--                                                                 -->
+<!-- (C) COPYRIGHT International Business Machines Corp. 1995, 1997  -->
+<!-- All Rights Reserved                                             -->
+<!-- Licensed Materials - Property of IBM                            -->
+<!--                                                                 -->
+<!-- US Government Users Restricted Rights - Use, duplication or     -->
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
+<!--                                                                 -->
+<!-- End Header Records  ============================================ -->
+<A NAME=Top_Of_Page>&nbsp;</A>
+<HR>
+<H1><A NAME="HDRGLO" HREF="icsur007.html#PToC_74">Appendix C. Glossary</A></H1>
+<P>
+This glossary defines terms used by the Internet Connection Secure Server.
+<DL>
+<P><DT>accessory script
+<DD>A CGI script program that processes SEARCH, POST, PUT, or DELETE
+requests.
+The accessory scripts process requests that are not explicitly
+mapped to a CGI script program named on an EXEC directive.
+<P><DT>address
+<DD>The unique code assigned to each device or
+workstation connected to a network.
+A standard Internet address (or IP address) is a 32-bit address field.
+This field contains two parts.
+The first part is the network address;
+the second part is the host number.
+See also <I>IP address</I>.
+<P><DT>agent
+<DD>
+In systems management, a user that, for a particular interaction,
+has assumed an agent role.
+<DD>
+An entity that represents one or more managed objects by
+(a) emitting notifications regarding the objects and
+(b) handling requests from managers for management operations
+to modify or query the objects.
+<P><DT>alias
+<DD>A name assigned to a server.
+The alias makes the server independent of the name of its host machine.
+The alias must be defined in the domain name server.
+<P><DT>asymmetric keys
+<DD>In secure communications, the two keys in a key pair.
+The keys are called asymmetric because one key holds more of the
+encryption pattern than the other does.
+See <I>key pair</I>.
+<P><DT>authentication
+<DD>In secure communications, a means of verifying the identity
+of a server or browser (client) with whom you wish to communicate.
+A sender's authenticity is demonstrated
+by the digital certificate issued to the sender.
+See also <I>certificate</I>.
+<P><DT>browser
+<DD>A client program that initiates requests to a server
+and displays the returned information.
+<P><DT>cache
+<DD>A special-purpose buffer storage, smaller and faster than main
+storage, used to hold a copy of data that may be frequently accessed.
+Use of a cache reduces access time,
+but may increase memory requirements.
+<P><DT>caching proxy server
+<DD>A proxy server that can store the documents it retrieves
+from other servers in a local cache.
+The server can then respond to subsequent requests for the
+same documents without having to retrieve them from other servers.
+This can improve response time.
+<P><DT>CERN
+<DD>Conseil Europeen pour la Recherche Nucleaire (European Laboratory
+for Particle Physics).
+Located in Geneva, CERN initiated the World Wide Web,
+and was the first to create a Web server.
+The CERN Web server is the basis for many commercially
+available servers, such as IBM's Internet Connection Secure Server.
+<P><DT>certificate
+<DD>In secure communications, a digital document that binds
+an encryption key to the identity of the certificate owner,
+so that the certificate owner can be authenticated.
+A certificate is issued by a certification authority (CA).
+See also <I>encryption</I>, <I>certificate</I>, and
+<I>certification authority (CA)</I>.
+<P><DT>certification authority (CA)
+<DD>In secure communications,
+a trusted third party (such as VeriSign, Inc.)
+or a designated internal authority who issues certificates.
+See also <I>certificate</I>.
+<P><DT>CGI (common gateway interface)
+<DD>A standard interface between Web servers and external programs.
+CGI scripts are programs that use this interface to perform tasks
+not usually done by the server, such as form processing.
+<P><DT>CGI program
+<DD>A program that uses the common gateway interface (CGI)
+to perform tasks not usually done by the server, such as form processing.
+CGI programs can be written in any language supported by the operating
+system on which the server is run.
+The language can be a scripting language or a programming language.
+<P><DT>client
+<DD>A computer system or process that requests a service of
+another computer system or process.
+For example, a workstation or personal computer
+requesting HTML documents from an IBM Internet Connection Secure Server
+is a client of the IBM Internet Connection Secure Server it connects to.
+<P><DT>configuration file
+<DD>A file that describes the devices, optional features, communications
+parameters, and programs installed on a workstation.
+For Internet Connection Secure Server, the configuration file is named httpd.cnf
+and by default is put in the path specified
+on the SET ETC statement in your CONFIG.SYS file.
+The configuration file contains directives
+that define the various settings for the server.
+<P><DT>cookie
+<DD>A general mechanism that server-side connections, such as
+CGI scripts, can use to store information on the
+client side of the connection for later retrieval.
+For example, a retail Web site can
+store per-user preferences on the client, and have the client supply
+those preferences every time that site is connected to.  A cookie
+is introduced to the client in a Set-Cookie header, which is included
+as part of an HTTP response.
+<P><DT>default
+<DD>A value, attribute, or option that is assumed
+when none is explicitly specified.
+<P><DT>directive
+<DD>A statement used in the Internet Connection Secure Server configuration file
+to define a particular setting for the server.
+<P><DT>directory
+<DD>A named grouping of files in a file system.
+<P><DT>Distinguished Name
+<DD>In secure communications, the name and address of the person
+and organization to whom a certificate has been issued.
+See also <I>certificate</I>.
+<P><DT>document root directory
+<DD>The primary directory where a Web server stores accessible documents.
+When the server receives requests that do not point to a specific
+directory, it tries to serve the request from this directory.
+<P><DT>domain
+<DD>In an internet, a part of the naming hierarchy.
+A domain name consists of a sequence
+of names (labels) separated by periods (dots).
+<P><DT>domain name
+<DD>A name of a host system in a network.
+A domain name consists of a sequence
+of names (labels) separated by periods (dots).
+<P><DT>domain name server
+<DD>A server program that supplies address-to-name
+translation by mapping Internet addresses to domain names.
+Use of a domain name server allows users
+to request services of another computer using a symbolic name,
+which is easier to remember than an Internet address.
+<P><DT>dotted-decimal notation
+<DD>The syntactical representation for a 32-bit integer that consists of
+four 8-bit numbers, written in base 10 and separated by periods (dots).
+It is used to represent IP addresses.
+<P><DT>dynamic link library (DLL)
+<DD>A file containing executable code and data bound to a program
+at load time or run time.  The code and data in a dynamic link
+library can be shared by several applications simultaneously.
+<P><DT>encryption
+<DD>In secure communications, a means of scrambling data
+to prevent the data from being read by
+anyone other than the intended recipient.
+The sender uses a key to encrypt the message;
+the recipient uses the decryption key.
+See also <I>key</I> and <I>key pair</I>.
+<P><DT>file extension
+<DD>The last part of a file&#39;s name, following the period (dot).
+For example, in the filename welcome.html, the file extension is html.
+<P><DT>firewall
+<DD>A computer that connects a private network, such as a business,
+to a public network, such as the Internet.
+It contains programs that limit the access between two networks.
+See also <I>proxy gateway</I>.
+<P><DT>FTP (File Transfer Protocol)
+<DD>An application protocol used for transferring files to
+and from host computers.
+FTP requires a user ID, and a password to allow
+access to files on a remote host system.
+<P><DT>gateway
+<DD>A functional unit that connects a local data network with
+another network.
+See also <I>proxy gateway</I>.
+<P><DT>Gopher
+<DD>The protocol, developed at the University of Minnesota,
+that provides a menu-driven interface for accessing files
+and information on other computers.
+<P><DT>home page
+<DD>The welcome page on the document root directory of a Web server.
+Commonly used as the entry point for the contents of the server.
+See also <I>welcome page</I>.
+<P><DT>host
+<DD>A computer, connected to a network, which provides
+an access point to that network.
+A host can be a client, a server, or a client and server
+simultaneously.
+<P><DT>host name
+<DD>A name, such as tcpipidd.raleigh.ibm.com, that is defined
+for an IP address, such as 9.67.97.103.
+<P><DT>HTML (Hypertext Markup Language)
+<DD>A language used to create hypertext documents.
+Hypertext documents can include links to other related documents.
+HTML controls the format of text and position of form input areas,
+for example, as well as the navigable links.
+<P><DT>HTML document
+<DD>A document written in HTML that may contain links to other documents
+that contain additional information about related terms or subjects.
+<P><DT>HTTP (Hypertext Transfer Protocol)
+<DD>The protocol used to transfer and display hypertext documents.
+<P><DT>HTTP method
+<DD>An action used by the Hypertext Transfer Protocol.
+For example, HTTP methods include GET, POST, and PUT.
+<P><DT>icon
+<DD>A graphical representation of an object (a file or program),
+consisting of an image, image background, and a label.
+<P><DT>Internet
+<DD>A wide area network connecting thousands of disparate networks
+in industry, education, government, and research.
+The Internet network uses TCP/IP as the standard
+for transmitting information.
+<P><DT>IP address
+<DD>The unique 32-bit address that specifies the actual location
+of each device or workstation in the Internet.
+For example, 9.67.97.103 is an IP address.
+<P><DT>key
+<DD>In secure communications,
+an algorithmic pattern used by a sender to encrypt messages,
+and by a recipient to decrypt messages.
+See also <I>encryption</I>, <I>key pair</I>, and
+<I>key ring</I>.
+<P><DT>key pair
+<DD>In secure communications, a public key and a private key.
+The sender uses the private key to encrypt the message;
+the recipient uses the public key to decrypt the message.
+Because the private key holds more of the encryption pattern
+than the public key does, the key pair is called asymmetric.
+See also <I>public key</I> and <I>private key</I>.
+<P><DT>key ring
+<DD>In secure communications, a file that contains public keys,
+private keys, trusted roots, and certificates.
+See also <I>public key</I>, <I>private key</I>,
+<I>trusted root</I>, and <I>certificate</I>.
+<P><DT>managed node
+<DD>
+In Internet communications, a workstation, server, or router
+that contains a network management agent.
+In the Internet Protocol (IP), the managed node usually contains a
+Simple Network Management Protocol (SNMP) agent.
+<P><DT>method
+<DD>An action used by the Hypertext Transfer Protocol.
+For example, HTTP methods include GET, POST, and PUT.
+<P><DT>MIB
+<DD>
+Management Information Base.
+A collection of objects that can be accessed by means of
+a network management protocol.
+<DD>
+A definition for management information that specifies
+the information available from a host or gateway
+and the operations allowed.
+<P><DT>MIME (Multipurpose Internet Mail Extensions)
+<DD>An Internet standard for multimedia e-mail,
+including graphics, audio, and fax.
+<P><DT>name server
+<DD>A host that provides name resolution for a network.
+Name servers translate symbolic names assigned to networks
+and hosts into the Internet (IP) addresses used by machines.
+<P><DT>network management station
+<DD>
+In the Simple Network Management Protocol (SNMP),
+a station that executes management application programs
+that monitor and control network elements.
+<P><DT>password
+<DD>In secure communications, a string of characters that you use
+to protect access to your key ring.
+See also <I>key ring</I>.
+<P><DT>path
+<DD>A statement that indicates where a file is stored
+on a particular drive.
+The path consists of all the directories
+that must be opened to get to a particular file.
+The directory names are separated by the backslash (\).
+<P><DT>persistent connection
+<DD>A TCP/IP connection that allows the server to accept multiple
+requests and to sent responses over the same connection.
+<P><DT>PICS
+<DD>Platform for Internet Content Selection.
+An evolving set of specifications governing the creation and
+use of ratings for Web information, including HTML files, as well
+as image, sound, and animation files.  Content providers can rate
+and label their own Web information; also, independent rating
+services can rate Web information.  Internet users can then request
+the ratings as a way to preview and filter Web information for
+acceptable content.
+<P><DT>port
+<DD>An end point for communication between applications,
+generally referring to a logical connection.
+A port provides queues for sending and receiving data.
+Each port has a port number for identification.
+When the port number is combined with an Internet address,
+it is called a socket address.
+<P><DT>private key
+<DD>In secure communications, an algorithmic pattern used
+to encrypt messages that can be decrypted only
+by the corresponding public key.
+A private key is also used to decrypt messages
+that were encrypted by the corresponding public key.
+You keep your private key on your own system in a key
+ring, protected by a password.
+See also <I>encryption</I>, <I>public key</I>,
+and <I>key ring</I>.
+<P><DT>protection setup
+<DD>A group of protection subdirectives that work together
+to define how the server should control access to
+the resources being protected.
+You can define protection setups within the configuration file,
+in separate protection setup files, or by using the
+Configuration and Administration forms.
+<P><DT>protocol
+<DD>The set of rules governing the operation of functional units of a
+communication system if communication is to take place.
+Protocols can determine low-level details of machine-to-machine
+interfaces, such as the order in which bits from a byte are sent;
+they can also determine high-level exchanges
+between application programs, such as file transfer.
+<P><DT>proxy gateway
+<DD>A type of firewall that protects computers in a business network
+from access by users outside that network.
+See also <I>firewall</I>.
+<P><DT>proxy server
+<DD>A server that can retrieve documents from other servers for
+its clients.
+<P><DT>public key
+<DD>In secure communications, an algorithmic pattern used
+to decrypt messages that were encrypted
+by the corresponding private key.
+A public key is also used to encrypt messages
+that can only be decrypted by the corresponding private key.
+You broadcast your public key to everyone who will
+need to exchange encrypted messages with you.
+See also <I>encryption</I>, <I>private key</I>, and
+<I>key ring</I>.
+<P><DT>README file
+<DD>A file containing information and instructions for using the
+associated program or programs
+<P><DT>request
+<DD>The part of a URL that follows the protocol and server host name.
+For example, in the URL http://www.server.com/rfoul/sched.html,
+the request is: /rfoul/sched.html
+<P><DT>server
+<DD>A computer that provides shared services to other computers
+over a network;
+for example, a file server, a print server, or a mail server.
+<P><DT>server root directory
+<DD>The directory where the Internet Connection Secure Server program is installed.
+By default, the server root directory is
+C&#58;\WWW\BIN.
+<P><DT>server-side includes (SSI)
+<DD>A facility for including dynamic information in documents sent
+to clients, such as current date, the file's last modification date,
+and the size or last modification of other files.
+<P><DT>SSL
+<DD>Secure Sockets Layer.
+SSL is a popular security scheme developed by Netscape Communications
+Corp., along with RSA Data Security, Inc.
+SSL allows the client to authenticate the server and all
+data and requests to be encrypted.
+The URL of a secure server protected by
+SSL begins with https (rather than http).
+See also <I>authentication</I>.
+<P><DT>subdirectory
+<DD>A directory contained within another directory in a file
+system hierarchy.
+<P><DT>thread
+<DD>The smallest unit of operation performed within a process.
+<P><DT>thread pool
+<DD>The threads that are either being used or available to Internet Connection Secure Server.
+<P><DT>trusted root
+<DD>In secure communications, the public key and
+associated Distinguished Name of a certification authority (CA).
+See also <I>public key</I>, <I>Distinguished Name</I>, and
+<I>certification authority (CA)</I>.
+<P><DT>URL (Uniform Resource Locator)
+<DD>The address convention that indicates the location of an item on
+the World Wide Web.
+It includes the protocol followed by the fully-qualified host name,
+and the request.
+The server typically maps the request
+portion of the URL to a path and file name.
+For example, http://www.ibm.com/index.html
+<P><DT>virtual host
+<DD>One of several host names that you can define for a single
+IP address in the domain name server.  That IP address can then
+serve multiple files, rather than requiring different IP addresses
+for different files.
+<P><DT>WAIS (Wide Area Information Service)
+<DD>A network information system that enables
+clients to search documents on the World Wide Web.
+<P><DT>Web
+<DD>The World Wide Web:  the network of HTTP
+servers that contain programs and files,
+such as hypertext documents that contain links to other
+documents on HTTP servers.
+<P><DT>Web server
+<DD>A server on the World Wide Web.
+See also <I>Web</I>.
+<P><DT>welcome page
+<DD>A document that is returned by a Web server in response to
+a request that points to a directory but does not contain a file name.
+Each accessible directory on the server can have a welcome page.
+See also <I>home page</I>.
+<P><DT>wildcard character
+<DD>An asterisk (*) used in a template.
+For the template to be matched, an asterisk can be replaced
+by any character string or single character.
+A question mark must be replaced by one single character.
+</DL>
+<P><HR><B>&#91; <A HREF="#Top_Of_Page">Top of Page</A> &#124; <A HREF="icsur010.html">Previous Page</A> &#124; <A HREF="icsur012.html">Next Page</A> &#124; <A HREF="icsurmst.html#ToC">Table of Contents</A> &#93;</B>
+<A NAME=Bot_Of_Page>&nbsp;</A>
+</BODY></HTML>
+
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-362</DOCNO>
+<DOCOLDNO>IA074-000483-B007-322</DOCOLDNO>
+<DOCHDR>
+http://acc123.usc.edu:80/Docs/icsur012.html 128.125.48.102 19970125004050 text/html 9396
+HTTP/1.1 200 Document follows. 
+Server: IBM-Secure-Export-ICS/v970115 Beta
+Date: Fri, 24 Jan 1997 21:39:23 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 9165
+Last-Modified: Mon, 13 Jan 1997 17:13:00 GMT
+</DOCHDR>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>Internet Connection Secure Server Quick Beginnings</TITLE>
+<!-- Begin Header Records  ========================================== -->
+<!-- ICSURMST SCRIPT A converted by B2H R2.4 (262) (CMS-OS2) by       -->
+<!-- KETRING at RALVM13 on 20 Dec 1996 at 16:44:30                    -->
+<META HTTP-EQUIV="security"  CONTENT="public">
+<META HTTP-EQUIV="updated"  CONTENT="Fri, 20 Dec 1996 16:44:14">
+<META HTTP-EQUIV="review"  CONTENT="2000">
+<META HTTP-EQUIV="expires"  CONTENT="2000">
+</HEAD><BODY>
+<!-- COMPONENT_NAME: web                                             -->
+<!--                                                                 -->
+<!-- FUNCTIONS:                                                      -->
+<!--                                                                 -->
+<!-- ORIGINS:  27                                                    -->
+<!--                                                                 -->
+<!-- (C) COPYRIGHT International Business Machines Corp. 1995, 1997  -->
+<!-- All Rights Reserved                                             -->
+<!-- Licensed Materials - Property of IBM                            -->
+<!--                                                                 -->
+<!-- US Government Users Restricted Rights - Use, duplication or     -->
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->
+<!--                                                                 -->
+<!-- End Header Records  ============================================ -->
+<A NAME=Top_Of_Page>&nbsp;</A>
+<BR>
+<HR>
+<H1><A NAME="HDRBIB" HREF="icsur007.html#PToC_75">Appendix D. Bibliography</A></H1>
+<P>This bibliography lists the
+books related to the Internet Connection Secure Server Version 4.2.
+<HR>
+<H2><A NAME="Header_76" HREF="icsur007.html#PToC_76">For AIX</A></H2>
+<UL>
+<P><LI><CITE>Quick Beginnings</CITE>, GC31-8482
+<P>Explains how to plan for, install, start your server using
+the default configuration settings, and stop your server.
+Also explains how to view online help and print online books.
+<P><LI><CITE>Webmaster's Guide for AIX, HP-UX, and Solaris</CITE>, GC31-8487
+<P>Explains how to change the default configuration settings to
+meet your needs, either by using the built-in configuration utility
+or by editing the configuration file.
+Also explains how to control and track users' access to your server, how
+to include dynamic information in the files your server returns to
+users, and how to set up a secure
+environment for your users to conduct business.
+<P><LI><CITE>Web Programming Guide</CITE> (available in HTML format
+from your server's Front Page or in PDF format from this URL:
+http://www.ics.raleigh.ibm.com)
+<P>Explains how to write external programs that interact with the
+Internet Connection Secure Server, via either the Common Gateway Interface (CGI) or the
+Internet Connection API (ICAPI).
+For example, you can write a CGI program
+to generate a dynamic response to user input, or you can write an
+ICAPI program to customize the way errors are handled.
+</UL>
+<HR>
+<H2><A NAME="Header_77" HREF="icsur007.html#PToC_77">For HP-UX</A></H2>
+<UL>
+<P><LI><CITE>Quick Beginnings</CITE>, GC31-8483
+<P>Explains how to plan for, install, start your server using
+the default configuration settings, and stop your server.
+Also explains how to view online help and print online books.
+<P><LI><CITE>Webmaster's Guide for AIX, HP-UX, and Solaris</CITE>, GC31-8487
+<P>Explains how to change the default configuration settings to
+meet your needs, either by using the built-in configuration utility
+or by editing the configuration file.
+Also explains how to control and track users' access to your server, how
+to include dynamic information in the files your server returns to
+users, and how to set up a secure
+environment for your users to conduct business.
+<P><LI><CITE>Web Programming Guide</CITE> (available in HTML format
+from your server's Front Page or in PDF format from this URL:
+http://www.ics.raleigh.ibm.com)
+<P>Explains how to write external programs that interact with the
+Internet Connection Secure Server, via either the Common Gateway Interface (CGI) or the
+Internet Connection API (ICAPI).
+For example, you can write a CGI program
+to generate a dynamic response to user input, or you can write an
+ICAPI program to customize the way errors are handled.
+</UL>
+<HR>
+<H2><A NAME="Header_78" HREF="icsur007.html#PToC_78">For OS/2 Warp</A></H2>
+<UL>
+<P><LI><CITE>Quick Beginnings</CITE>, GC31-8481
+<P>Explains how to plan for, install, start your server using
+the default configuration settings, and stop your server.
+Also explains how to view online help and print online books.
+<P><LI><CITE>Webmaster's Guide</CITE>, GC31-8486
+<P>Explains how to change the default configuration settings to
+meet your needs, either by using the built-in configuration utility
+or by editing the configuration file.
+Also explains how to control and track users' access to your server, how
+to include dynamic information in the files your server returns to
+users, and how to set up a secure
+environment for your users to conduct business.
+<P><LI><CITE>Web Programming Guide</CITE> (available in HTML format
+from your server's Front Page or in PDF format from this URL:
+http://www.ics.raleigh.ibm.com)
+<P>Explains how to write external programs that interact with the
+Internet Connection Secure Server, via either the Common Gateway Interface (CGI) or the
+Internet Connection API (ICAPI).
+For example, you can write a CGI program
+to generate a dynamic response to user input, or you can write an
+ICAPI program to customize the way errors are handled.
+<P><LI><CITE>SystemView for OS/2 Version 1.1 Up and Running!</CITE>, SH19-4184
+<P>Explains the concepts of systems management
+in a LAN workgroup environment.
+Also explains how to install and configure SystemView for OS/2, and
+includes user scenarios to show you how to get started with
+day-to-day systems management and software distribution.
+</UL>
+<HR>
+<H2><A NAME="Header_79" HREF="icsur007.html#PToC_79">For Solaris</A></H2>
+<UL>
+<P><LI><CITE>Quick Beginnings</CITE>, GC31-8484
+<P>Explains how to plan for, install, start your server using
+the default configuration settings, and stop your server.
+Also explains how to view online help and print online books.
+<P><LI><CITE>Webmaster's Guide for AIX, HP-UX, and Solaris</CITE>, GC31-8487
+<P>Explains how to change the default configuration settings to
+meet your needs, either by using the built-in configuration utility
+or by editing the configuration file.
+Also explains how to control and track users' access to your server, how
+to include dynamic information in the files your server returns to
+users, and how to set up a secure
+environment for your users to conduct business.
+<P><LI><CITE>Web Programming Guide</CITE> (available in HTML format
+from your server's Front Page or in PDF format from this URL:
+http://www.ics.raleigh.ibm.com)
+<P>Explains how to write external programs that interact with the
+Internet Connection Secure Server, via either the Common Gateway Interface (CGI) or the
+Internet Connection API (ICAPI).
+For example, you can write a CGI program
+to generate a dynamic response to user input, or you can write an
+ICAPI program to customize the way errors are handled.
+</UL>
+<HR>
+<H2><A NAME="Header_80" HREF="icsur007.html#PToC_80">For Windows NT</A></H2>
+<UL>
+<P><LI><CITE>Quick Beginnings</CITE>, GC31-8485
+<P>Explains how to plan for, install, start your server using
+the default configuration settings, and stop your server.
+Also explains how to view online help and print online books.
+<P><LI><CITE>Webmaster's Guide</CITE>, GC31-8488
+<P>Explains how to change the default configuration settings to
+meet your needs, either by using the built-in configuration utility
+or by editing the configuration file.
+Also explains how to control and track users' access to your server, how
+to include dynamic information in the files your server returns to
+users, and how to set up a secure
+environment for your users to conduct business.
+<P><LI><CITE>Web Programming Guide</CITE> (available in HTML format
+from your server's Front Page or in PDF format from this URL:
+http://www.ics.raleigh.ibm.com)
+<P>Explains how to write external programs that interact with the
+Internet Connection Secure Server, via either the Common Gateway Interface (CGI) or the
+Internet Connection API (ICAPI).
+For example, you can write a CGI program
+to generate a dynamic response to user input, or you can write an
+ICAPI program to customize the way errors are handled.
+</UL>
+<HR>
+<H2><A NAME="Header_81" HREF="icsur007.html#PToC_81">Related publications</A></H2>
+<UL>
+<P><LI><CITE>OS/390 MVS System Management Facilities</CITE>,
+GC28-1783
+</UL>
+<BR>
+<P><HR><B>&#91; <A HREF="#Top_Of_Page">Top of Page</A> &#124; <A HREF="icsur011.html">Previous Page</A> &#124; <A HREF="icsurmst.html#ToC">Table of Contents</A> &#93;</B>
+<A NAME=Bot_Of_Page>&nbsp;</A>
+</BODY></HTML>
+
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-363</DOCNO>
+<DOCOLDNO>IA074-000483-B007-352</DOCOLDNO>
+<DOCHDR>
+http://acc123.usc.edu:80/Docs/icswg002.html 128.125.48.102 19970125004110 text/html 11495
+HTTP/1.1 200 Document follows. 
+Server: IBM-Secure-Export-ICS/v970115 Beta
+Date: Fri, 24 Jan 1997 21:39:42 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 11263
+Last-Modified: Wed, 15 Jan 1997 02:01:12 GMT
+</DOCHDR>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>Internet Connection Server Webmaster's Guide</TITLE>
+<!-- Begin Header Records  ========================================== -->
+<!-- ICSWGMST SCRIPT A converted by B2H R2.2a (243) (CMS-OS2) by EGD  -->
+<!-- at RALVM13 on 24 Jun 1996 at 13:38:36                            -->
+<META HTTP-EQUIV="security"  CONTENT="public">
+<META HTTP-EQUIV="updated"  CONTENT="1996-06-24">
+<META HTTP-EQUIV="review"  CONTENT="2000">
+<META HTTP-EQUIV="expires"  CONTENT="2000">
+</HEAD><BODY>
+<!-- COMPONENT_NAME: web                                             -->        
+<!--                                                                 -->        
+<!-- FUNCTIONS:                                                      -->        
+<!--                                                                 -->        
+<!-- ORIGINS:  27                                                    -->        
+<!--                                                                 -->        
+<!-- (C) COPYRIGHT International Business Machines Corp. 1995, 1996  -->        
+<!-- All Rights Reserved                                             -->        
+<!-- Licensed Materials - Property of IBM                            -->        
+<!--                                                                 -->        
+<!-- US Government Users Restricted Rights - Use, duplication or     -->        
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->      
+<!--                                                                 -->        
+<!-- End Header Records  ============================================ -->
+<A NAME=Top_Of_Page>&nbsp;</A>
+<P>
+<H1><A NAME="Header_1" HREF="icswgmst.html#ToC_1">Welcome&#33;</A></H1>
+<P>
+This book describes both the IBM Internet Connection Server and the IBM Internet Connection Secure Server for OS/2 Warp.
+<UL>
+<P><LI>Part 1 gives a brief overview of the IBM software servers and
+a more extensive overview of the Internet Connection Server and the Internet Connection Secure Server.
+<P><LI>Part 2 provides planning and installing information for your server.
+<P><LI>Part 3 provides information on using your server.
+</UL>
+<P><B>Note: </B>When we say "the server" in this book, we mean either the
+Internet Connection Server or the Internet Connection Secure Server.
+When we say "the secure server", we mean only the Internet Connection Secure Server.
+<HR>
+<H2><A NAME="HDRROADMAP" HREF="icswgmst.html#ToC_2">Information road map</A></H2>
+<BR>
+<P><B><A NAME="Table_1">Table 1. Information road map</A></B><BR>
+<PRE><TT>
++======================================+======================================+
+| If you want to...                    | Refer to...                          |
++======================================+======================================+
+| Read about the server                | <CITE>Up and Running!</CITE>                      |
++--------------------------------------+--------------------------------------+
+| Plan for the server                  | <CITE>Up and Running!</CITE>                      |
++--------------------------------------+--------------------------------------+
+| Install the server without a         | <CITE>Up and Running!</CITE>                      |
+| response file from a CD-ROM or a     |                                      |
+| remote code server                   |                                      |
++--------------------------------------+--------------------------------------+
+| Automatically install the server     | <CITE>Up and Running!</CITE>                      |
+| using a response file                |                                      |
++--------------------------------------+--------------------------------------+
+| Install the server using SystemView  | <CITE>Up and Running!</CITE>                      |
++--------------------------------------+--------------------------------------+
+| Start and stop the server            | the appropriate section              |
++--------------------------------------+--------------------------------------+
+| Use built-in HTML forms to configure | the appropriate section              |
+| the server                           |                                      |
++--------------------------------------+--------------------------------------+
+| Use the configuration file to        | the appropriate section              |
+| configure the server                 |                                      |
++--------------------------------------+--------------------------------------+
+| Change the directives in the         | the appropriate section              |
+| configuration file                   |                                      |
++--------------------------------------+--------------------------------------+
+| Use the server commands              | the appropriate section              |
++--------------------------------------+--------------------------------------+
+| View online documentation            | <CITE>Up and Running!</CITE>                      |
++--------------------------------------+--------------------------------------+
+| Print or order copies of the         | <CITE>Up and Running!</CITE>                      |
+| documentation                        |                                      |
++--------------------------------------+--------------------------------------+
+| Protect your server from unwanted    | the appropriate section              |
+| access                               |                                      |
++--------------------------------------+--------------------------------------+
+| Use security functions to make your  | the appropriate section              |
+| communications secure                |                                      |
++--------------------------------------+--------------------------------------+
+| Write programs that can interface    | <CITE>Web Programming Guide</CITE>                |
+| with the server                      |                                      |
++--------------------------------------+--------------------------------------+
+| Use server-side includes to imbed    | the appropriate section              |
+| information in HTML files            |                                      |
++--------------------------------------+--------------------------------------+
+| Use multiple IP addresses to manage  | the appropriate section              |
+| your server                          |                                      |
++--------------------------------------+--------------------------------------+
+| Customize your error messages        | the appropriate section              |
++--------------------------------------+--------------------------------------+
+| Review style guidelines and tips for | http://www.ics.raleigh.ibm.com/      |
+| creating Web information             |                                      |
++--------------------------------------+--------------------------------------+
+| Create HTML documents                | http://www.ics.raleigh.ibm.com/      |
++--------------------------------------+--------------------------------------+
+</TT></PRE><P>
+<HR>
+<H2><A NAME="HDRNEW41" HREF="icswgmst.html#ToC_3">What's new in Version 4.1</A></H2>
+<P>
+Enhancements for this version include:
+<DL>
+<P><DT><B>Improved logging and reporting
+</B><DD>You can control the access requests that your server logs.  You can
+also create and view reports based on the information in your access
+logs.  You can customize your reports or use any of the report
+templates that are provided.
+<P><DT><B>Support for user-written programs that interface with your server
+</B><DD>You can write programs that communicate and interact with your
+server, via either the Common Gateway Interface (CGI) or the
+Internet Connection API (ICAPI).
+For example, you can write a CGI program to generate a dynamic
+response to user input, or you can write an ICAPI program to
+customize the way errors are handled.
+<P><DT><B>Support for server-side includes
+</B><DD>You can insert dynamic (changing) information into HTML
+documents and CGI programs that the server sends to clients.
+For example, you can include the current date, the file size,
+and the date of the last change to the file.
+<P><DT><B>Customizable error messages
+</B><DD>You can tailor the messages that your server returns to clients
+when errors occur.
+For example, you can modify a message to explain
+how to fix a particular problem.
+For internal networks, you might even include the name and number of
+the contact person.
+<P><DT><B>Support for multiple IP addresses
+</B><DD>If you run your server on a machine with multiple
+network addresses, you can configure it to serve different files
+based on the IP address that a request comes in on.
+For example, an Internet service provider can configure
+a single server to supply multiple customers with Web sites with
+differing welcome pages, mapping rules, and access control.
+</DL>
+<P>
+<B>Configuration directives new in Version 4.1</B>:
+<A NAME="SPTNEWDIRS"><I>(Ref #1.)</I></A>
+<BR>
+<PRE><TT>
+                                                                               
+  &nbsp;
+            AccessLogArchive                  DataFilter Error                 
+            AccessLogExcludeMethod            ErrorLogArchive ErrorLogExpire   
+            AccessLogExcludeMimeType          ErrorLogSizeLimit ErrorPage Log  
+            AccessLogExcludeReturnCode        LogToGUI LogToSyslog NameTrans   
+            AccessLogExcludeURL               ObjectType PostExit PreExit      
+            AccessLogExpire                   ServerInit ServerTerm Service    
+            AccessLogSizeLimit                UseACLs UseMetaFiles             
+            AccessReportDescription                                            
+            AccessReportExcludeHostName                                        
+            AccessReportExcludeMethod                                          
+            AccessReportExcludeReturnCode                                      
+            AccessReportExcludeURL                                             
+            AccessReportIncludeHostName                                        
+            AccessReportIncludeURL                                             
+            AccessReportRoot                                                   
+            AccessReportTemplate                                               
+            AccessReportTopList                                                
+            Authentication Authorization                                       
+            BindSpecific                                                       
+                                                                               
+</TT></PRE><P>
+<P><HR><B>&#91; <A HREF="#Top_Of_Page">Top of Page</A> &#124; <A HREF="icswgmst.html">Previous Page</A> &#124; <A HREF="icswg003.html">Next Page</A> &#124; <A HREF="icswgmst.html#ToC">Table of Contents</A> &#93;</B>
+<A NAME=Bot_Of_Page>&nbsp;</A>
+</BODY></HTML>
+
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-364</DOCNO>
+<DOCOLDNO>IA074-000483-B007-397</DOCOLDNO>
+<DOCHDR>
+http://acc123.usc.edu:80/Docs/icswg003.html 128.125.48.102 19970125004132 text/html 47425
+HTTP/1.1 200 Document follows. 
+Server: IBM-Secure-Export-ICS/v970115 Beta
+Date: Fri, 24 Jan 1997 21:39:55 GMT
+Accept-Ranges: bytes
+Content-Type: text/html
+Content-Length: 47193
+Last-Modified: Wed, 15 Jan 1997 02:01:12 GMT
+</DOCHDR>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>Internet Connection Secure Server Webmaster's Guide</TITLE>
+<!-- Begin Header Records  ========================================== -->
+<!-- ICSWGMST SCRIPT A converted by B2H R2.4 (262) (CMS-OS2) by       -->
+<!-- KETRING at RALVM13 on 21 Dec 1996 at 08:27:39                    -->
+<META HTTP-EQUIV="security"  CONTENT="public">
+<META HTTP-EQUIV="updated"  CONTENT="Sat, 21 Dec 1996 08:21:42">
+<META HTTP-EQUIV="review"  CONTENT="2000">
+<META HTTP-EQUIV="expires"  CONTENT="2000">
+</HEAD><BODY>
+<!-- COMPONENT_NAME: web                                             -->        
+<!--                                                                 -->        
+<!-- FUNCTIONS:                                                      -->        
+<!--                                                                 -->        
+<!-- ORIGINS:  27                                                    -->        
+<!--                                                                 -->        
+<!-- (C) COPYRIGHT International Business Machines Corp. 1995, 1997  -->        
+<!-- All Rights Reserved                                             -->        
+<!-- Licensed Materials - Property of IBM                            -->        
+<!--                                                                 -->        
+<!-- US Government Users Restricted Rights - Use, duplication or     -->        
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM Corp. -->      
+<!--                                                                 -->        
+<!-- End Header Records  ============================================ -->
+<A NAME=Top_Of_Page>&nbsp;</A>
+<HR>
+<H1><A NAME="Header_4" HREF="icswgmst.html#ToC_4">Basic Configuration</A></H1>
+<HR>
+<H1><A NAME="HDRCNF" HREF="icswgmst.html#ToC_5">Changing the default configuration</A></H1>
+Changing configurations
+<P>
+Your server is operational once you install it.
+After you have the server installed and running, you will probably
+want to change some parts of the
+default configuration file to make the server meet your
+own particular needs.
+<P>
+This chapter explains what you can change about your server&#39;s
+configuration, as well as how to change these items, by using the
+Configuration and Administration forms or by editing the
+configuration file.
+<P>
+<P><A HREF="icswgmst.html#ToC">Partial Table-of-Contents</A>
+<MENU>
+<LI><A NAME=PToC_6 HREF="#Header_6" >Configuring your server</A>
+<MENU>
+<LI><A NAME=PToC_7 HREF="#HDRUSING" >Using the Configuration and Administration forms</A>
+<LI><A NAME=PToC_8 HREF="#HDREDITI" >Editing the configuration file</A>
+</MENU>
+<LI><A NAME=PToC_9 HREF="#HDRCONTACC" >Controlling access to the Configuration and Administration forms</A>
+<LI><A NAME=PToC_10 HREF="#HDROWNWEL" >Changing the default home page</A>
+<MENU>
+<LI><A NAME=PToC_11 HREF="#HDRDROOT" >Understanding the document root directory</A>
+<LI><A NAME=PToC_12 HREF="#HDRCDOCRT" >Changing your document root directory</A>
+<LI><A NAME=PToC_13 HREF="#Header_13" >Understanding the welcome pages</A>
+<LI><A NAME=PToC_14 HREF="#HDRXCHP" >Creating your own home page</A>
+</MENU>
+<LI><A NAME=PToC_15 HREF="#HDRPROXY" >Running your server as a proxy</A>
+<MENU>
+<LI><A NAME=PToC_16 HREF="#Header_16" >Caching documents on your proxy server</A>
+</MENU>
+<LI><A NAME=PToC_17 HREF="#Header_17" >Setting up your proxy server</A>
+<MENU>
+<LI><A NAME=PToC_18 HREF="#HDRCACPS" >Step 1. Configure basic proxy functions</A>
+<LI><A NAME=PToC_19 HREF="#Header_19" >Step 2. Configure basic caching functions</A>
+<LI><A NAME=PToC_20 HREF="#Header_20" >Step 3. Designate a port number for your proxy server</A>
+<LI><A NAME=PToC_21 HREF="#Header_21" >Step 4. Configure advanced proxy functions</A>
+<LI><A NAME=PToC_22 HREF="#Header_22" >Step 5. Configure advanced caching functions</A>
+<LI><A NAME=PToC_27 HREF="#HDRPROXA" >Step 6. Specify which clients can use the proxy</A>
+<LI><A NAME=PToC_28 HREF="#Header_28" >Step 7. Set up a secure connection</A>
+</MENU>
+<LI><A NAME=PToC_31 HREF="#HDRMULTIIP" >Running your server with multiple IP addresses or virtual hosts</A>
+<MENU>
+<LI><A NAME=PToC_32 HREF="#Header_32" >Multiple IP addresses</A>
+<LI><A NAME=PToC_33 HREF="#Header_33" >Virtual hosts</A>
+<LI><A NAME=PToC_34 HREF="#Header_34" >Setting up your server to use multiple IP addresses or virtual hosts</A>
+</MENU>
+<LI><A NAME=PToC_38 HREF="#Header_38" >Backing up files</A>
+</MENU><HR><P>
+<P>
+<HR>
+<H2><A NAME="Header_6" HREF="#PToC_6">Configuring your server</A></H2>
+<P>
+You can configure your server either by using the
+Configuration and Administration forms or by editing the
+server&#39;s configuration file.
+<P>
+<H3><A NAME="HDRUSING" HREF="#PToC_7">Using the Configuration and Administration forms</A></H3>
+<P>
+The server comes with Configuration and Administration
+forms.
+These forms are a combination of CGI programs and HTML forms
+that provide an easy way for you to configure your server or to
+view your server's current configuration settings.
+<P>
+Once the server is running, you can access the
+Configuration and Administration forms
+from WebExplorer (or any other Web browser).
+The browser can be on the same machine as the server or on any
+remote client that has access to the server.
+<P>To use the Configuration and Administration forms:
+<OL>
+<P><LI>
+Disable caching on your browser.
+Also, if you are configuring your server remotely from a browser
+that uses that specific server as its proxy server,
+you should disable the proxy server setting on your browser.
+<P><LI>
+Using your browser, go to the server's Front Page
+by typing the following URL:
+<PRE>
+<B>http://<VAR>your.server.name</VAR>/</B>
+</PRE>
+<P>where <VAR>your.server.name</VAR> is the fully qualified name
+of your host. For example, http://www.ibm.com/
+<P><LI>
+Click <B>Configuration and Administration Forms</B>.
+<P><LI>
+If you have not used the Configuration and Administration forms
+since starting your browser, you will be prompted for a user name
+and password.
+<P>
+Enter the user name and password you specified in the
+<B>Administrator ID</B> and <B>Password</B> fields during
+installation.
+If you did not change the installation defaults,
+the authorized user name is <TT>webadmin</TT> and the authorized
+password is <TT>webibm</TT>.
+If you did not change the defaults during installation, it is
+strongly recommended that you do so now to prevent unauthorized
+access to your server configuration.
+See <A HREF="#HDRCONTACC">"Controlling access to the Configuration and Administration forms"</A>.
+<P>
+After you enter an authorized user name and password,
+you go to the Configuration and Administration forms page.
+<P><LI>
+From the Configuration and Administration forms page,
+you can link to each of the input forms by clicking
+on the form name.
+<P>
+When you go to a form, it is displayed with
+the current configuration values in its input fields.
+(If you haven&#39;t changed your configuration since installation,
+these are the default values.)
+<P><LI>
+From any form, enter information about how you want to
+configure that particular part of your server.
+<P>
+Each form provides instructions
+to assist you in deciding what changes to make.
+For further information, you can click the help icon at
+the bottom of each form.
+The help icon links you to a help page that
+provides detailed steps for using the form to perform
+particular tasks.
+<P><LI>
+After you fill in the form, you must
+click <B>Apply</B> to indicate you want to update the server
+configuration with the changes you made.
+The <B>Apply</B> button is located below the input fields on each
+form.
+<P>
+If you decide you do not want to use the changes you made to the form,
+click <B>Reset</B>.
+This returns the fields on the form
+to the values they had when you first came to the form.
+<P><B>Note: </B>A few of the form pages have more than one set of <B>Apply</B>
+and <B>Reset</B> buttons.
+These pages are actually treated as multiple forms.
+If you click <B>Apply</B> or <B>Reset</B>, the action
+takes place only for the portion of the page associated with that
+set of buttons.
+<P><LI>
+If you clicked on <B>Apply</B>,
+the server shows you a message indicating whether your input was
+accepted.
+If the input was accepted, you see a Confirmation page that
+tells you what configuration directives were updated.
+<P>
+If the input was not accepted, you see a Configuration Error page
+explaining what was wrong with the information you entered.
+Go back to the form and try to correct the information.
+From the form you may also want to click the help icon at the bottom
+of the form.
+<P><LI>
+If the Confirmation page contains a <B>Restart Server</B> button,
+you can click it to have the server restart and begin using
+the configuration changes you just made.
+<P>
+If the Confirmation page does not contain a <B>Restart Server</B>
+button, then you need to stop your server and start it again for the
+configuration changes you made to take effect.
+For instructions on stopping and starting your server,
+see <A HREF="icswg004.html#HDRSTR">"Starting and stopping your server"</A>.
+</OL>
+<P><B>Note: </B>From the Confirmation page or the Restart Confirmation page,
+use the <B>Configuration Page</B> button to return to the
+Configuration and Administration forms.
+<P>
+<P>
+<H3><A NAME="HDREDITI" HREF="#PToC_8">Editing the configuration file</A></H3>
+<P>
+The other way to configure your server is
+by editing the configuration file.
+<P>
+By default, the configuration file is named httpd.cnf and
+is in the path specified on the SET ETC
+statement in your CONFIG.SYS file.
+<P>
+The configuration file is made up
+of statements called <B><I>directives</I></B>.
+You change your configuration by editing the configuration file,
+updating the directives, and saving your changes.
+<P>
+When you restart the server, your changes take effect, unless
+you changed one of the following directives:
+<UL COMPACT>
+<LI>Port
+<LI>BindSpecific
+<LI>SSLClientAuth
+<LI>SSLMode
+<LI>SSLPort
+<LI>NormalMode
+<LI>KeyFile
+<LI>imbeds
+<LI>ServerRoot
+</UL>
+<P>
+If you changed one of the directives in the above list,
+you must stop the server and start it again.
+For instructions on stopping and starting your server,
+see <A HREF="icswg004.html#HDRSTR">"Starting and stopping your server"</A>.
+<P>
+<A HREF="icswg005.html#HDRCFR">"Using the configuration file"</A> describes each of the configuration file directives.
+<HR>
+<H2><A NAME="HDRCONTACC" HREF="#PToC_9">Controlling access to the Configuration and Administration forms</A></H2>
+<P>
+After installation, your server has one authorized user name
+and one password that can be used to access the
+Configuration and Administration forms.
+<P>
+You specified the authorized user name and password in the
+<B>Administrator ID</B> and <B>Password</B> fields
+during installation.
+If you did not change the installation defaults,
+the authorized user name is <TT>webadmin</TT>
+and the authorized password is <TT>webibm</TT>.
+<P>
+The user name and password are stored in the ADMIN.PWD password file,
+which is located in the path specified by the SET ETC statement
+in your CONFIG.SYS file.
+<P>
+If you have not yet changed the default user name or password,
+you should do so now to prevent unauthorized access
+to the Configuration and Administration forms.
+<P>
+You can use either the htadm command or the Configuration
+and Administration forms to control user names, passwords,
+and password files.
+<P>
+If you just want to change the password for the default user name
+with the htadm command, you would enter the following:
+<PRE>
+<B>
+   htadm -passwd <VAR>d&#58;\setetc\</VAR>ADMIN.PWD <VAR>user-name password</VAR>
+</B>
+</PRE>
+<P>
+In the above example:
+<UL>
+<P><LI>
+<B><VAR>d&#58;\setetc\</VAR></B> is the path specified
+on the SET ETC statement in your CONFIG.SYS file.
+<P><LI>
+<VAR>user-name</VAR> is the name you entered
+for <B>Administrator ID</B> at installation.
+The installation default is <TT>webadmin</TT>.
+<P><LI>
+<VAR>password</VAR> is the new password you want to use.
+</UL>
+<P>
+See <A HREF="icswg015.html#HDRHTADM">"htadm command"</A> for complete
+instructions on how to use the htadm command.
+<P>
+For more information about limiting access to the resources
+on your server, see <A HREF="icswg009.html#HDRPRT">"Protecting your server"</A>.
+<HR>
+<H2><A NAME="HDROWNWEL" HREF="#PToC_10">Changing the default home page</A></H2>
+<P>
+One of the first configuration tasks you will want to perform is changing
+your server so that it returns your own <B><I>home page</I></B>.
+The home page is the document that your server returns
+when a client sends a request that does not point
+to a specific directory or file.
+So when a client sends a URL in the format of:
+<PRE>
+<B>http://<VAR>your.server.name</VAR>/</B>
+</PRE>
+your server responds by sending back your home page.
+When you first start the server,
+the server uses the Front Page as your home page
+and uses the default configuration file.
+<P>
+Configuration settings tell your
+server where to look for your home page and what its name is.
+So that you can understand how this works,
+this section contains background information about the
+document root directory and the welcome page list.
+The section then describes an easy way to create your own home page
+and have the server use it instead of the server's Front Page.
+<P><B>Note: </B>Some Web browsers use the term "home page" to also refer
+to the first page that the browser loads when it is started.
+This document uses the term only to refer to the server home page.
+<P>
+<H3><A NAME="HDRDROOT" HREF="#PToC_11">Understanding the document root directory</A></H3>
+<P>
+When the server receives requests that do not point to
+a specific directory, it tries to serve the request
+from the <B><I>document root directory</I></B>.
+Because you want your home page to be returned for requests that do
+not specify a directory or file name, you need to have your home page
+in your document root directory.
+<P>
+The document root directory is the directory you
+specified as your HTML directory during installation.
+If you used the installation defaults, the document root directory is
+C&#58;\WWW\HTML.
+<P>
+<P>
+<H3><A NAME="HDRCDOCRT" HREF="#PToC_12">Changing your document root directory</A></H3>
+<P>
+At some point you may decide to change the directory your server
+uses for its document root directory.
+<P>
+For example, you might want to change your document root directory
+if you are creating a new set of HTML documents for your server to use.
+While you are creating the new documents,
+you might want to keep them on a directory not accessible to the server.
+<P>
+Follow these steps to change your document root directory:
+<OL>
+<P><LI>From the Configuration and Administration forms page,
+click <B>Request Routing</B>.
+(If you're not sure how to access the Forms, see <A HREF="#HDRUSING">"Using the Configuration and Administration forms"</A>.)
+<P><LI>On the Request Routing form, select the <B>Replace</B> button.
+<P><LI>Change the <B>Index</B> field to the number
+of the Pass rule that has /* as its URL request template.
+<P><LI>Change the <B>Action</B> field to <B>Pass</B>.
+<P><LI>Enter <B>/*</B> in the <B>URL request template</B> field.
+<P><LI>Enter your new document root directory in the
+<B>Replacement file path</B> field.
+<P><LI>Click <B>Apply</B>.
+<P><LI>From the Confirmation page, click <B>Restart Server</B>.
+<P>After restarting, the server begins to use the new document root
+directory.
+</OL>
+<P>
+So now you know where your server looks for your home page,
+but how does it know which file to return?
+This is defined by the list of welcome pages.
+<P>
+<H3><A NAME="Header_13" HREF="#PToC_13">Understanding the welcome pages</A></H3>
+<P>
+The server&#39;s configuration defines a list of file names
+that the server can use as <B><I>welcome pages</I></B>.
+These are the files the server looks for when it
+receives URL requests that do not specify a file name.
+<P>
+For requests that do not specify either a directory or file name,
+you want the server to return your home page.
+As described in the previous section, the server looks for your
+home page on the document root directory.
+It then determines which file contains your home page by matching the
+list of welcome pages to the files in the directory.
+The first match it finds is the file it returns as your home page.
+<P>
+The default configuration file defines a list of four welcome pages.
+The order of the welcome pages is important because the
+server goes down the list from top to bottom when looking for
+the file it should return.
+<P>
+The default welcome page file names and their default order are:
+<OL COMPACT>
+<LI>Welcome.html
+<LI>welcome.html
+<LI>index.html
+<LI>Frntpage.html
+</OL>
+<P>
+The server returns the first file it finds that matches a file name
+in the list.
+Until you create a Welcome.html, welcome.html, or index.html file
+and place the file in the document root directory,
+the server uses Frntpage.html as your home page.
+<P>
+For example, if you are using the default configuration and your
+document root directory does not contain a file named Welcome.html,
+or welcome.html, but does contain files named index.html and Frntpage.html,
+the index.html file is used as your home page.
+<P>
+For more information on welcome pages and how they are used
+by directories other than the document root directory,
+see <A HREF="icswg005.html#HDRDIREC">"Directories and Welcome Page - Set viewing options"</A>.
+<P>
+The easiest way to have your server start returning your own
+home page is to create the page in a file named Welcome.html
+and store the file on your document root directory.
+The next section explains how to do this.
+<P>
+<H3><A NAME="HDRXCHP" HREF="#PToC_14">Creating your own home page</A></H3>
+<P>
+You can use any HTML document for your home page.
+<P>
+If you already have a document you want to use as your home page,
+just copy it into your document root directory and rename it to
+Welcome.html, welcome.html, or index.html.
+<P>
+If you want to create a new home page and have your server start using
+it, you can use the following procedure:
+<OL>
+<P><LI>Using your browser, go to the server's Front Page
+by typing the following URL:
+<PRE>
+<B>http://<VAR>your.server.name</VAR>/</B>
+</PRE>
+<P>where <VAR>your.server.name</VAR> is
+the fully qualified name of your host.
+For example, http://www.ibm.com/.
+<P><LI>Click <B>Sample Home Page</B>.
+<P><LI>From WebExplorer select <B>Save as</B> from the <B>File</B>
+pull-down menu on the menu bar.
+(Most other browsers provide a similar function.)
+<P><LI>Save the file with a name of
+Welcome.html and put it in the document root directory.
+Your home page must be placed in your root directory
+since this is the directory your server uses to serve
+requests that do not point to a specific directory.
+<P><LI>
+Use your choice of editors to edit the new Welcome.html file
+and turn it into your own home page masterpiece.
+</OL>
+<P>
+Need some help with HTML?
+Depending upon your current level of expertise with HTML, there
+are many sources of information available.
+<UL>
+<P><LI>The Internet Connection Family Home Page, which is a link from
+the server's front page, allows you to download beta code,
+as well as giveaways, retail products, and accessory products.
+<P><LI>
+A fun and easy way to learn about HTML and generate ideas
+for your own home page is to go surfing on the Web.
+Find some pages you like and use your browser to
+view the HTML markup that makes them work.
+<P><LI>Many samples are available in BonusPak and BonusPak II.
+</UL>
+<P>
+You can write your HTML documents using any editor capable
+of producing flat text files.
+However, if you use a plain text editor
+you will have to key in each of the HTML tags.
+There are several editors and related tools designed specifically to
+help users create HTML documents without having to key in all the
+surrounding tags.
+<P>
+For example, non-commercial users can get a free copy of
+an editor called HoTMetaL Free from SoftQuad.
+Go to the following URL for instructions on how to get HoTMetaL Free:
+<PRE>
+<B>http://www.sq.com/products/hotmetal/hm-ftp.htm</B>
+</PRE>
+<P>
+When you have documents ready that you want to show the world, you
+can start to register your server with various databases.
+For example, the following URLs take you to sites where you can
+register your server:
+<PRE>
+<B>http://www.w3.org/hypertext/DataSources/WWW/Geographical_
+generation/new-servers.html</B>
+</PRE>
+<P><P><B>Note: </B>
+The URL above is shown on two lines only because of its length.
+When entering the URL on your browser, type one continuous string with
+no spaces.
+<PRE>
+<B>http://www.yahoo.com/</B>
+<B>http://www.lycos.com/</B>
+</PRE>
+<P>Each of the two URLs shown above contains links to
+a form you can use to register your server.
+<HR>
+<H2><A NAME="HDRPROXY" HREF="#PToC_15">Running your server as a proxy</A></H2>
+<P>
+Clients connected to a <B><I>proxy server</I></B> can ask
+the server to retrieve documents for them from other servers.
+<P>
+You can also set up a
+<B><I>firewall machine</I></B>,
+such as the IBM Internet Connection Secured Network Gateway.
+A firewall machine is connected to both your
+internal network, or intranet, and the external Internet.
+Users of the intranet are inside the firewall.
+The firewall machine can be set up to prevent external machines
+from reaching your intranet.
+<P>
+Two types of proxy/firewall configurations are available:
+<OL>
+<P><LI>A proxy server can link to a firewall machine that has a socks
+server in it.
+The proxy server is chained to the socks server in the firewall machine
+and the firewall machine links
+to the Internet, as shown in <A HREF="#FIGSOCKPRO">Figure 1</A>.
+This kind of proxy server, also known as a <B><I>socksified proxy</I></B>,
+allows users within your intranet to access the Internet.
+<P><B><A NAME="FIGSOCKPRO">Figure 1. Socksified proxy server and a firewall</A></B><BR>
+<P><BR>
+<B><BR><IMG SRC="icsl0px2.gif" ALT="* Figure icsl0px2 not displayed."><BR></B><BR>
+<P>
+<P><LI>One machine can contain both the firewall and the proxy server
+as shown in <A HREF="#FIGSECGWAY">Figure 2</A>.
+For this kind of configuration, you can use the
+IBM Internet Connection Secure Server for AIX for your proxy and the
+IBM Internet Connection Secured Network Gateway for AIX as
+your firewall.
+<P><B><A NAME="FIGSECGWAY">Figure 2. Machine with both a firewall and proxy server</A></B><BR>
+<P><BR>
+<B><BR><IMG SRC="icsl0px1.gif" ALT="* Figure icsl0px1 not displayed."><BR></B><BR>
+<P>
+</OL>
+<P>
+<H3><A NAME="Header_16" HREF="#PToC_16">Caching documents on your proxy server</A></H3>
+<P>
+You can also use <B><I>caching</I></B>
+to have the proxy server store the documents
+it retrieves from other servers in a local cache.
+The server can then respond to subsequent requests for the
+same documents without having to retrieve them from other servers.
+This can improve response time.
+<P>
+Within an intranet you may want to set up
+a server as a caching proxy to
+reduce the amount of traffic on the network.
+In large networks you can connect a hierarchy of caching proxies.
+A client request cascades up through the hierarchy of servers
+until the document is retrieved from a server&#39;s cache
+or from the actual server where the document resides.
+<HR>
+<H2><A NAME="Header_17" HREF="#PToC_17">Setting up your proxy server</A></H2>
+<P>
+To set up a proxy, you need to:
+<UL>
+<P><LI>Configure basic proxy functions
+<P><LI>Optionally, configure basic caching functions
+<P><LI>Optionally, designate a port number for your proxy
+<P><LI>Optionally, configure advanced proxy functions
+<P><LI>Optionally, configure advanced caching functions
+<P><LI>Specify which clients can use the proxy
+<P><LI>Set up a secure connection
+</UL>
+<P>
+After you've configured your proxy server, tell your users so they
+can configure their browsers to point to it.
+<P>
+<H3><A NAME="HDRCACPS" HREF="#PToC_18">Step 1. Configure basic proxy functions</A></H3>
+<P>
+To configure your server
+as a proxy, specify which protocols
+you want the server to act as a proxy for.
+You do this by one of two methods:
+<UL>
+<P><LI>Filling in the Proxy Server Settings form
+for the protocols this server will function as a proxy for
+<P><LI>Adding Pass rules for the protocols
+to your server's list of mapping rules
+</UL>
+<P>
+Either method enables your server to act as a proxy.
+<P>To fill in the form:
+<OL>
+<P><LI>From the Configuration and Administration forms page,
+under the heading "Proxy Settings", click
+<B>Proxy Server Settings</B>
+to display the Proxy Server Settings form.
+<P><LI>Select the protocols that the server will act as a proxy for.
+(Checking a selection box generates a Pass rule for the protocol
+checked.)
+<P><LI>You should accept the default size specified for the Proxy
+buffer size.
+<P><LI>If you want your server to be a socksified proxy server, you need
+to specify the host name or IP
+address of the socks server through which this proxy server will be
+passing requests.
+<P>
+When you specify a socks server on this form, you indicate that
+you want this proxy server to be chained to a socks server.
+<P><LI>Click <B>Apply</B>.
+<P>
+Once the changes take effect, your server runs as a proxy.
+<P>
+<P><LI>To socksify the proxy, you also need to
+set the SOCKS_NS environment variable for the user
+</OL>
+<P>
+<H3><A NAME="Header_19" HREF="#PToC_19">Step 2. Configure basic caching functions</A></H3>
+<P>
+Perform this step if you want
+to make your proxy server a caching proxy server.
+<OL>
+<P><LI>From the Configuration and Administration forms page,
+click <B>Caching Settings</B>.
+<P><LI>
+From the Caching Settings form,
+check the <B>Enable proxy caching</B> box.
+<P><LI>
+If you have more than 5 megabytes of
+disk space to use for caching files,
+change the <B>Cache size</B> field to a larger number.
+<P><LI>
+In the <B>Root directory for cached files</B> field, enter the
+absolute path name of the directory where you want to keep cached files.
+Make sure the directory you specify has at least
+as much disk space available
+as you enter for <B>Cache size</B>.
+<P><LI>
+In the <B>File name in which to log cache access</B> field,
+enter the absolute path and file name of the file you want
+to use for logging cache access.
+<P><LI>For the upper size limits for files to be cached, the value you
+specify indicates that any file bigger than that value is not cached.
+<P><LI>Specify a size for the lower file limit.
+This limit indicates the minimum file size a file has to be before
+file size is taken into account when doing garbage collection.
+The more the size of the file is above this limit, the more likely it is
+to be removed during garbage collection.
+<P><LI>
+Click <B>Apply</B>.
+<P><LI>Restart your server so your changes will take effect.
+See <A HREF="icswg004.html#HDRSTR">"Starting and stopping your server"</A> for more information on starting and restarting.
+</OL>
+<P>
+<H3><A NAME="Header_20" HREF="#PToC_20">Step 3. Designate a port number for your proxy server</A></H3>
+<P>
+Perform this step only if you want your proxy server to listen
+to a port number other than the HTTP default of 80.
+<OL>
+<P><LI>
+From the Configuration and Administration forms page,
+click <B>Basic</B>.
+<P><LI>
+Change the <B>Default port number</B> field
+to the port you want the proxy to listen to.
+The default value for this field is 80.
+Some other commonly used port numbers
+for proxy servers are 8080 and 8008.
+<P><LI>
+Click <B>Apply</B>.
+<P><LI>Restart your server so your changes will take effect.
+See <A HREF="icswg004.html#HDRSTR">"Starting and stopping your server"</A> for more information on starting and restarting.
+</OL>
+<P>
+<H3><A NAME="Header_21" HREF="#PToC_21">Step 4. Configure advanced proxy functions</A></H3>
+<P>
+You can specify that certain protocol requests are routed to another
+proxy server.
+This allows you to chain together a hierarchy of proxy servers.
+<OL>
+<P><LI>From the Configuration and Administration forms page, click
+<B>Proxy Chaining and Non-Proxy Domains</B>.
+<P><LI>In the Proxy chaining section, select the <B>Insert before</B>
+button.
+<P><LI>From the selection list, select the protocol you are specifying a
+URL for.
+<P><LI>In the URL field, type the URL where you want requests for that
+protocol to be directed.
+<P><LI>Click <B>Apply</B>.
+</OL>
+<P>
+If you've set up a hierarchy of proxies, you can
+specify any domain names the proxy can get to
+directly rather than going to the next proxy in the hierarchy.
+These are called non-proxy domains.
+<OL>
+<P><LI>From the Configuration and Administration forms page, click
+<B>Proxy Chaining and Non-Proxy Domains</B>.
+<P><LI>In the Non-proxy domains section in the non-proxy domains field,
+type the name of the domain or domains to which requests should be
+passed without going through the next proxy in the hierarchy.
+<P><LI>Click <B>Apply</B>.
+</OL>
+<P>
+<H3><A NAME="Header_22" HREF="#PToC_22">Step 5. Configure advanced caching functions</A></H3>
+Several other functions are available to help you control the caching
+functions.
+You can control:
+<UL>
+<P><LI>How long HTTP and FTP files are cached
+<P><LI>How often the cache is cleaned
+<P><LI>How expired files are removed from the cache
+<P><LI>Which files you want your server to cache
+</UL>
+<P>
+<H4><A NAME="Header_23">Controlling how long HTTP files are cached</A></H4>
+<P>
+To control how long HTTP or HTTPS files are kept in the cache
+after they are last used, do the following:
+<OL>
+<P><LI>From the Configuration and Administration forms page, click
+<B>Time Limit for Unused Cached HTTP Files</B>.
+<P><LI>Specify the amount of time in months, days, weeks, or hours that
+you want the server to keep unused cached HTTP files.
+<P><LI>Specify the amount of time in months, days, weeks, or hours that
+you want the server to keep unused cached HTTPS (SSL) files.
+<P><LI>Click <B>Apply</B>.
+</OL>
+<P>
+<H4><A NAME="Header_24">Controlling how often the cache is cleaned</A></H4>
+<P>
+To control how long FTP files are kept in the cache and how long to
+keep unused FTP files in the cache, do the following:
+<OL>
+<P><LI>From the Configuration and Administration forms page, click
+<B>Expiration Settings for Cached FTP Files</B>.
+<P><LI>For the default expiration time, specify the amount of time
+(in months, days, weeks, or hours) to
+keep FTP files in the cache, regardless of whether they are used.
+<P><LI>For the unused expiration time, specify the amount of time
+(in months, days, weeks, or hours) to
+keep unused FTP files in the cache.
+In general, unused expiration time should be lower than
+default expiration time.
+<P><LI>Click <B>Apply</B>.
+</OL>
+<P>
+<H4><A NAME="Header_25">Controlling how expired files are removed from the cache</A></H4>
+<P>
+To specify how you want expired files removed from the cache,
+do the following:
+<OL>
+<P><LI>From the Configuration and Administration forms page, click
+<B>Cache Storage Reuse</B>.
+<P><LI>The box to enable storage reclamation is checked.
+Delete the check, if you do not want to enable garbage collection.
+<P><LI>Specify the maximum memory (in kilobytes)
+available for garbage collection.
+The process works best if it can read all cache information
+into memory at one time.
+The amount of memory needed will vary based on dynamic changes such
+as the directory structure of cached files.
+If garbage collection fails because there is not enough memory
+on your system, set this field to a smaller value.
+If you have plenty of memory to spare, you may want to set this value
+above the default of 500.
+<P><LI>Specify the time you want garbage collection to occur.
+Select a time when the server won't be busy.  Garbage collection
+consumes system resources, and the cache is disabled when
+garbage collection is being done.
+<P><LI>Click <B>Apply</B>.
+</OL>
+<P>
+<H4><A NAME="Header_26">Controlling which files you want your server to cache</A></H4>
+<P>
+To specify which files you want your server to consider for
+caching,
+you can create a list of URLs you do want to cache or
+a list of URLs you do want not to cache.
+If you do not create either of these lists,
+any file is a candidate for caching.
+The server considers
+files for caching if the request is a GET, the URL does not
+contain a question mark (?), and the requested file is not
+protected by a user ID/password.
+<OL>
+<P><LI>From the Configuration and Administration forms page, click
+<B>Caching Filters</B>.
+<P><LI>Click <B>Add</B>.
+<P><LI>Click either <B>Cache the URL requests listed below</B> or
+<B>Do not cache the URL requests listed below</B>.
+<P><LI>Type in the list of URLs.
+<P><LI>Click <B>Apply</B>.
+</OL>
+<P>
+<H3><A NAME="HDRPROXA" HREF="#PToC_27">Step 6. Specify which clients can use the proxy</A></H3>
+<P>
+You can use the server&#39;s protection function to control
+which clients can use your server as a proxy.
+<P>
+The default configuration file contains commented lines that
+you can use as a basis for controlling access to your proxy.
+For this reason, it is easier to accomplish this task by editing
+the configuration file than by using the Configuration and
+Administration forms.
+<P>
+Follow these steps to define which clients
+can use your server as a proxy:
+<OL>
+<P><LI>
+Use the text editor of your choice to open the configuration file.
+<P>
+By default, the configuration file is named httpd.cnf and
+is in the path specified on the SET ETC
+statement in your CONFIG.SYS file.
+<P><LI>
+Find the following commented Protection and Protect directives:
+<PRE>
+# Protection PROXY-PROT {
+#       ServerId        YourProxyName
+#       Mask            @(*.ibm.com, 128.141.*.*, *.ncsa.uiuc.edu)
+# }
+# Protect  http&#58;*    PROXY-PROT
+# Protect  ftp&#58;*     PROXY-PROT
+# Protect  gopher&#58;*  PROXY-PROT
+# Protect  https&#58;*   PROXY-PROT
+# Protect  wais&#58;*    PROXY-PROT
+# Protect  news&#58;*    PROXY-PROT
+</PRE>
+The Protect statement for https is in the configuration
+file.
+<P><LI>
+Remove the comment character (#) from each of the lines.
+<P><LI>
+Change the Mask subdirective so that it contains templates
+for the host names or IP addresses of the clients
+that need to use your server as a proxy.
+<P>In order to use host name templates,
+you must set the DNS-Lookup directive to <TT>On</TT>.
+If the DNS-Lookup directive is set to <TT>Off</TT> (the default),
+you can use IP address templates only.
+See <A HREF="icswg005.html#HDRDNSLOOK">"DNS-Lookup - Specify whether you want to look up host names of clients"</A>.
+<P>
+<P>The Internet Connection Secure Server distinguishes between a user ID and password
+used for authentication at the proxy server and those used
+for authentication at the end-point server.
+<P>
+When a user ID is specified in the protection mask for a proxy request,
+the proxy server requires the browser to send a PROXY-AUTHENTICATE
+header.
+If the header is missing or incorrect, the proxy server
+sends a message (HTTP 407 error status) back to the browser
+stating that proxy authentication is required.
+<P>If request authentication is required at the end-point server,
+that server sends back a message (HTTP 401 error status) stating
+that authentication is required.
+The end-point server's error
+message is returned to the browser by the proxy server.
+A WWW-AUTHENTICATE header sent by the browser is forwarded by the
+proxy server to the end-point server.
+<P>PROXY-AUTHENTICATE headers are never forwarded by a proxy server;
+this ensures that validated proxy user IDs and passwords are not
+sent to servers that they are not intended for.
+<P><B>Note: </B>Web browsers must also support proxy authentication if you
+require user ID authentication in your proxy protection setup mask.
+<P><LI>
+Save the configuration file with the changes you make.
+<P><LI>
+Restart the server.
+<P>
+The server will now act as a proxy only for clients and requests
+that meet the specifications on the mask subdirectives.
+</OL>
+<P>
+<H3><A NAME="Header_28" HREF="#PToC_28">Step 7. Set up a secure connection</A></H3>
+<P>
+If you are using SSL, the kind of connection between the client
+and the proxy and between the proxy and the destination server
+can vary depending on whether the client uses SSL tunneling.
+<P>
+<H4><A NAME="Header_29">Connections with SSL tunneling</A></H4>
+<P>
+Some clients, such as Netscape Navigator,
+use SSL tunneling to establish
+a secure connection to a destination server
+through a proxy.
+The proxy can be a base or secure server.
+<P>
+Because SSL tunneling is generic, it can be
+used to access resources on different ports.
+For example, the Internet Connection Secure Server uses port 443 for <B>https</B>
+requests and Netscape uses port 563 for SNEWS (Secure News).
+<P>
+To set up a proxy for SSL tunneling:
+<OL>
+<P><LI>Enable the CONNECT method.
+You can use the Method Enablement
+form or code the following directive in the proxy's configuration
+file:
+<PRE>
+Enable CONNECT
+</PRE>
+<P><LI>
+Specify a Pass rule for each port connected to
+a destination server.
+You can use the Request Routing form or code the following
+in the proxy's configuration file.
+<P>
+<B>Examples</B>:
+<UL>
+<P><LI>For <B>https</B> requests, specify <TT>Pass *:443</TT>
+<P><LI>For SNEWS (Secure News), specify <TT>Pass *:563</TT>
+</UL>
+<P><LI>Have clients set their security proxy in Netscape Navigator
+to point to port 80.
+</OL>
+<P>
+<H4><A NAME="Header_30">Connections without SSL tunneling</A></H4>
+<P>
+Secure WebExplorer does not use SSL tunneling.
+You need Pass directives defined
+for <B>https</B> and <B>http</B> requests.
+<P>
+Here's how the connection from a Secure WebExplorer client
+to a destination server through a proxy is handled:
+<UL>
+<P><LI>The kind of connection between the client and the proxy is governed
+by the proxy protocol.
+If the proxy protocol is <B>https</B>, then
+the connection between the client and the proxy will be secure.
+If the proxy protocol is <B>http</B>, then
+the connection between the client and the proxy will not be secure.
+<P><LI>The kind of connection from the proxy to the server is governed
+by what is specified in the URL.
+If the URL specifies <B>https</B>, the
+connection between the proxy and the server will be secure.
+If the URL specifies <B>http</B>, the connection
+between the proxy and
+the server will not be secure.
+<P><LI>The lock will be displayed on Secure WebExplorer if the URL specifies
+<B>https</B>.
+This means, at minimum, there is a secure network connection between the
+proxy and the server.
+There will also be a secure network connection between the client and the
+proxy if the proxy protocol is <B>https</B>.
+<P>
+The server's certificate will not be displayed on Secure WebExplorer if the
+URL specifies <B>https</B>.
+</UL>
+<HR>
+<H2><A NAME="HDRMULTIIP" HREF="#PToC_31">Running your server with multiple IP addresses or virtual hosts</A></H2>
+<P>
+You may want to use one server to provide Web sites for multiple
+customers.  For example, you might have
+two customers (customerA and customerB), both of whom want to make
+information about their companies available on the World Wide Web.
+You might want to put both Web sites on the same machine
+if the expected number of requests for the information
+is not great enough to justify a separate machine
+for each customer.
+<P>
+With the Internet Connection Secure Server, you can use multiple IP addresses, virtual
+hosts, or both to provide multiple Web sites on one server.
+<P>
+<H3><A NAME="Header_32" HREF="#PToC_32">Multiple IP addresses</A></H3>
+<P>
+To use multiple IP addresses,
+your server must be installed on a machine
+with multiple network connections.
+<P>
+If you have only one network connection and
+run two instances of the server on the same machine, then only
+one server has the benefit of using the default port number.
+Requests to the other server would have to include a port number.
+<P>
+If your machine has two network connections,
+you can run just one instance of the server and
+assign each customer to a different IP address.
+For each IP address you would define a different host name.
+So customerA could be www.customerA.com on IP address 9.67.106.79 and
+customerB could be www.customerB.org on IP address 9.83.100.45.
+You could then configure the server to serve a different set
+of information depending on the IP address the request comes in on.
+Because the server can accept requests from the default port of
+each network connection, requests to either host name would not require
+a port number.
+<P>
+<H3><A NAME="Header_33" HREF="#PToC_33">Virtual hosts</A></H3>
+<P>
+With virtual hosts, no additional hardware is required, and you can
+save IP addresses.
+However, clients must support HTTP 1.1 or HTTP 1.0 with
+1.1 Extensions.
+<P>
+With virtual hosts, you can run just one instance of the server and
+assign each customer to a different host.
+In the domain name server, you define your hosts and associate
+them with the IP address of your server.
+You can then configure the server to serve a different set
+of information depending on the host for which the request is made.
+Requests do not require a port number.
+<P>
+<H3><A NAME="Header_34" HREF="#PToC_34">Setting up your server to use multiple IP addresses or virtual hosts</A></H3>
+<P>
+Setting up your server to use multiple IP addresses or virtual hosts
+is very similar.
+For multiple IP addresses, you'll need to specify the IP address
+a request comes in on and for virtual hosts, you'll need to specify
+the host name for which a request is made.
+<P>
+You configure the server to serve different information for
+each customer by indicating that certain parts of your configuration
+apply only to requests coming in on certain addresses or for
+certain hosts.
+You can configure three key parts of your server
+so that requests are processed differently
+based on the IP address they come in on or the host name in the URL.
+<UL COMPACT>
+<LI>Welcome pages
+<LI>Mapping rules
+<LI>Access control
+</UL>
+<P>
+<H4><A NAME="Header_35">Welcome pages</A></H4>
+<P>
+You can specify a different set of file names to use as welcome
+pages depending on the address a request comes in on or the host name
+in the URL.
+The file names you define as welcome pages determine
+how the server responds to requests that do not
+contain a file name.
+<P>
+For example, you might want to specify that homeA.html
+is a welcome page only for requests received on 9.67.106.79 or
+for hostA,
+and homeB.html is a welcome page only for requests received on
+an address 9.83.100.45 or for hostB.
+<P>
+From the Configuration and Administration forms page,
+you can configure your list of welcome pages
+by clicking on <B>Initial Page</B>.
+From the Initial Page form, click the help icon for information
+on defining welcome pages and how to associate a
+welcome page file name with an IP address or a host name.
+<P>
+Alternatively, if you are editing the configuration file,
+you can add an <VAR>IP-address</VAR> or <VAR>hostname</VAR>
+at the end of a Welcome directive to associate a
+welcome page file name with an IP address or a host name.
+For details, see the description of the Welcome directive
+in <A HREF="icswg005.html#HDRDIREC">"Directories and Welcome Page - Set viewing options"</A>.
+<P>
+<H4><A NAME="Header_36">Mapping rules</A></H4>
+<P>
+You can specify a different set of mapping rules for the
+server to use depending on the address a request comes in on or
+the host name in a URL.
+Mapping rules map a request to a physical file on the server
+and determine whether the server processes a request.
+<P>
+For example, you might want to specify that a
+request beginning /cgi-bin/ received on address
+9.67.106.79 or for hostA is mapped to the /customerA/cgi/ directory,
+and the same request received on 9.83.100.45 or for hostB
+is mapped to the /customerB/cgi/ directory.
+<P>
+From the Configuration and Administration forms page,
+you can configure your mapping rules
+by clicking on <B>Request Routing</B>.
+From the Request Routing form, click the help icon for information
+on how to use mapping rules and how to associate a
+mapping rule with an IP address or a host name.
+<P>
+Alternatively, if you are editing the configuration file,
+you can add an <VAR>IP-address</VAR> or <VAR>hostname</VAR>
+at the end of Exec, Fail, Map, Pass, and Redirect
+directives to associate the directive
+with an IP address or a host name.
+For details, see the description of these directives
+in <A HREF="icswg005.html#HDRMAPPI">"Resource mapping - Redirect URLs"</A>.
+<P>
+<H4><A NAME="Header_37">Access Control</A></H4>
+<P>
+You can activate different protection rules
+for a request based on the address the request comes in on or the
+host name in a URL.
+Protection rules are defined in protection setups and
+determine how your server controls access to
+files and programs.
+<P>
+For example, you might want to specify that a
+request beginning /cgi-bin/ received on address
+9.67.106.79 or for hostA is protected by the rules in a
+protection setup named PROT-A and the
+same request received on 9.83.100.45 or for hostB
+is protected by the rules in a protection setup named PROT-B.
+<P>
+From the Configuration and Administration forms page,
+you can configure how protection is activated
+by clicking on <B>Document Protection</B>.
+From the Document Protection form, click the help icon
+for information on protecting documents and how to associate
+protection with an IP address or a host name.
+<P>
+Alternatively, if you are editing the configuration file,
+you can add an <VAR>IP-address</VAR> or <VAR>hostname</VAR>
+at the end of DefProt and Protect directives to associate
+the directive with an IP address or a host name.
+For details, see the description of these directives
+in <A HREF="icswg005.html#HDRDOCUM">"Access control - Set up access control for the server"</A>.
+<HR>
+<H2><A NAME="Header_38" HREF="#PToC_38">Backing up files</A></H2>
+<P>
+It is recommended that you periodically back up the following files:
+<UL>
+<P><LI>Configuration files (httpd.conf, ics_pics.conf)
+<P><LI>Password files
+<P><LI>Group files
+<P><LI>ACL files
+<P><LI>Content files
+</UL>
+<P>
+For a secure server, you should also back up:
+<UL>
+<P><LI>Key ring files
+<P><LI>Signed certificates and, optionally, certificate requests
+</UL>
+<P><HR><B>&#91; <A HREF="#Top_Of_Page">Top of Page</A> &#124; <A HREF="icswg002.html">Previous Page</A> &#124; <A HREF="icswg004.html">Next Page</A> &#124; <A HREF="icswgmst.html#ToC">Table of Contents</A> &#93;</B>
+<A NAME=Bot_Of_Page>&nbsp;</A>
+</BODY></HTML>
+
+</DOC>

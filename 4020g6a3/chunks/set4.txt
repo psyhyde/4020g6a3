@@ -1,0 +1,2789 @@
+<DOC>
+<DOCNO>WT03-B15-161</DOCNO>
+<DOCOLDNO>IA023-000254-B044-125</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/flcs.htm 206.216.148.51 19970108130020 text/html 1564
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:57:05 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 1393
+Last-modified: Thu, 04 Apr 1996 07:55:49 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Download animations created using <B>Workspace</B>
+</TITLE> 
+</HEAD>
+
+<BODY BACKGROUND="paper3.gif">
+
+<H1>Download animations created using <B>Workspace</B></H1> 
+Download a <A HREF="aawin.zip">player</A> for these FLC files. The <A HREF="http://crusty.er.usgs.gov/flc.html">FLC file format</A> was created by Autodesk Animator and is used by Workspace when recording and replaying animations.
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+<UL>
+<IMG SRC="ball_red.gif" ALT="[IMAGE]"></img>
+<A HREF="finalcut.zip">Finalcut</A> (704,067 bytes)
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="famisp.zip">Famis</A> (182,446 bytes)
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="ctrlarm.zip">Ctrlarm</A> (1,450,507 bytes)
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="newglue.zip">Newglue</A> (887,238 bytes)
+</UL>
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<P ALIGN=center><A HREF="index.htm"><IMG SRC="gif/home.gif" ALT="[IMAGE]"></a>[ <A HREF="index.htm">Return to Home Page</A> ]</P> 
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<center><h6><b>Workspace</b> and <b>Robotrak</b> are registered trademarks of Robot Simulations Ltd.</h6>
+
+<h6>Copyright &copy; 1996 Robot Simulations Ltd</h6>
+<h6>Last revision 3 April 1996</h6></center>
+</P>
+
+
+
+
+</BODY>
+
+</HTML>
+
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-162</DOCNO>
+<DOCOLDNO>IA023-000254-B044-142</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/pressart.htm 206.216.148.51 19970108130031 text/html 2257
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:57:16 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2086
+Last-modified: Thu, 04 Apr 1996 07:58:08 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Press releases and articles</TITLE> 
+<body background="paper3.gif">
+<H1>Press releases and articles</H1> 
+</HEAD>
+
+
+<UL>
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="calartic.htm">Robot calibration - Questions and answers</A> [21st December 1995]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="offline2.htm">Offline Programming and Robot Calibration - The Car Industry</A> [14th June 1995]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]">Robot Simulations Limited: <A HREF="profile.htm">Company Profile</A> [14th March 1995]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]">Robot and Fixture <A HREF="calarti.htm">Calibration</A> for Offline Programming [21st September 1994]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]">Robot Simulations Ltd - Article taken from <A HREF="jirart.htm">Japanese Industrial Robot Association</A> Newsletter [9th September 1994]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]">World Acclaim for <A HREF="kpdr.htm">Newcastle Firm</A>'s PC Based Robot Simulation system [13th June 1994]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="paper94.htm">Workspace</A> - a Microcomputer-based Industrial Robot Simulator and Offline Programming System [10th May 1994]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]">A low cost, high performance, <A HREF="robotrak.htm">dynamic testing device</A> for tracking the tool point of industrial robots [21st February 1994]
+
+<br><IMG SRC="ball_red.gif" ALT="[IMAGE]"><A HREF="taisem.htm">Robotics the need for Simulation - Seeing the whole picture</A> [29th October 1993]
+<UL>
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<P ALIGN=center><A HREF="index.htm"><IMG SRC="home.gif" ALT="[IMAGE]"></a>[ <A HREF="index.htm">Return to Home Page</A> ]</P> 
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<center><h6><b>Workspace</b> and <b>Robotrak</b> are registered trademarks of Robot Simulations Ltd.</h6>
+
+<h6>Copyright &copy; 1996 Robot Simulations Ltd</h6>
+<h6>Last revision 3 April 1996</h6></center>
+</P>
+
+
+</BODY>
+
+</HTML>
+
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-163</DOCNO>
+<DOCOLDNO>IA023-000254-B044-162</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/index.htm 206.216.148.51 19970108130040 text/html 3389
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:57:26 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3218
+Last-modified: Thu, 14 Nov 1996 12:27:40 GMT
+</DOCHDR>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+<head>
+<title>Robot Simulation Ltd.</title>
+<meta name="GENERATOR" content="Microsoft FrontPage 1.1">
+</head>
+
+<body background="gif/newlogo2.gif">
+<center><table width=100%>
+<tr><td><h1><font><font size=7><strong><img src="gif/logo.gif" align=left hspace=0 width=200 height=254></strong></font></font><font><font size=7><strong>Robot Simulations L</strong>td.</font></font> </h1>
+<p align=left><font size=5>Products for robot simulation, calibration and 
+offline programming </font></p>
+<p><font>Welcome to the home page for <b>Robot Simulations Ltd</b>, developers of the <b>Workspace &reg;</b> PC based robot simulation and 
+offline programming software and the <b>Robotrak &reg;</b> calibration device. The latest information on these products can be found 
+here as well as downloadable demonstration software.</font></p></td></tr>
+</table>
+<p> </p>
+<table width=100%>
+<tr>
+<td width=14%><a href="contents.htm"><img src="gif/contents.gif" align=bottom border=0></a></td>
+<td width=12%><a href="contact.htm"><img src="gif/contact.gif" align=bottom border=0></a></td>
+<td width=12%><a href="wwwboard/wwwboard.html"><img src="gif/userg.gif" align=bottom border=0></a></td>
+<td width=12%><a href="robmods.htm"><img src="gif/roblib.gif" align=bottom border=0></a></td>
+<td width=12%><a href="moving1.htm"><img src="gif/virtrob.gif" align=bottom border=0></a></td>
+<td width=12%><a href="casestud.htm"><img src="gif/casestud.gif" align=bottom border=0></a></td>
+<td width=12%><a href="dealer.htm"><img src="gif/dealer.gif" align=bottom border=0></a></td>
+<td width=12%><a href="wkdemo.htm"><img src="gif/demo.gif" align=bottom border=0></a></td>
+</tr>
+</table>
+<p align=center><a href="wks4.htm"><img src="gif/wksp4.gif" align=bottom border=0 width=500 height=113></a> </p>
+<p align=center><img src="gif/line_col.gif" align=bottom width=585 height=1></p>
+<center><p><b>Come and see us at</b></P></center>
+<img src="gif/autofact.gif" align=bottom border=1>
+<center><p><b>November 12-14</b></P></center>
+<center><p><b>Cobo Hall, Detroit, MI, USA</b></P></center>
+<center><p><b>Free tickets can be arranged by calling our North American Dealer, <a href='mailto:info@rwt.com'>RWT</a>, at 941- 466-0488<b><p><center> 
+<p align=center><img src="gif/line_col.gif" align=bottom width=585 height=1></p>
+
+<p align=center><a href="mhi.htm"><font size=4><strong><img src="gif/mhipr1.gif" align=bottom border=1 width=312 height=100></strong></font></font></a></p>
+<p align=center><font size=4><strong>Workspace &reg; utilised in development fo new robot: Mitsubishi PA-10 and controller 
+language offered with Workspace &reg; release 4.0</strong></font></font></p>
+<p align=center><img src="gif/line_col.gif" align=bottom width=585 height=1></p>
+<h6 align=center><b>Workspace</b> and <b>Robotrak</b> are registered trademarks of Robot Simulations Ltd. </h6>
+<h6 align=center>UK Patent Application Number 952006.4 </h6>
+<h6 align=center>US Patent Application Number 952006.4 (Applied for) </h6>
+<h6 align=center>Copyright &#169; 1996 Robot Simulations Ltd</h6>
+<h6 align=center>Last revision August 1996</h6>
+</body>
+
+</html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-164</DOCNO>
+<DOCOLDNO>IA023-000254-B044-177</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/faq.html 206.216.148.51 19970108130047 text/html 2180
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:57:33 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2009
+Last-modified: Thu, 23 May 1996 14:32:59 GMT
+</DOCHDR>
+<html><head><title>Robot Simulations Frequently Asked Questions</title></head>
+<body><h1>Robot Simulations Frequently Asked Questions and Answers</h1>
+Here is a brief explanation of some of the questions you may have 
+about WWWBoard.<hr>
+<ul>
+<li><a href="#links">Can I use html tags anywhere in my posts?</a>
+<li><a href="#colons">Why are there colons in the message section when I 
+try post a followup?</a>
+<li><a href="#reload">Why didn't my post show up?</a>
+<li><a href="#getit">Where can I get the scripts for this program?</a>
+</ul><hr><p>
+<a name="links">Can I put html tags anywhere in my posts?</a><p>
+No.  You can not use HTML tags in any field except body of the message.  
+The maintainer of the script has the option of allowing or 
+disallowing any HTML in the Message part of your posting.  If 
+they disallow it, the script will just throw out everything in 
+&lt;&gt;'s.  If they allow it, your html markup will appear in 
+the posting.  It can't hurt to try.<p><hr><p> 
+
+<a name="colons">Why are there colons in the message when I try to post a 
+followup?</a><p>
+Colons appear in the message dialog box when you try to followup up on a 
+message to indicate that those lines are quoting the previous document. 
+The owner of the WWWBoard can decide whether they wish to enable or 
+disable the quoting of previous messages.<p><hr><p>
+
+
+<a name="reload">Why didn't my post show up?</a><p>
+Your post most likely did not show up, because your browser did not reload the 
+page, it simply pulled it out of cache.  Please reload your browser and it 
+should then appear.<p><hr><p>
+<a name="getit">Where can I get the scripts for this program?</a><p>
+The scripts are written in Perl and created by <a 
+href="http://alpha.pr1.k12.co.us/~mattw/home.html">Matt Wright</a>.  They are 
+free to anyone who wishes to use them and you can get them as well as other 
+scripts at: <a href="http://worldwidemart.com/scripts/">http://worldwidemart.com/scripts/</a>.  
+Enjoy!<p><hr>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-165</DOCNO>
+<DOCOLDNO>IA023-000254-B044-191</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/95.html 206.216.148.51 19970108130056 text/html 3051
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:57:42 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2880
+Last-modified: Mon, 06 Jan 1997 10:08:54 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>dynamic modelling </title>
+  </head>
+  <body>
+    <center>
+      <h1>dynamic modelling </h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:mattkim@hotmail.com">sang ik kim</a> on January 05, 1997 at 22:09:41:<p>
+<br>Please tell me how WORKSPACE simulates following <br>torque questions,<p>1)compensational torque for gravity of robot arms.<br>2)torque for inertia during acceleration or <br>  deceleration.<br>3)torque for centrifugal force<p>If anybody tells me even how to use WORKSPACE<br>for the above questions, it will be very appreciated.<p>Matthew Kim. 
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 95-->
+<!--top: 97--><li><a href="97.html">Re: dynamic modelling </a> <b>k</b> <i>02:08:54 1/06/97</i>
+(<!--responses: 97-->0)
+<ul><!--insert: 97-->
+</ul><!--end: 97-->
+<!--top: 96--><li><a href="96.html">Re: dynamic modelling </a> <b>k</b> <i>02:08:46 1/06/97</i>
+(<!--responses: 96-->0)
+<ul><!--insert: 96-->
+</ul><!--end: 96-->
+</ul><!--end: 95-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="95">
+<input type=hidden name="origname" value="sang ik kim">
+<input type=hidden name="origemail" value="mattkim@hotmail.com">
+<input type=hidden name="origsubject" value="dynamic modelling ">
+<input type=hidden name="origdate" value="January 05, 1997 at 22:09:41">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: dynamic modelling " size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: 
+: Please tell me how WORKSPACE simulates following 
+: torque questions,
+
+: 1)compensational torque for gravity of robot arms.
+: 2)torque for inertia during acceleration or 
+:   deceleration.
+: 3)torque for centrifugal force
+
+: If anybody tells me even how to use WORKSPACE
+: for the above questions, it will be very appreciated.
+
+: Matthew Kim. 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-166</DOCNO>
+<DOCOLDNO>IA023-000254-B044-211</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/91.html 206.216.148.51 19970108130106 text/html 2885
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:57:50 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2714
+Last-modified: Thu, 12 Dec 1996 15:29:25 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>planar stewart platform</title>
+  </head>
+  <body>
+    <center>
+      <h1>planar stewart platform</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:jaldous-@engr.udayton.edu">J.B.A.HUXLEY</a> on December 12, 1996 at 07:29:24:<p>
+I received an error message of"no name" after I had sent my message yesterday.<p>I wanted to know whether the inverse kinematics of a stewart platform with rotary drive  is straightforward as that with prismatic legs !!<p>I mean , replacing the prismatic legs with crank and coupler mechanism.<p>waiting for a comment on this <p>Thank you.<p>                                               Huxley..<p><br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 91-->
+</ul><!--end: 91-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="91">
+<input type=hidden name="origname" value="J.B.A.HUXLEY">
+<input type=hidden name="origemail" value="jaldous-@engr.udayton.edu">
+<input type=hidden name="origsubject" value="planar stewart platform">
+<input type=hidden name="origdate" value="December 12, 1996 at 07:29:24">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: planar stewart platform" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I received an error message of&quot;no name&quot; after I had sent my message yesterday.
+
+: I wanted to know whether the inverse kinematics of a stewart platform with rotary drive  is straightforward as that with prismatic legs !!
+
+: I mean , replacing the prismatic legs with crank and coupler mechanism.
+
+: waiting for a comment on this 
+
+: Thank you.
+
+:                                                Huxley..
+
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-167</DOCNO>
+<DOCOLDNO>IA023-000254-B044-234</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/88.html 206.216.148.51 19970108130122 text/html 3135
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:58:07 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2964
+Last-modified: Mon, 16 Dec 1996 12:11:01 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re : V+ Programming Language .</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re : V+ Programming Language .</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:Arulanl@sbu.uk.">L Arulanthu</a> on December 11, 1996 at 09:51:55:<p>
+: Dear Sirs ;<br>    I am a student in South Bank University . I am <br> doing robotics project . I need some information about<br> V+ language and a idea of a item that a robot can <br> actually programmed to assemble . <br>    I am looking forward to assemble three pin plug . <br> But i have some problem on screwing the item . If you <br> any idea please do call me . <br>    Thank you for your time . <br>   <br>Loorthanathan Arulanthu   
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 88-->
+<!--top: 92--><li><a href="92.html">Re: Re : V+ Programming Language .</a> <b>asdfaskld;f</b> <i>04:11:01 12/16/96</i>
+(<!--responses: 92-->0)
+<ul><!--insert: 92-->
+</ul><!--end: 92-->
+</ul><!--end: 88-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="88">
+<input type=hidden name="origname" value="L Arulanthu">
+<input type=hidden name="origemail" value="Arulanl@sbu.uk.">
+<input type=hidden name="origsubject" value="Re : V+ Programming Language .">
+<input type=hidden name="origdate" value="December 11, 1996 at 09:51:55">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Re : V+ Programming Language ." size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: : Dear Sirs ;
+:     I am a student in South Bank University . I am 
+:  doing robotics project . I need some information about
+:  V+ language and a idea of a item that a robot can 
+:  actually programmed to assemble . 
+:     I am looking forward to assemble three pin plug . 
+:  But i have some problem on screwing the item . If you 
+:  any idea please do call me . 
+:     Thank you for your time . 
+:    
+: Loorthanathan Arulanthu   
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-168</DOCNO>
+<DOCOLDNO>IA023-000254-B044-254</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/82.html 206.216.148.51 19970108130142 text/html 3533
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:58:22 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3362
+Last-modified: Wed, 04 Dec 1996 10:12:18 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>student</title>
+  </head>
+  <body>
+    <center>
+      <h1>student</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:A.Beck1@plymouth.ac.uk">Alexander Beck</a> on November 22, 1996 at 09:39:07:<p>
+Dear Sirs.<p>I am a student of Robotics and Automated Systems. I use workspace in my final year project.<br>To control an UMI RTX100 robot within the 'usermove.dll' it is necessary to know the joint<br>angles of the robot.  The interface of the 'ExtUserMove' procedure supplies position data of<br>type xyzwpr. Therefore I would like to ask if it is possible to get the joint angle data into the<br>'usermove.dll, or if it is possible to access the inverse kinematics procedure used in<br>workspace.<p>Thank you for your time. I look forward to hearing from you soon.<p>Best regards,<p>Alexander Beck	<br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 82-->
+<!--top: 85--><li><a href="85.html">Re: Usermove</a> <b>Nick Oakley</b> <i>02:12:18 12/04/96</i>
+(<!--responses: 85-->0)
+<ul><!--insert: 85-->
+</ul><!--end: 85-->
+<!--top: 84--><li><a href="84.html">Re: Usermove</a> <b>Nick Oakley</b> <i>02:12:07 12/04/96</i>
+(<!--responses: 84-->0)
+<ul><!--insert: 84-->
+</ul><!--end: 84-->
+</ul><!--end: 82-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="82">
+<input type=hidden name="origname" value="Alexander Beck">
+<input type=hidden name="origemail" value="A.Beck1@plymouth.ac.uk">
+<input type=hidden name="origsubject" value="student">
+<input type=hidden name="origdate" value="November 22, 1996 at 09:39:07">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: student" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Dear Sirs.
+
+: I am a student of Robotics and Automated Systems. I use workspace in my final year project.
+: To control an UMI RTX100 robot within the 'usermove.dll' it is necessary to know the joint
+: angles of the robot.  The interface of the 'ExtUserMove' procedure supplies position data of
+: type xyzwpr. Therefore I would like to ask if it is possible to get the joint angle data into the
+: 'usermove.dll, or if it is possible to access the inverse kinematics procedure used in
+: workspace.
+
+: Thank you for your time. I look forward to hearing from you soon.
+
+: Best regards,
+
+: Alexander Beck	
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-169</DOCNO>
+<DOCOLDNO>IA023-000254-B044-272</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/84.html 206.216.148.51 19970108130154 text/html 3644
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:58:38 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3473
+Last-modified: Wed, 04 Dec 1996 10:12:07 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Usermove</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Usermove</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:nick@rosl.demon.co.uk">Nick Oakley</a> on December 04, 1996 at 02:12:07:<p>
+In Reply to: <a href="82.html">student</a> posted by Alexander Beck on November 22, 1996 at 09:39:07:<p>
+: Dear Sirs.<p>: I am a student of Robotics and Automated Systems. I use workspace in my final year project.<br>: To control an UMI RTX100 robot within the 'usermove.dll' it is necessary to know the joint<br>: angles of the robot.  The interface of the 'ExtUserMove' procedure supplies position data of<br>: type xyzwpr. Therefore I would like to ask if it is possible to get the joint angle data into the<br>: 'usermove.dll, or if it is possible to access the inverse kinematics procedure used in<br>: workspace.<p>: Thank you for your time. I look forward to hearing from you soon.<p>: Best regards,<p>: Alexander Beck	<p>Alexander,<p>I have seen you message and also your email to Simon.<br>I shall reply as soon as possible. Please direct any <br>emails to me.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 84-->
+</ul><!--end: 84-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="82,84">
+<input type=hidden name="origname" value="Nick Oakley">
+<input type=hidden name="origemail" value="nick@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: Usermove">
+<input type=hidden name="origdate" value="December 04, 1996 at 02:12:07">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Usermove" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: : Dear Sirs.
+
+: : I am a student of Robotics and Automated Systems. I use workspace in my final year project.
+: : To control an UMI RTX100 robot within the 'usermove.dll' it is necessary to know the joint
+: : angles of the robot.  The interface of the 'ExtUserMove' procedure supplies position data of
+: : type xyzwpr. Therefore I would like to ask if it is possible to get the joint angle data into the
+: : 'usermove.dll, or if it is possible to access the inverse kinematics procedure used in
+: : workspace.
+
+: : Thank you for your time. I look forward to hearing from you soon.
+
+: : Best regards,
+
+: : Alexander Beck	
+
+: Alexander,
+
+: I have seen you message and also your email to Simon.
+: I shall reply as soon as possible. Please direct any 
+: emails to me.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-170</DOCNO>
+<DOCOLDNO>IA023-000254-B045-17</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/81.html 206.216.148.51 19970108130202 text/html 2347
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:58:47 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2176
+Last-modified: Sat, 09 Nov 1996 20:09:34 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>N.C. Progarmming  (E.D.M.)</title>
+  </head>
+  <body>
+    <center>
+      <h1>N.C. Progarmming  (E.D.M.)</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:carbajal@ptd.net">Luis Carbajal</a> on November 09, 1996 at 12:09:34:<p>
+Will  like to exchange ideas about Numerical<br>Control Programming for the Electrical Control Machines ,Machinning Centers ,  all about N.C. 
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 81-->
+</ul><!--end: 81-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="81">
+<input type=hidden name="origname" value="Luis Carbajal">
+<input type=hidden name="origemail" value="carbajal@ptd.net">
+<input type=hidden name="origsubject" value="N.C. Progarmming  (E.D.M.)">
+<input type=hidden name="origdate" value="November 09, 1996 at 12:09:34">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: N.C. Progarmming  (E.D.M.)" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Will  like to exchange ideas about Numerical
+: Control Programming for the Electrical Control Machines ,Machinning Centers ,  all about N.C. 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-171</DOCNO>
+<DOCOLDNO>IA023-000254-B045-41</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/74.html 206.216.148.51 19970108130212 text/html 4411
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:58:55 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 4240
+Last-modified: Mon, 16 Dec 1996 12:19:57 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Which is the most advanced off-line language?</title>
+  </head>
+  <body>
+    <center>
+      <h1>Which is the most advanced off-line language?</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:gtkim@salmosa.kaist.ac.kr">Gyutae Kim</a> on October 24, 1996 at 01:10:07:<p>
+Hello!<br> I am currently desinging a new off-line robot language<br>in which most of the needed features are included.<br>AutoTask, the one I am talking about, includes ;<br>   1. Task-level instructions<br>   2. Object-orientation with inheritence<br>   3. Concurrent mechanism with message passing<br>   4. Exception handling<br>   5. New data types for geometric data<br>   etc.<br>This language looks like C++.<br>I added a Task[GT] concept to make it possible of<br>task-level programming.  This concept is similar to<br>Ada's task, but not that one!<p>Comments are welcomed.<p>Would like to connect with WS3 by means of using<br>existing most advanced language which has above<br>similar features(conversion!).<br>But I don't know which is best and have problems of<br>using the demo version at the moment, since it has<br>very many limitations.(almost imposible!)<p>Is there no way? ...<p>PS) How can I get the language reference manual,<br>    via WEB or FTP, of Karel3 or another most<br>    advanced lanugage you may suggest?<br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 74-->
+<!--top: 93--><li><a href="93.html">Re: Which is the most advanced off-line language?</a> <b>Xing Shusong</b> <i>04:19:57 12/16/96</i>
+(<!--responses: 93-->0)
+<ul><!--insert: 93-->
+</ul><!--end: 93-->
+</ul><!--end: 74-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="74">
+<input type=hidden name="origname" value="Gyutae Kim">
+<input type=hidden name="origemail" value="gtkim@salmosa.kaist.ac.kr">
+<input type=hidden name="origsubject" value="Which is the most advanced off-line language?">
+<input type=hidden name="origdate" value="October 24, 1996 at 01:10:07">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Which is the most advanced off-line language?" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Hello!
+:  I am currently desinging a new off-line robot language
+: in which most of the needed features are included.
+: AutoTask, the one I am talking about, includes ;
+:    1. Task-level instructions
+:    2. Object-orientation with inheritence
+:    3. Concurrent mechanism with message passing
+:    4. Exception handling
+:    5. New data types for geometric data
+:    etc.
+: This language looks like C++.
+: I added a Task[GT] concept to make it possible of
+: task-level programming.  This concept is similar to
+: Ada's task, but not that one!
+
+: Comments are welcomed.
+
+: Would like to connect with WS3 by means of using
+: existing most advanced language which has above
+: similar features(conversion!).
+: But I don't know which is best and have problems of
+: using the demo version at the moment, since it has
+: very many limitations.(almost imposible!)
+
+: Is there no way? ...
+
+: PS) How can I get the language reference manual,
+:     via WEB or FTP, of Karel3 or another most
+:     advanced lanugage you may suggest?
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-172</DOCNO>
+<DOCOLDNO>IA023-000254-B045-61</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/93.html 206.216.148.51 19970108130222 text/html 5010
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:05 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 4839
+Last-modified: Mon, 16 Dec 1996 12:19:57 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Which is the most advanced off-line language?</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Which is the most advanced off-line language?</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:xss@huasun.nankai.edu.cn">Xing Shusong</a> on December 16, 1996 at 04:19:57:<p>
+In Reply to: <a href="74.html">Which is the most advanced off-line language?</a> posted by Gyutae Kim on October 24, 1996 at 01:10:07:<p>
+Hi! your work is very interesting, I think you may try Java, it's high level from hardware is very suitable for task planning. Of course, you will have many works on programming various interface and driver programs. Many class lib that you will need have not appeared.<br>: Hello!<br>:  I am currently desinging a new off-line robot language<br>: in which most of the needed features are included.<br>: AutoTask, the one I am talking about, includes ;<br>:    1. Task-level instructions<br>:    2. Object-orientation with inheritence<br>:    3. Concurrent mechanism with message passing<br>:    4. Exception handling<br>:    5. New data types for geometric data<br>:    etc.<br>: This language looks like C++.<br>: I added a Task[GT] concept to make it possible of<br>: task-level programming.  This concept is similar to<br>: Ada's task, but not that one!<p>: Comments are welcomed.<p>: Would like to connect with WS3 by means of using<br>: existing most advanced language which has above<br>: similar features(conversion!).<br>: But I don't know which is best and have problems of<br>: using the demo version at the moment, since it has<br>: very many limitations.(almost imposible!)<p>: Is there no way? ...<p>: PS) How can I get the language reference manual,<br>:     via WEB or FTP, of Karel3 or another most<br>:     advanced lanugage you may suggest?<p>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 93-->
+</ul><!--end: 93-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="74,93">
+<input type=hidden name="origname" value="Xing Shusong">
+<input type=hidden name="origemail" value="xss@huasun.nankai.edu.cn">
+<input type=hidden name="origsubject" value="Re: Which is the most advanced off-line language?">
+<input type=hidden name="origdate" value="December 16, 1996 at 04:19:57">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Which is the most advanced off-line language?" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Hi! your work is very interesting, I think you may try Java, it's high level from hardware is very suitable for task planning. Of course, you will have many works on programming various interface and driver programs. Many class lib that you will need have not appeared.
+: : Hello!
+: :  I am currently desinging a new off-line robot language
+: : in which most of the needed features are included.
+: : AutoTask, the one I am talking about, includes ;
+: :    1. Task-level instructions
+: :    2. Object-orientation with inheritence
+: :    3. Concurrent mechanism with message passing
+: :    4. Exception handling
+: :    5. New data types for geometric data
+: :    etc.
+: : This language looks like C++.
+: : I added a Task[GT] concept to make it possible of
+: : task-level programming.  This concept is similar to
+: : Ada's task, but not that one!
+
+: : Comments are welcomed.
+
+: : Would like to connect with WS3 by means of using
+: : existing most advanced language which has above
+: : similar features(conversion!).
+: : But I don't know which is best and have problems of
+: : using the demo version at the moment, since it has
+: : very many limitations.(almost imposible!)
+
+: : Is there no way? ...
+
+: : PS) How can I get the language reference manual,
+: :     via WEB or FTP, of Karel3 or another most
+: :     advanced lanugage you may suggest?
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-173</DOCNO>
+<DOCOLDNO>IA023-000254-B045-81</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/71.html 206.216.148.51 19970108130230 text/html 2676
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:15 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2505
+Last-modified: Tue, 05 Nov 1996 03:08:32 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Who wants a robot?</title>
+  </head>
+  <body>
+    <center>
+      <h1>Who wants a robot?</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:klabs@usa1.com">Bruce Dovidio</a> on October 17, 1996 at 04:26:56:<p>
+I've got a Cincinnatti Milacron T3776 that needs a new home.<br>It's a nice clean unit with only 2047 hrs and used for light duty.<br>I would like to recieve an offer for it and send it to it's new home.<br>I'm located in New England, USA.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 71-->
+<!--top: 80--><li><a href="80.html">Re: Who wants a robot?</a> <b>walter weisel</b> <i>19:08:32 11/04/96</i>
+(<!--responses: 80-->0)
+<ul><!--insert: 80-->
+</ul><!--end: 80-->
+</ul><!--end: 71-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="71">
+<input type=hidden name="origname" value="Bruce Dovidio">
+<input type=hidden name="origemail" value="klabs@usa1.com">
+<input type=hidden name="origsubject" value="Who wants a robot?">
+<input type=hidden name="origdate" value="October 17, 1996 at 04:26:56">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Who wants a robot?" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I've got a Cincinnatti Milacron T3776 that needs a new home.
+: It's a nice clean unit with only 2047 hrs and used for light duty.
+: I would like to recieve an offer for it and send it to it's new home.
+: I'm located in New England, USA.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-174</DOCNO>
+<DOCOLDNO>IA023-000254-B045-94</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/80.html 206.216.148.51 19970108130240 text/html 2551
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:26 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2380
+Last-modified: Tue, 05 Nov 1996 03:08:32 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Who wants a robot?</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Who wants a robot?</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by walter weisel on November 04, 1996 at 19:08:32:<p>
+In Reply to: <a href="71.html">Who wants a robot?</a> posted by Bruce Dovidio on October 17, 1996 at 04:26:56:<p>
+: I've got a Cincinnatti Milacron T3776 that needs a new home.<br>: It's a nice clean unit with only 2047 hrs and used for light duty.<br>: I would like to recieve an offer for it and send it to it's new home.<br>: I'm located in New England, USA.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 80-->
+</ul><!--end: 80-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="71,80">
+<input type=hidden name="origname" value="walter weisel">
+<input type=hidden name="origsubject" value="Re: Who wants a robot?">
+<input type=hidden name="origdate" value="November 04, 1996 at 19:08:32">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Who wants a robot?" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: : I've got a Cincinnatti Milacron T3776 that needs a new home.
+: : It's a nice clean unit with only 2047 hrs and used for light duty.
+: : I would like to recieve an offer for it and send it to it's new home.
+: : I'm located in New England, USA.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-175</DOCNO>
+<DOCOLDNO>IA023-000254-B045-109</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/70.html 206.216.148.51 19970108130248 text/html 2275
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:33 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2104
+Last-modified: Fri, 04 Oct 1996 17:19:40 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>RTX Off Line Programming</title>
+  </head>
+  <body>
+    <center>
+      <h1>RTX Off Line Programming</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:probinson@plymouth.ac.uk">Paul Robinson</a> on October 04, 1996 at 10:19:40:<p>
+Would like to contact anyone with first hand <br>experience of off line programming the RTX using Forth
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 70-->
+</ul><!--end: 70-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="70">
+<input type=hidden name="origname" value="Paul Robinson">
+<input type=hidden name="origemail" value="probinson@plymouth.ac.uk">
+<input type=hidden name="origsubject" value="RTX Off Line Programming">
+<input type=hidden name="origdate" value="October 04, 1996 at 10:19:40">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: RTX Off Line Programming" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Would like to contact anyone with first hand 
+: experience of off line programming the RTX using Forth
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-176</DOCNO>
+<DOCOLDNO>IA023-000254-B045-126</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/67.html 206.216.148.51 19970108130256 text/html 2116
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:42 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 1945
+Last-modified: Thu, 03 Oct 1996 12:31:58 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>student</title>
+  </head>
+  <body>
+    <center>
+      <h1>student</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:dgrau@com.uncor.edu">Grau, Diego Rafael</a> on October 03, 1996 at 05:31:58:<p>
+I want to know who is the dealers of COMAU in ARGENTINA!!
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 67-->
+</ul><!--end: 67-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="67">
+<input type=hidden name="origname" value="Grau, Diego Rafael">
+<input type=hidden name="origemail" value="dgrau@com.uncor.edu">
+<input type=hidden name="origsubject" value="student">
+<input type=hidden name="origdate" value="October 03, 1996 at 05:31:58">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: student" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I want to know who is the dealers of COMAU in ARGENTINA!!
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-177</DOCNO>
+<DOCOLDNO>IA023-000254-B045-145</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/66.html 206.216.148.51 19970108130304 text/html 3583
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:49 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3412
+Last-modified: Fri, 27 Sep 1996 14:33:11 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>External I/O for Bosch SR800 Robots</title>
+  </head>
+  <body>
+    <center>
+      <h1>External I/O for Bosch SR800 Robots</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:acrosse@rtc-waterford.ie">Alec Crosse</a> on September 27, 1996 at 07:33:11:<p>
+I work with 2 Bosch SR800 robots  (scara) utilising <br>a Rho 2 control and need some help in connecting up <br>external inputs & outputs .<br>I also need help on how to define these I/O in the <br>BAPS program  and how to use them within,a sample<br>program would be of great help.<p>Here is a basic program I tried:<p>1  PROGRAM AAAA<br>2  INPUT:50=SENSOR<br>3  OUTPUT:10=SOLINOID<br>4  WAITUNTIL SENSOR=1<br>5  MOVE TO POINT_1<br>6  SOLENOID=1<br>7  MOVE TO POINT_2<br>8  END<p>Program compiles fine with no errors  but will not run<br>when sensor is on .If I remove the mention of sensor &<br>input (lines 2,4), the program runs but the solenoid is<br>turned on, not between the move between pt1 to pt2 but <br>at the end of the program.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 66-->
+</ul><!--end: 66-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="66">
+<input type=hidden name="origname" value="Alec Crosse">
+<input type=hidden name="origemail" value="acrosse@rtc-waterford.ie">
+<input type=hidden name="origsubject" value="External I/O for Bosch SR800 Robots">
+<input type=hidden name="origdate" value="September 27, 1996 at 07:33:11">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: External I/O for Bosch SR800 Robots" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I work with 2 Bosch SR800 robots  (scara) utilising 
+: a Rho 2 control and need some help in connecting up 
+: external inputs & outputs .
+: I also need help on how to define these I/O in the 
+: BAPS program  and how to use them within,a sample
+: program would be of great help.
+
+: Here is a basic program I tried:
+
+: 1  PROGRAM AAAA
+: 2  INPUT:50=SENSOR
+: 3  OUTPUT:10=SOLINOID
+: 4  WAITUNTIL SENSOR=1
+: 5  MOVE TO POINT_1
+: 6  SOLENOID=1
+: 7  MOVE TO POINT_2
+: 8  END
+
+: Program compiles fine with no errors  but will not run
+: when sensor is on .If I remove the mention of sensor &
+: input (lines 2,4), the program runs but the solenoid is
+: turned on, not between the move between pt1 to pt2 but 
+: at the end of the program.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-178</DOCNO>
+<DOCOLDNO>IA023-000254-B045-163</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/54.html 206.216.148.51 19970108130310 text/html 3114
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 12:59:57 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2943
+Last-modified: Thu, 05 Sep 1996 14:32:00 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Convert MOD to VRML format </title>
+  </head>
+  <body>
+    <center>
+      <h1>Convert MOD to VRML format </h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:Blaz.Dolinsek@ikpir.fagg.uni-lj.si">Blaz Dolinsek</a> on September 04, 1996 at 01:17:12:<p>
+I work with WORKSPACE 3.3 (It was bought in 1995, may). <br>I like to introduce our work on the WWW sites. I like to know<br>if there is a possibility to convert WORKSPACE model (mod)<br>into a VRML format. <br>Is there any appropriate software available? Will the new version of WORKSPACE (for WIN95) comprise this option? <br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 54-->
+<!--top: 57--><li><a href="57.html">Re: Convert MOD to VRML format </a> <b>Marc Burns</b> <i>07:32:00 9/05/96</i>
+(<!--responses: 57-->0)
+<ul><!--insert: 57-->
+</ul><!--end: 57-->
+<!--top: 56--><li><a href="56.html">Re: Convert MOD to VRML format </a> <b>Marc Burns</b> <i>07:28:03 9/05/96</i>
+(<!--responses: 56-->0)
+<ul><!--insert: 56-->
+</ul><!--end: 56-->
+</ul><!--end: 54-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="54">
+<input type=hidden name="origname" value="Blaz Dolinsek">
+<input type=hidden name="origemail" value="Blaz.Dolinsek@ikpir.fagg.uni-lj.si">
+<input type=hidden name="origsubject" value="Convert MOD to VRML format ">
+<input type=hidden name="origdate" value="September 04, 1996 at 01:17:12">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Convert MOD to VRML format " size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I work with WORKSPACE 3.3 (It was bought in 1995, may). 
+: I like to introduce our work on the WWW sites. I like to know
+: if there is a possibility to convert WORKSPACE model (mod)
+: into a VRML format. 
+: Is there any appropriate software available? Will the new version of WORKSPACE (for WIN95) comprise this option? 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-179</DOCNO>
+<DOCOLDNO>IA023-000254-B045-180</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/57.html 206.216.148.51 19970108130318 text/html 2976
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:03 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2805
+Last-modified: Thu, 05 Sep 1996 14:32:00 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Convert MOD to VRML format </title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Convert MOD to VRML format </h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:marc@rosl.demon.couk">Marc Burns</a> on September 05, 1996 at 07:32:00:<p>
+In Reply to: <a href="54.html">Convert MOD to VRML format </a> posted by Blaz Dolinsek on September 04, 1996 at 01:17:12:<p>
+<br>Workspace 4 ( our next release ) allows the  user not only save models as VRML but also<br>create moving VRML's of animations created within Workspace. The examples of static <br>and dynamic VRML's on our website were created within Workspace.<p>Also, all models created within older versions of Workspace are compatible so you will not <br>have to create new model from scratch. 
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 57-->
+</ul><!--end: 57-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="54,57">
+<input type=hidden name="origname" value="Marc Burns">
+<input type=hidden name="origemail" value="marc@rosl.demon.couk">
+<input type=hidden name="origsubject" value="Re: Convert MOD to VRML format ">
+<input type=hidden name="origdate" value="September 05, 1996 at 07:32:00">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Convert MOD to VRML format " size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: 
+: Workspace 4 ( our next release ) allows the  user not only save models as VRML but also
+: create moving VRML's of animations created within Workspace. The examples of static 
+: and dynamic VRML's on our website were created within Workspace.
+
+: Also, all models created within older versions of Workspace are compatible so you will not 
+: have to create new model from scratch. 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-180</DOCNO>
+<DOCOLDNO>IA023-000254-B045-199</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/47.html 206.216.148.51 19970108130329 text/html 4051
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:14 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3880
+Last-modified: Thu, 22 Aug 1996 16:03:03 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>problem with cprogram interface with robot</title>
+  </head>
+  <body>
+    <center>
+      <h1>problem with cprogram interface with robot</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:taykw@pacific.net.sg">Taykw</a> on August 15, 1996 at 08:04:11:<p>
+Our company owns a Mitsubishi industrial micro-robot<br>model RV-M2. I have encountered problem of c program <br>interface with the robot via RS 232 serial port. the C<br>function format used to send to the robot is <br>  fputs("string of robot commands",stdaux); but always<br>received no respond from the robot, can anyone up in <br>the cyber space tell me why? Thanks, regards.<br> 
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 47-->
+<!--top: 53--><li><a href="53.html">Re: problem with cprogram interface with robot</a> <b>Nick Oakley</b> <i>09:03:03 8/22/96</i>
+(<!--responses: 53-->0)
+<ul><!--insert: 53-->
+</ul><!--end: 53-->
+<!--top: 52--><li><a href="52.html">xon/xoff protocol for epson in c</a> <b>Volker Pinkitz</b> <i>08:50:00 8/22/96</i>
+(<!--responses: 52-->0)
+<ul><!--insert: 52-->
+</ul><!--end: 52-->
+<!--top: 48--><li><a href="48.html">Re: problem with cprogram interface with robot</a> <b>Nick Oakley</b> <i>03:54:28 8/19/96</i>
+(<!--responses: 48-->3)
+<ul><!--insert: 48-->
+<!--top: 51--><li><a href="51.html">Re: problem with cprogram interface with robot</a> <b>taykheewee</b> <i>09:35:28 8/19/96</i>
+(<!--responses: 51-->0)
+<ul><!--insert: 51-->
+</ul><!--end: 51-->
+<!--top: 50--><li><a href="50.html">Re: problem with cprogram interface with robot</a> <b>taykheewee</b> <i>09:33:20 8/19/96</i>
+(<!--responses: 50-->0)
+<ul><!--insert: 50-->
+</ul><!--end: 50-->
+<!--top: 49--><li><a href="49.html">Re: problem with cprogram interface with robot</a> <b>taykheewee</b> <i>09:31:13 8/19/96</i>
+(<!--responses: 49-->0)
+<ul><!--insert: 49-->
+</ul><!--end: 49-->
+</ul><!--end: 48-->
+</ul><!--end: 47-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="47">
+<input type=hidden name="origname" value="Taykw">
+<input type=hidden name="origemail" value="taykw@pacific.net.sg">
+<input type=hidden name="origsubject" value="problem with cprogram interface with robot">
+<input type=hidden name="origdate" value="August 15, 1996 at 08:04:11">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: problem with cprogram interface with robot" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Our company owns a Mitsubishi industrial micro-robot
+: model RV-M2. I have encountered problem of c program 
+: interface with the robot via RS 232 serial port. the C
+: function format used to send to the robot is 
+:   fputs(&quot;string of robot commands&quot;,stdaux); but always
+: received no respond from the robot, can anyone up in 
+: the cyber space tell me why? Thanks, regards.
+:  
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-181</DOCNO>
+<DOCOLDNO>IA023-000254-B045-217</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/53.html 206.216.148.51 19970108130338 text/html 3602
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:22 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3431
+Last-modified: Thu, 22 Aug 1996 16:03:03 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: problem with cprogram interface with robot</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: problem with cprogram interface with robot</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:nick@rosl.demon.co.uk">Nick Oakley</a> on August 22, 1996 at 09:03:03:<p>
+In Reply to: <a href="47.html">problem with cprogram interface with robot</a> posted by Taykw on August 15, 1996 at 08:04:11:<p>
+Dear Mr. Tay Khee Wee,<br>I have sent you an email concerning the above and<br>look forward to your response. I suggest that you<br>poll the com port for a change in the state of its<br>flags before attempting to transmit the next<br>command. This is because the controller is busy<br>and loses the first few characters of the next<br>command, thus causing a syntax error when it <br>eventually starts to take notice of its serial<br>port again.<br>Alternatively, you could configure the port for<br>an infinite number of retries from DOS but I am<br>not certain if this will affect the operation of<br>your .exe file.<p>Regards,<p>Nick Oakley for Robot Simulations Ltd.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 53-->
+</ul><!--end: 53-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="47,53">
+<input type=hidden name="origname" value="Nick Oakley">
+<input type=hidden name="origemail" value="nick@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: problem with cprogram interface with robot">
+<input type=hidden name="origdate" value="August 22, 1996 at 09:03:03">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: problem with cprogram interface with robot" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Dear Mr. Tay Khee Wee,
+: I have sent you an email concerning the above and
+: look forward to your response. I suggest that you
+: poll the com port for a change in the state of its
+: flags before attempting to transmit the next
+: command. This is because the controller is busy
+: and loses the first few characters of the next
+: command, thus causing a syntax error when it 
+: eventually starts to take notice of its serial
+: port again.
+: Alternatively, you could configure the port for
+: an infinite number of retries from DOS but I am
+: not certain if this will affect the operation of
+: your .exe file.
+
+: Regards,
+
+: Nick Oakley for Robot Simulations Ltd.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-182</DOCNO>
+<DOCOLDNO>IA023-000254-B045-236</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/52.html 206.216.148.51 19970108130344 text/html 2873
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:31 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2702
+Last-modified: Thu, 22 Aug 1996 15:50:00 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>xon/xoff protocol for epson in c</title>
+  </head>
+  <body>
+    <center>
+      <h1>xon/xoff protocol for epson in c</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:volker.pinkitz@cc.tvlbg.ac.at">Volker Pinkitz</a> on August 22, 1996 at 08:50:00:<p>
+In Reply to: <a href="47.html">problem with cprogram interface with robot</a> posted by Taykw on August 15, 1996 at 08:04:11:<p>
+ I am working on an epson H654BN/SRC-310 robot and  <br> have encountered problem of c program <br> interface with the robot via RS 232 serial port.<br> I can only recieve date from the robot but <br> cannot send data. Can anyone help me how to <br> write a c program to execute a XON/XOFF protocol.<br> thanks a lot<p>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 52-->
+</ul><!--end: 52-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="47,52">
+<input type=hidden name="origname" value="Volker Pinkitz">
+<input type=hidden name="origemail" value="volker.pinkitz@cc.tvlbg.ac.at">
+<input type=hidden name="origsubject" value="xon/xoff protocol for epson in c">
+<input type=hidden name="origdate" value="August 22, 1996 at 08:50:00">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: xon/xoff protocol for epson in c" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+:  I am working on an epson H654BN/SRC-310 robot and  
+:  have encountered problem of c program 
+:  interface with the robot via RS 232 serial port.
+:  I can only recieve date from the robot but 
+:  cannot send data. Can anyone help me how to 
+:  write a c program to execute a XON/XOFF protocol.
+:  thanks a lot
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-183</DOCNO>
+<DOCOLDNO>IA023-000254-B045-249</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/43.html 206.216.148.51 19970108130351 text/html 2276
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:37 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2105
+Last-modified: Tue, 06 Aug 1996 13:50:22 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>to Simon Tilley</title>
+  </head>
+  <body>
+    <center>
+      <h1>to Simon Tilley</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by Hennie van Scherpenzeel on August 06, 1996 at 06:50:22:<p>
+Your website looks great and I wish you a very nice<br>holliday and we will get in contact in the beginning<br>of September.<p>With best regards<br>Hennie van Scherpenzeel
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 43-->
+</ul><!--end: 43-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="43">
+<input type=hidden name="origname" value="Hennie van Scherpenzeel">
+<input type=hidden name="origsubject" value="to Simon Tilley">
+<input type=hidden name="origdate" value="August 06, 1996 at 06:50:22">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: to Simon Tilley" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Your website looks great and I wish you a very nice
+: holliday and we will get in contact in the beginning
+: of September.
+
+: With best regards
+: Hennie van Scherpenzeel
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-184</DOCNO>
+<DOCOLDNO>IA023-000254-B045-266</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/42.html 206.216.148.51 19970108130359 text/html 3644
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:44 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3473
+Last-modified: Wed, 25 Sep 1996 16:12:46 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>robot languages</title>
+  </head>
+  <body>
+    <center>
+      <h1>robot languages</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:tiberio@tecnomare.nettuno.it">Tiberio Grasso</a> on August 01, 1996 at 06:53:13:<p>
+In the last few months, Yasnac (to which the Motoman<br>series belongs) changed the robot programming language.<br>The new language is called INFORM II. Does Workspace<br>support this language for Motoman robots? Do you have<br>some info about this language for me?<br>Thanks in advance.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 42-->
+<!--top: 62--><li><a href="62.html">Re: robot languages</a> <b>Venkata Subbarao Upadhyayula</b> <i>09:12:45 9/25/96</i>
+(<!--responses: 62-->0)
+<ul><!--insert: 62-->
+</ul><!--end: 62-->
+<!--top: 59--><li><a href="59.html">Re: robot languages</a> <b>Woody Walker</b> <i>21:56:27 9/22/96</i>
+(<!--responses: 59-->2)
+<ul><!--insert: 59-->
+<!--top: 61--><li><a href="61.html">Re: robot languages</a> <b>Walt Weisel</b> <i>02:55:50 9/25/96</i>
+(<!--responses: 61-->0)
+<ul><!--insert: 61-->
+</ul><!--end: 61-->
+<!--top: 60--><li><a href="60.html">Re: robot languages</a> <b>Woody Walker</b> <i>22:02:53 9/22/96</i>
+(<!--responses: 60-->0)
+<ul><!--insert: 60-->
+</ul><!--end: 60-->
+</ul><!--end: 59-->
+<!--top: 58--><li><a href="58.html">Re: robot languages</a> <b>Woody Walker</b> <i>21:43:07 9/22/96</i>
+(<!--responses: 58-->0)
+<ul><!--insert: 58-->
+</ul><!--end: 58-->
+<!--top: 45--><li><a href="45.html">Re: robot languages</a> <b>Marc Burns</b> <i>03:32:21 8/07/96</i>
+(<!--responses: 45-->0)
+<ul><!--insert: 45-->
+</ul><!--end: 45-->
+</ul><!--end: 42-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="42">
+<input type=hidden name="origname" value="Tiberio Grasso">
+<input type=hidden name="origemail" value="tiberio@tecnomare.nettuno.it">
+<input type=hidden name="origsubject" value="robot languages">
+<input type=hidden name="origdate" value="August 01, 1996 at 06:53:13">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: robot languages" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: In the last few months, Yasnac (to which the Motoman
+: series belongs) changed the robot programming language.
+: The new language is called INFORM II. Does Workspace
+: support this language for Motoman robots? Do you have
+: some info about this language for me?
+: Thanks in advance.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-185</DOCNO>
+<DOCOLDNO>IA023-000254-B046-13</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/59.html 206.216.148.51 19970108130408 text/html 3655
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:00:52 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3484
+Last-modified: Wed, 25 Sep 1996 09:55:50 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: robot languages</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: robot languages</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:ENTROPY34@GNN.COM">Woody Walker</a> on September 22, 1996 at 21:56:27:<p>
+In Reply to: <a href="42.html">robot languages</a> posted by Tiberio Grasso on August 01, 1996 at 06:53:13:<p>
+I am a programming technician for Collins & Aikman and we currently have about thirty eight "Yasnac Motoman" robots in a waterjet based application. The information we have regarding actual offline programming and the INFORM language itself is very sparse. I really need some source code for this language to better understand it's opperation and to help us tailor the application to our needs. Any takers on this one?<br>Also,  I really need some conversion algorithoms for conversion so i can convert from standard job to relative job and vice versa. PLEASE HELP... im stupid!<br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 59-->
+<!--top: 61--><li><a href="61.html">Re: robot languages</a> <b>Walt Weisel</b> <i>02:55:50 9/25/96</i>
+(<!--responses: 61-->0)
+<ul><!--insert: 61-->
+</ul><!--end: 61-->
+<!--top: 60--><li><a href="60.html">Re: robot languages</a> <b>Woody Walker</b> <i>22:02:53 9/22/96</i>
+(<!--responses: 60-->0)
+<ul><!--insert: 60-->
+</ul><!--end: 60-->
+</ul><!--end: 59-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="42,59">
+<input type=hidden name="origname" value="Woody Walker">
+<input type=hidden name="origemail" value="ENTROPY34@GNN.COM">
+<input type=hidden name="origsubject" value="Re: robot languages">
+<input type=hidden name="origdate" value="September 22, 1996 at 21:56:27">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: robot languages" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I am a programming technician for Collins & Aikman and we currently have about thirty eight &quot;Yasnac Motoman&quot; robots in a waterjet based application. The information we have regarding actual offline programming and the INFORM language itself is very sparse. I really need some source code for this language to better understand it's opperation and to help us tailor the application to our needs. Any takers on this one?
+: Also,  I really need some conversion algorithoms for conversion so i can convert from standard job to relative job and vice versa. PLEASE HELP... im stupid!
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-186</DOCNO>
+<DOCOLDNO>IA023-000254-B046-30</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/60.html 206.216.148.51 19970108130415 text/html 3998
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:01 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3827
+Last-modified: Mon, 23 Sep 1996 05:02:53 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: robot languages</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: robot languages</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:entropy34@gnn.com               ">Woody Walker</a> on September 22, 1996 at 22:02:53:<p>
+In Reply to: <a href="59.html">Re: robot languages</a> posted by Woody Walker on September 22, 1996 at 21:56:27:<p>
+: I am a programming technician for Collins & Aikman and we currently have about thirty eight "Yasnac Motoman" robots in a waterjet based application. The information we have regarding actual offline programming and the INFORM language itself is very sparse. I really need some source code for this language to better understand it's opperation and to help us tailor the application to our needs. Any takers on this one?<br>: Also,  I really need some conversion algorithoms for conversion so i can convert from standard job to relative job and vice versa. PLEASE HELP... im stupid!<p>Sorry about all the syntax of that last message.<br>Does anyone have any insight into shifting user frames utilizing a vidio input to supply position variables? How does this work? What are the tech. details? <br>                                             <br>                                                 THANKS!
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 60-->
+</ul><!--end: 60-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="42,59,60">
+<input type=hidden name="origname" value="Woody Walker">
+<input type=hidden name="origemail" value="entropy34@gnn.com               ">
+<input type=hidden name="origsubject" value="Re: robot languages">
+<input type=hidden name="origdate" value="September 22, 1996 at 22:02:53">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: robot languages" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: : I am a programming technician for Collins & Aikman and we currently have about thirty eight &quot;Yasnac Motoman&quot; robots in a waterjet based application. The information we have regarding actual offline programming and the INFORM language itself is very sparse. I really need some source code for this language to better understand it's opperation and to help us tailor the application to our needs. Any takers on this one?
+: : Also,  I really need some conversion algorithoms for conversion so i can convert from standard job to relative job and vice versa. PLEASE HELP... im stupid!
+
+: Sorry about all the syntax of that last message.
+: Does anyone have any insight into shifting user frames utilizing a vidio input to supply position variables? How does this work? What are the tech. details? 
+:                                              
+:                                                  THANKS!
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-187</DOCNO>
+<DOCOLDNO>IA023-000254-B046-43</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/45.html 206.216.148.51 19970108130422 text/html 2486
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:08 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2315
+Last-modified: Wed, 07 Aug 1996 10:32:21 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: robot languages</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: robot languages</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:marc@rosl.demon.co.uk">Marc Burns</a> on August 07, 1996 at 03:32:21:<p>
+In Reply to: <a href="42.html">robot languages</a> posted by Tiberio Grasso on August 01, 1996 at 06:53:13:<p>
+Workspace fully supports both Inform 1 and <br>Inform 2.<br>You asked for more information - what is it exactly<br>you wish to know? If you wish you can e-mail me direct.<br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 45-->
+</ul><!--end: 45-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="42,45">
+<input type=hidden name="origname" value="Marc Burns">
+<input type=hidden name="origemail" value="marc@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: robot languages">
+<input type=hidden name="origdate" value="August 07, 1996 at 03:32:21">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: robot languages" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Workspace fully supports both Inform 1 and 
+: Inform 2.
+: You asked for more information - what is it exactly
+: you wish to know? If you wish you can e-mail me direct.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-188</DOCNO>
+<DOCOLDNO>IA023-000254-B046-63</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/37.html 206.216.148.51 19970108130430 text/html 3298
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:15 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3127
+Last-modified: Mon, 30 Dec 1996 09:36:37 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Animation of ABB Robot</title>
+  </head>
+  <body>
+    <center>
+      <h1>Animation of ABB Robot</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by Diana Casetti (FANUC Robotics) on July 17, 1996 at 08:27:16:<p>
+I just wanted to tell you that I thought your animation<br>of the ABB robot was really great! Just for fun I wanted<br>to do the same thing for a FANUC robot. I've looked <br>into the 3DLive plug-in from Netscape but I don't know<br>how to put the animation into a VRML file. Can you<br>possibly give me some hints? 
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 37-->
+<!--top: 38--><li><a href="38.html">Re: Animation of ABB Robot</a> <b>John Owens</b> <i>08:38:11 7/17/96</i>
+(<!--responses: 38-->3)
+<ul><!--insert: 38-->
+<!--top: 94--><li><a href="94.html">Re: Animation of ABB Robot</a> <b>antonio Ma�as melendez</b> <i>01:36:37 12/30/96</i>
+(<!--responses: 94-->0)
+<ul><!--insert: 94-->
+</ul><!--end: 94-->
+<!--top: 41--><li><a href="41.html">Re: Animation of ABB Robot</a> <b>A3</b> <i>10:39:30 7/27/96</i>
+(<!--responses: 41-->0)
+<ul><!--insert: 41-->
+</ul><!--end: 41-->
+<!--top: 40--><li><a href="40.html">Re: Animation of ABB Robot</a> <b>A3</b> <i>10:38:55 7/27/96</i>
+(<!--responses: 40-->0)
+<ul><!--insert: 40-->
+</ul><!--end: 40-->
+</ul><!--end: 38-->
+</ul><!--end: 37-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="37">
+<input type=hidden name="origname" value="Diana Casetti (FANUC Robotics)">
+<input type=hidden name="origsubject" value="Animation of ABB Robot">
+<input type=hidden name="origdate" value="July 17, 1996 at 08:27:16">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Animation of ABB Robot" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I just wanted to tell you that I thought your animation
+: of the ABB robot was really great! Just for fun I wanted
+: to do the same thing for a FANUC robot. I've looked 
+: into the 3DLive plug-in from Netscape but I don't know
+: how to put the animation into a VRML file. Can you
+: possibly give me some hints? 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-189</DOCNO>
+<DOCOLDNO>IA023-000254-B046-82</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/38.html 206.216.148.51 19970108130443 text/html 4144
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:23 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3973
+Last-modified: Mon, 30 Dec 1996 09:36:37 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Animation of ABB Robot</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Animation of ABB Robot</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:john@rosl.demon.co.uk">John Owens</a> on July 17, 1996 at 08:38:11:<p>
+In Reply to: <a href="37.html">Animation of ABB Robot</a> posted by Diana Casetti (FANUC Robotics) on July 17, 1996 at 08:27:16:<p>
+I'm afraid the format is complex and undocumented by Netscape, apart<br>from the geometry stuff which is standard VRML 1.0 (use a search enigine<br>for more info on VRML). If you use GZip to unzip into WRL and VUE files<br>then you can see the text files. Its the VUE file that make stuff move<br>and which Netscape seem to deny the existence of, even though it does<br>work in their browser.<p>We have a command built into Workspace that generates these files. If<br>you want we might be able to generate a Fanuc one for you but I'd need<br>to know a little bit more about what you intended doing with it (I guess<br>we'd be looking for a bit of free publicity). We have all the Fanuc<br>robots modelled on Workspace.<br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 38-->
+<!--top: 94--><li><a href="94.html">Re: Animation of ABB Robot</a> <b>antonio Ma�as melendez</b> <i>01:36:37 12/30/96</i>
+(<!--responses: 94-->0)
+<ul><!--insert: 94-->
+</ul><!--end: 94-->
+<!--top: 41--><li><a href="41.html">Re: Animation of ABB Robot</a> <b>A3</b> <i>10:39:30 7/27/96</i>
+(<!--responses: 41-->0)
+<ul><!--insert: 41-->
+</ul><!--end: 41-->
+<!--top: 40--><li><a href="40.html">Re: Animation of ABB Robot</a> <b>A3</b> <i>10:38:55 7/27/96</i>
+(<!--responses: 40-->0)
+<ul><!--insert: 40-->
+</ul><!--end: 40-->
+</ul><!--end: 38-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="37,38">
+<input type=hidden name="origname" value="John Owens">
+<input type=hidden name="origemail" value="john@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: Animation of ABB Robot">
+<input type=hidden name="origdate" value="July 17, 1996 at 08:38:11">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Animation of ABB Robot" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I'm afraid the format is complex and undocumented by Netscape, apart
+: from the geometry stuff which is standard VRML 1.0 (use a search enigine
+: for more info on VRML). If you use GZip to unzip into WRL and VUE files
+: then you can see the text files. Its the VUE file that make stuff move
+: and which Netscape seem to deny the existence of, even though it does
+: work in their browser.
+
+: We have a command built into Workspace that generates these files. If
+: you want we might be able to generate a Fanuc one for you but I'd need
+: to know a little bit more about what you intended doing with it (I guess
+: we'd be looking for a bit of free publicity). We have all the Fanuc
+: robots modelled on Workspace.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-190</DOCNO>
+<DOCOLDNO>IA023-000254-B046-105</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/35.html 206.216.148.51 19970108130451 text/html 2593
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:36 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2422
+Last-modified: Fri, 19 Jul 1996 13:07:46 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>WS3</title>
+  </head>
+  <body>
+    <center>
+      <h1>WS3</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:JMOORE9288@aol.com">Jeffrey Moore</a> on July 09, 1996 at 17:54:31:<p>
+I would like to ask  how accurate the end users simulated <br>machine cycle time has been found to be after the production<br>equiptment has been built.<br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 35-->
+<!--top: 39--><li><a href="39.html">Re: WS3 cycle times</a> <b>James Potter</b> <i>06:07:46 7/19/96</i>
+(<!--responses: 39-->0)
+<ul><!--insert: 39-->
+</ul><!--end: 39-->
+<!--top: 36--><li><a href="36.html">Re: WS3</a> <b>gfd</b> <i>20:40:31 7/11/96</i>
+(<!--responses: 36-->0)
+<ul><!--insert: 36-->
+</ul><!--end: 36-->
+</ul><!--end: 35-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="35">
+<input type=hidden name="origname" value="Jeffrey Moore">
+<input type=hidden name="origemail" value="JMOORE9288@aol.com">
+<input type=hidden name="origsubject" value="WS3">
+<input type=hidden name="origdate" value="July 09, 1996 at 17:54:31">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: WS3" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: I would like to ask  how accurate the end users simulated 
+: machine cycle time has been found to be after the production
+: equiptment has been built.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-191</DOCNO>
+<DOCOLDNO>IA023-000254-B046-127</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/39.html 206.216.148.51 19970108130500 text/html 2821
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:45 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2650
+Last-modified: Fri, 19 Jul 1996 13:07:46 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: WS3 cycle times</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: WS3 cycle times</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:james@rosl.demon.co.uk">James Potter</a> on July 19, 1996 at 06:07:46:<p>
+In Reply to: <a href="35.html">WS3</a> posted by Jeffrey Moore on July 09, 1996 at 17:54:31:<p>
+We have compared cycle times predicted in <br>Workspace against those measured on real robots,<br>and found the predicted times to be approximately<br>95% accurate.<p>Workspace robot models contain information on <br>joint/tool maximum speed/acceleration and <br>Workspace uses trajectory generation algorithms <br>supplied by robot manufacturers.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 39-->
+</ul><!--end: 39-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="35,39">
+<input type=hidden name="origname" value="James Potter">
+<input type=hidden name="origemail" value="james@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: WS3 cycle times">
+<input type=hidden name="origdate" value="July 19, 1996 at 06:07:46">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: WS3 cycle times" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: We have compared cycle times predicted in 
+: Workspace against those measured on real robots,
+: and found the predicted times to be approximately
+: 95% accurate.
+
+: Workspace robot models contain information on 
+: joint/tool maximum speed/acceleration and 
+: Workspace uses trajectory generation algorithms 
+: supplied by robot manufacturers.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-192</DOCNO>
+<DOCOLDNO>IA023-000254-B046-147</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/34.html 206.216.148.51 19970108130509 text/html 2150
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:01:55 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 1979
+Last-modified: Fri, 28 Jun 1996 23:55:11 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Kick Ass Site</title>
+  </head>
+  <body>
+    <center>
+      <h1>Kick Ass Site</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:greg@ipp.com">Greg Stiavetti</a> on June 28, 1996 at 16:55:11:<p>
+Excellent Site, totally cool!
+<br>
+<ul><li><a href="http://www.ipp.com">Internet Presence Providers Inc. - Webhosting -</a></ul>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 34-->
+</ul><!--end: 34-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="34">
+<input type=hidden name="origname" value="Greg Stiavetti">
+<input type=hidden name="origemail" value="greg@ipp.com">
+<input type=hidden name="origsubject" value="Kick Ass Site">
+<input type=hidden name="origdate" value="June 28, 1996 at 16:55:11">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Kick Ass Site" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: Excellent Site, totally cool!
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-193</DOCNO>
+<DOCOLDNO>IA023-000254-B046-164</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/29.html 206.216.148.51 19970108130517 text/html 4012
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:02 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3841
+Last-modified: Wed, 11 Dec 1996 19:54:35 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Stewart Platform</title>
+  </head>
+  <body>
+    <center>
+      <h1>Stewart Platform</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:vid@m130.aone.net.au">Tony Vidler</a> on June 08, 1996 at 18:01:23:<p>
+One of our contacts has posed the question as to<br>whether it is possible to create and simulate a Stewart<br>Platform using Workspace.
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 29-->
+<!--top: 32--><li><a href="32.html">Re: Stewart Platform</a> <b>Phil Watson</b> <i>08:54:00 6/13/96</i>
+(<!--responses: 32-->3)
+<ul><!--insert: 32-->
+<!--top: 90--><li><a href="90.html">Re: Stewart Platform</a> <b>Aldous Huxley</b> <i>11:54:34 12/11/96</i>
+(<!--responses: 90-->0)
+<ul><!--insert: 90-->
+</ul><!--end: 90-->
+<!--top: 89--><li><a href="89.html">Re: Stewart Platform</a> <b>Aldous Huxley</b> <i>11:48:12 12/11/96</i>
+(<!--responses: 89-->0)
+<ul><!--insert: 89-->
+</ul><!--end: 89-->
+<!--top: 73--><li><a href="73.html">Re: Stewart Platform</a> <b>Huseyin Ovayolu</b> <i>06:35:51 10/22/96</i>
+(<!--responses: 73-->0)
+<ul><!--insert: 73-->
+</ul><!--end: 73-->
+</ul><!--end: 32-->
+<!--top: 32--><li><a href="32.html">Re: Stewart Platform</a> <b>Phil Watson</b> <i>08:50:58 6/13/96</i>
+(<!--responses: 32-->3)
+<ul><!--insert: 32-->
+<!--top: 90--><li><a href="90.html">Re: Stewart Platform</a> <b>Aldous Huxley</b> <i>11:54:34 12/11/96</i>
+(<!--responses: 90-->0)
+<ul><!--insert: 90-->
+</ul><!--end: 90-->
+<!--top: 89--><li><a href="89.html">Re: Stewart Platform</a> <b>Aldous Huxley</b> <i>11:48:12 12/11/96</i>
+(<!--responses: 89-->0)
+<ul><!--insert: 89-->
+</ul><!--end: 89-->
+<!--top: 73--><li><a href="73.html">Re: Stewart Platform</a> <b>Huseyin Ovayolu</b> <i>06:35:51 10/22/96</i>
+(<!--responses: 73-->0)
+<ul><!--insert: 73-->
+</ul><!--end: 73-->
+</ul><!--end: 32-->
+<!--top: 31--><li><a href="31.html">Re: Stewart Platform</a> <b>Phil Watson</b> <i>01:28:38 6/10/96</i>
+(<!--responses: 31-->0)
+<ul><!--insert: 31-->
+</ul><!--end: 31-->
+<!--top: 30--><li><a href="30.html">Re: Stewart Platform</a> <b>Phil Watson</b> <i>01:28:17 6/10/96</i>
+(<!--responses: 30-->0)
+<ul><!--insert: 30-->
+</ul><!--end: 30-->
+</ul><!--end: 29-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="29">
+<input type=hidden name="origname" value="Tony Vidler">
+<input type=hidden name="origemail" value="vid@m130.aone.net.au">
+<input type=hidden name="origsubject" value="Stewart Platform">
+<input type=hidden name="origdate" value="June 08, 1996 at 18:01:23">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Stewart Platform" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: One of our contacts has posed the question as to
+: whether it is possible to create and simulate a Stewart
+: Platform using Workspace.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-194</DOCNO>
+<DOCOLDNO>IA023-000254-B046-180</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/32.html 206.216.148.51 19970108130524 text/html 4301
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:10 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 4130
+Last-modified: Wed, 11 Dec 1996 19:54:35 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Stewart Platform</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Stewart Platform</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:phil@rosl.demon.co.uk">Phil Watson</a> on June 13, 1996 at 08:54:00:<p>
+In Reply to: <a href="29.html">Stewart Platform</a> posted by Tony Vidler on June 08, 1996 at 18:01:23:<p>
+: One of our contacts has posed the question as to<br>: whether it is possible to create and simulate a Stewart<br>: Platform using Workspace.<p>Workspace can be used to simulate both serial and<br>tree type mechanisms. They are defined by modelling<br>the joints that make up the mechanism.<p>Each joint can be either rotational or translational,<br>each joint is defined between its parent object and <br>its child object, and its motion is governed by <br>user defined equations. These equations consist of <br>any number of temporary variable definitions and <br>a final definition line. This structure allow <br>complex equations to be modelled easily.<p>This method of mechanism modelling allows Workspace to simulate<br>any mechanism type including the Stewart Platform and the Neos <br>Tricept robot.<p><br>The <p><br>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 32-->
+<!--top: 90--><li><a href="90.html">Re: Stewart Platform</a> <b>Aldous Huxley</b> <i>11:54:34 12/11/96</i>
+(<!--responses: 90-->0)
+<ul><!--insert: 90-->
+</ul><!--end: 90-->
+<!--top: 89--><li><a href="89.html">Re: Stewart Platform</a> <b>Aldous Huxley</b> <i>11:48:12 12/11/96</i>
+(<!--responses: 89-->0)
+<ul><!--insert: 89-->
+</ul><!--end: 89-->
+<!--top: 73--><li><a href="73.html">Re: Stewart Platform</a> <b>Huseyin Ovayolu</b> <i>06:35:51 10/22/96</i>
+(<!--responses: 73-->0)
+<ul><!--insert: 73-->
+</ul><!--end: 73-->
+</ul><!--end: 32-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="29,32">
+<input type=hidden name="origname" value="Phil Watson">
+<input type=hidden name="origemail" value="phil@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: Stewart Platform">
+<input type=hidden name="origdate" value="June 13, 1996 at 08:54:00">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Stewart Platform" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: : One of our contacts has posed the question as to
+: : whether it is possible to create and simulate a Stewart
+: : Platform using Workspace.
+
+: Workspace can be used to simulate both serial and
+: tree type mechanisms. They are defined by modelling
+: the joints that make up the mechanism.
+
+: Each joint can be either rotational or translational,
+: each joint is defined between its parent object and 
+: its child object, and its motion is governed by 
+: user defined equations. These equations consist of 
+: any number of temporary variable definitions and 
+: a final definition line. This structure allow 
+: complex equations to be modelled easily.
+
+: This method of mechanism modelling allows Workspace to simulate
+: any mechanism type including the Stewart Platform and the Neos 
+: Tricept robot.
+
+: 
+: The 
+
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-195</DOCNO>
+<DOCOLDNO>IA023-000254-B046-199</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/90.html 206.216.148.51 19970108130535 text/html 3037
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:20 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 2866
+Last-modified: Wed, 11 Dec 1996 19:54:34 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Stewart Platform</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Stewart Platform</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:jaldous-@engr.udayton.edu">Aldous Huxley</a> on December 11, 1996 at 11:54:34:<p>
+In Reply to: <a href="32.html">Re: Stewart Platform</a> posted by Phil Watson on June 13, 1996 at 08:54:00:<p>
+<br>   I am a Graduate student in Mechanical and I became particularly more interested in Stewart platform, of late.<p>  I would like to ask something about that ,for which if I get a reply I would be much obliged.<p>ok.We know that the inverse Kinematics of a stewart platform(planar) with Prismatic legs is very straightforward.Is this the case for a stewart platform with rotary drive .I mean,using a crank and coupler mechanism. 
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 90-->
+</ul><!--end: 90-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="29,32,90">
+<input type=hidden name="origname" value="Aldous Huxley">
+<input type=hidden name="origemail" value="jaldous-@engr.udayton.edu">
+<input type=hidden name="origsubject" value="Re: Stewart Platform">
+<input type=hidden name="origdate" value="December 11, 1996 at 11:54:34">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Stewart Platform" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: 
+:    I am a Graduate student in Mechanical and I became particularly more interested in Stewart platform, of late.
+
+:   I would like to ask something about that ,for which if I get a reply I would be much obliged.
+
+: ok.We know that the inverse Kinematics of a stewart platform(planar) with Prismatic legs is very straightforward.Is this the case for a stewart platform with rotary drive .I mean,using a crank and coupler mechanism. 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-196</DOCNO>
+<DOCOLDNO>IA023-000254-B046-214</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/25.html 206.216.148.51 19970108130542 text/html 3513
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:28 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3342
+Last-modified: Fri, 07 Jun 1996 09:21:28 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Info</title>
+  </head>
+  <body>
+    <center>
+      <h1>Info</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:tiberio@tecnomare.nettuno.it">Tiberio Grasso</a> on June 06, 1996 at 05:00:43:<p>
+-Is it possible to have some modifications in the <br>standard software?<br>-In particular:<br>we need two 'virtual cameras' attached to a specific<br>reference frame, fixed or moving with respect to base.<br>Note that in this case a perspective view is needed, and<br>also a specific window where to input the relevant data.<br>-As regards forward and inverse dynamics, I know that<br>with the use of a DLL it is possible to perform these<br>operations. But what must I write in these DLLs?
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 25-->
+<!--top: 28--><li><a href="28.html">Re: Moving views &amp; dynamics</a> <b>James Potter</b> <i>02:21:28 6/07/96</i>
+(<!--responses: 28-->0)
+<ul><!--insert: 28-->
+</ul><!--end: 28-->
+<!--top: 27--><li><a href="27.html">Re: Moving views &amp; dynamics</a> <b>James Potter</b> <i>02:20:20 6/07/96</i>
+(<!--responses: 27-->0)
+<ul><!--insert: 27-->
+</ul><!--end: 27-->
+<!--top: 26--><li><a href="26.html">Re: Moving views &amp; dynamics</a> <b>James Potter</b> <i>02:19:33 6/07/96</i>
+(<!--responses: 26-->0)
+<ul><!--insert: 26-->
+</ul><!--end: 26-->
+</ul><!--end: 25-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="25">
+<input type=hidden name="origname" value="Tiberio Grasso">
+<input type=hidden name="origemail" value="tiberio@tecnomare.nettuno.it">
+<input type=hidden name="origsubject" value="Info">
+<input type=hidden name="origdate" value="June 06, 1996 at 05:00:43">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Info" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: -Is it possible to have some modifications in the 
+: standard software?
+: -In particular:
+: we need two 'virtual cameras' attached to a specific
+: reference frame, fixed or moving with respect to base.
+: Note that in this case a perspective view is needed, and
+: also a specific window where to input the relevant data.
+: -As regards forward and inverse dynamics, I know that
+: with the use of a DLL it is possible to perform these
+: operations. But what must I write in these DLLs?
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-197</DOCNO>
+<DOCOLDNO>IA023-000254-B046-231</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/26.html 206.216.148.51 19970108130549 text/html 4429
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:35 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 4258
+Last-modified: Fri, 07 Jun 1996 09:19:33 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Re: Moving views &amp; dynamics</title>
+  </head>
+  <body>
+    <center>
+      <h1>Re: Moving views &amp; dynamics</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:james@rosl.demon.co.uk">James Potter</a> on June 07, 1996 at 02:19:33:<p>
+In Reply to: <a href="25.html">Info</a> posted by Tiberio Grasso on June 06, 1996 at 05:00:43:<p>
+: -Is it possible to have some modifications in the <br>: standard software?<br>: -In particular:<br>: we need two 'virtual cameras' attached to a specific<br>: reference frame, fixed or moving with respect to base.<br>: Note that in this case a perspective view is needed, and<br>: also a specific window where to input the relevant data.<br>: -As regards forward and inverse dynamics, I know that<br>: with the use of a DLL it is possible to perform these<br>: operations. But what must I write in these DLLs?<p>1. VIRTUAL CAMERAS (ATTACHED TO MOVING OBJECT)<br>A Geometry Point is attached to the moving object, there <br>is a Workspace command (VIEW) that sets the position/<br>direction of eye.  A background track is run that <br>continually checks the GP's position and adjusts the <br>view accordingly.<p>2. PERSPECTIVE. <br>This is available in Workspace.<p>5. INPUT WINDOW<br>Reading from user (PROMPTUSER command) is possible.<p>4. DYNAMICS.<br>We supply an example pascal dynamics file (to <br>be compiled to a dll).I will fax section from the <br>Workspace User Guide on "Writing your own dynamics <br>routines".<p>
+<br>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 26-->
+</ul><!--end: 26-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="25,26">
+<input type=hidden name="origname" value="James Potter">
+<input type=hidden name="origemail" value="james@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Re: Moving views &amp; dynamics">
+<input type=hidden name="origdate" value="June 07, 1996 at 02:19:33">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject"value="Re: Moving views &amp; dynamics" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: : -Is it possible to have some modifications in the 
+: : standard software?
+: : -In particular:
+: : we need two 'virtual cameras' attached to a specific
+: : reference frame, fixed or moving with respect to base.
+: : Note that in this case a perspective view is needed, and
+: : also a specific window where to input the relevant data.
+: : -As regards forward and inverse dynamics, I know that
+: : with the use of a DLL it is possible to perform these
+: : operations. But what must I write in these DLLs?
+
+: 1. VIRTUAL CAMERAS (ATTACHED TO MOVING OBJECT)
+: A Geometry Point is attached to the moving object, there 
+: is a Workspace command (VIEW) that sets the position/
+: direction of eye.  A background track is run that 
+: continually checks the GP's position and adjusts the 
+: view accordingly.
+
+: 2. PERSPECTIVE. 
+: This is available in Workspace.
+
+: 5. INPUT WINDOW
+: Reading from user (PROMPTUSER command) is possible.
+
+: 4. DYNAMICS.
+: We supply an example pascal dynamics file (to 
+: be compiled to a dll).I will fax section from the 
+: Workspace User Guide on &quot;Writing your own dynamics 
+: routines&quot;.
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-198</DOCNO>
+<DOCOLDNO>IA023-000254-B046-250</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/wwwboard/messages/23.html 206.216.148.51 19970108130557 text/html 3267
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:43 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 3096
+Last-modified: Wed, 11 Dec 1996 17:20:14 GMT
+</DOCHDR>
+<html>
+  <head>
+    <title>Welcome to the Workspace User Group</title>
+  </head>
+  <body>
+    <center>
+      <h1>Welcome to the Workspace User Group</h1>
+    </center>
+<hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+<hr size=7 width=75%><p>
+Posted by <a href="mailto:marc@rosl.demon.co.uk">Marc Burns</a> on May 29, 1996 at 07:15:38:<p>
+This user group has been developed for  users<br>and potential users of the Workspace robot<br>simulation software and the Robotrak robot <br>calibration system.<br>Users may have discussions with each other and <br>ask (or answer!)  any questions they may have <br>relating to our products.<br>The technical staff at Robot Simulations will be <br>making regular contributions so the information you<br>receive will be both accurate and up to date. 
+<br>
+<ul><li><a href="http://www.rosl.com">To the Robot Simulations Home Page</a></ul>
+<br><hr size=7 width=75%><p>
+<a name="followups">Follow Ups:</a><br>
+<ul><!--insert: 23-->
+<!--top: 86--><li><a href="86.html">Re: Welcome to the Workspace User Group</a> <b>LOORTHANATHAN ARULANTHU</b> <i>09:20:13 12/11/96</i>
+(<!--responses: 86-->0)
+<ul><!--insert: 86-->
+</ul><!--end: 86-->
+</ul><!--end: 23-->
+<br><hr size=7 width=75%><p>
+<a name="postfp">Post a Followup</a><p>
+<form method=POST action="http://www.rosl.com/my-cgi-bin/wwwboard.cgi">
+<input type=hidden name="followup" value="23">
+<input type=hidden name="origname" value="Marc Burns">
+<input type=hidden name="origemail" value="marc@rosl.demon.co.uk">
+<input type=hidden name="origsubject" value="Welcome to the Workspace User Group">
+<input type=hidden name="origdate" value="May 29, 1996 at 07:15:38">
+Name: <input type=text name="name" size=50><br>
+E-Mail: <input type=text name="email" size=50><p>
+Subject: <input type=text name="subject" value="Re: Welcome to the Workspace User Group" size=50><p>
+Comments:<br>
+<textarea name="body" COLS=50 ROWS=10>
+: This user group has been developed for  users
+: and potential users of the Workspace robot
+: simulation software and the Robotrak robot 
+: calibration system.
+: Users may have discussions with each other and 
+: ask (or answer!)  any questions they may have 
+: relating to our products.
+: The technical staff at Robot Simulations will be 
+: making regular contributions so the information you
+: receive will be both accurate and up to date. 
+
+</textarea>
+<p>
+Optional Link URL: <input type=text name="url" size=50><br>
+Link Title: <input type=text name="url_title" size=48><br>
+Optional Image URL: <input type=text name="img" size=49><p>
+<input type=submit value="Submit Follow Up"> <input type=reset>
+<p><hr size=7 width=75%>
+<center>[ <a href="#followups">Follow Ups</a> ] [ <a href="#postfp">Post Followup</a> ] [ <a href="http://www.rosl.com/wwwboard/wwwboard.html">Workspace User Group</a> ] [ <a href="http://www.rosl.com/wwwboard/faq.html">FAQ</a> ]</center>
+</body></html>
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-199</DOCNO>
+<DOCOLDNO>IA023-000254-B046-265</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/vrmlbrow.htm 206.216.148.51 19970108130604 text/html 1759
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:02:51 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 1588
+Last-modified: Wed, 06 Nov 1996 15:42:39 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Upgrade your browser to recognise VRML</TITLE> 
+</HEAD>
+<BODY background="paper3.gif">
+<H1>Upgrade your browser to recognise VRML</H1> 
+
+<P>If your browser does not recognise VRML files then click on one of the following.</P>
+
+<P><B><U>Note that the Netscape VRML extension entitled 'Moving Worlds Plug-In' is in Beta-test. This means that it may contain bugs which should be reported to Netscape and which are not the responsibility of Robot Simulations Ltd. The Moving Worlds Beta-test is designed to disable many of its features after May 31st 1996 and so will have to be renewed after that date. Please read the Netscape license for more information.</U></B></P> 
+
+<UL>
+<LI>
+<A HREF="http://www.microsoft.com/kb/peropsys/win95/q141474.htm">VRML upgrade for Microsoft Internet Explorer 2.0</A>
+
+<LI>
+<A HREF="http://home.netscape.com/comprod/products/navigator/live3d/index.html">VRML upgrade (Moving Worlds) Beta-test for Netscape Navigator 2.0</A>
+
+<LI>
+<A HREF="http://www.sdsc.edu/vrml/">Select another VRML browser</A>
+
+</UL>
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<P ALIGN=center><A HREF="index.htm"><IMG SRC="home.gif" ALT="[IMAGE]"></a>[ <A HREF="index.htm">Return to Home Page</A> ]</P> 
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<center><h6><b>Workspace</b> and <b>Robotrak</b> are registered trademarks of Robot Simulations Ltd.</h6>
+
+<h6>Copyright &copy; 1996 Robot Simulations Ltd</h6>
+<h6>Last revision 3 April 1996</h6></center>
+</P>
+
+
+
+
+</BODY>
+
+</HTML>
+
+</DOC>
+<DOC>
+<DOCNO>WT03-B15-200</DOCNO>
+<DOCOLDNO>IA024-000255-B008-394</DOCOLDNO>
+<DOCHDR>
+http://206.216.148.51:80/rpt.htm 206.216.148.51 19970108134916 text/html 11735
+HTTP/1.0 200 OK
+Date: Wed, 08 Jan 1997 13:45:42 GMT
+Server: Apache/1.0.2
+Content-type: text/html
+Content-length: 11563
+Last-modified: Thu, 04 Apr 1996 07:58:46 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Industrial Case-Study: A Water-jet Cutting Workcell</TITLE> 
+<BODY background="paper3.gif">
+<H1>Industrial Case-Study: A Water-jet Cutting Workcell</H1> 
+</HEAD>
+
+<H2>by John Owens (RSL) and Kevin Piatkowsky (RPT)</H2>
+
+
+<H3>Background</H3>
+
+<P>RPT is a robot systems integrator with special knowledge of Water-jet cutting applications using Fanuc robots. They use very high pressure water jets varying in pressure from 40,000 to 55,000 psi depending on the type and width of the material to be cut. The distilled water is run through three filters (10, 1, and 0.5 micron thick) to filter out any particles and then passed through flexible metal tubing along the length of the robot to a nozzle attached as a tool to the end of the robot.
+Materials that can be cut in this way include fibre-glass, headliner material, carpet, plastic (hard and soft). With the addition of an abrasive named garnet (with the texture of sand) it becomes possible to cut sheet metal or even marble: RPT have developed workcells that can cut more than 3 inches of aluminium or 2 inches of steel. Water-jet cutting is very cost-efficient in comparison to other methods such as laser-jet cutting. It is particularly suitable for cutting soft fabrics, causes no heat-stress on the part (it is its own cooling system), and the water can be easily recycled or drained straight into the sewer.</P>
+
+<H3>The Requirements</H3>
+
+<P>The pelt to be cut is 27 millimetres thick. RPT were requested to make two cuts (see figure 1). The first cut would be at a 54 degree angle to the surface.  There were additional specifications as to the length and width of the pelt, from cut line to cut line on the surface.  There was also a radius in each corner of 10 millimetres on the surface. It was required that the 54 degree cut angle be maintained throughout the radius. 
+The second cut was to be done at an 80 degree angle to the upper surface.  This cut was to be made on the already existing 'slope' of the 54 degree cut.  This would mean that the overall length and width of the part should be measured at its widest point on the 'peak' of the edges.  Again there were specified lengths and widths for this 'peak' as well as the bottom surface cut line to cut line.  Again there was a specific radius that had to maintain this 80 degree cut angle. There was also a specification that this 'peak' had to be 13 millimetres from the surface, and had to be maintained at this consistent height around the whole part, especially the corners.  Angles needed to be maintained +/- 2 degrees.  Dimensions needed to be maintained +/- 1 millimetre.</P>
+
+<center><IMG SRC="rpt1.gif" ALT="[IMAGE]"></center>
+<center>Figure 1 - The part specification</center>
+
+<H3>The Workcell</H3>
+<P>The workcell is shown in figure 2. It consists of a Fanuc S500 robot using an S3 controller and the TP robot language. Four parts are cut from one pelt before the cut parts are unloaded and the next pelt placed in the workcell.</P>
+
+<H3>The First Attempt: Manual Programming</H3>
+<P>The first attempt to solve the problem involved teaching the robot by hand using the Fanuc teach-pendant.  This required a great deal of time and patience to teach the hundreds of points required for each of the four cuts.</P>
+<P>Although the programmer could fine tune points taught by eye by entering numbers calculated using the mathematics of the part, it was still extremely difficult to ensure that the angle of the cuts was consistent.</P>
+<P>A further problem was that the cuts were not repeatable over the four parts. Because of the distortion in the robot envelope due to the geometric structure of the robot the points used to cut a part in one area of the pelt when transferred to another area of the pelt gave less consistent cuts.</P>
+<P>Water-jet cutting is a very demanding application because any deviation that the robot makes in its path, any change in velocity, any defect in the robot will show up in the final part.</P>
+<P>After about 40 hours of programming the parts being cut were still not of the quality required.</P>
+
+<H3>The Solution:Simulation,Calibration and Offline Programming using Workspace/Robotrak</H3>
+
+<P>RPT chose to use a robot simulation software package named Workspace to perform the simulation, calibration, and offline programming of the workcell. The key factors in this decision were as follows:</P>
+<P>1. Workspace is integrated with the Robotrak robot and tool calibration system. This close integration means that robot and tool calibration (for both the tool offset and orientation) is quick and effective.</P>
+<P>2. Workspace allow users to work in the robot's native language, in this case TP. This provides users with the entire power of the TP language, without the need for postprocessing of any kind. Offline programming is therefore a one-step process.</P>
+<P>3. The Workspace CAD, simulation, and offline programming system is quick and easy to use. This enabled the workcell to be designed.</P>
+<P>4. Workspace can run on any IBM-compatible PC. The cost of the hardware required for the simulation was therefore kept to a minimum, and existing PCs at present used for other purposes might be used. Workspace can also run on a notebook. This enables the engineers involved in modifications in the workcell to work on the shopfloor if required.</P>
+<P>5. Robotrak is easy to set up and use, even in a clustered workcell, since the three base units that must be placed on the floor can be placed anywhere in the workcell.</P>
+
+<H3>The Method</H3>
+<P>First one part was modelled using the Workspace CAD system as a series of closed polylines (linked arcs and lines). The geometry points required along each polyline (representing the meeting point of the water-jet and the part) were taught within Workspace along the polyline. These geometry points are like robot teachpoints except that they are stored with the model and may therefore be easily moved in the model independently of the robot.</P>
+<P>The user defined only start and end geometry points on a given line or arc - Workspace then used interpolation to automatically create intermediate geometry points along the lines or arcs at a distance between each point defined by the programmer. This technique of over defining the path (using more points than might seem necessary) ensures that the robot follows the path more precisely.</P>
+<P>The part was then copied four times and placed within the workcell. This also copies and moves the geometry points four times so that they do not need to be redefined for each part.</P>
+<P>The Fanuc S500 robot model was loaded from the robot library and placed within the workcell. If the placing of the robot was such that any of the geometry points were unachievable then the geometry points were displayed in red. The robot could then be repositioned. Figure 2 shows the Workspace model of the workcell and Figure 3 shows the geometry points defined on a part.</P>
+
+<center><IMG SRC="rpt2.gif" ALT="[IMAGE]"></center>
+<center>Figure 2 - The Workspace model of the workcell</center>
+
+<center><IMG SRC="rpt3.gif" ALT="[IMAGE]"></center>
+<center>Figure 3 - Geometry points defined on a part</center>
+
+<P>The robot programme was defined from the Workspace menus in the TP language using movements to the geometry points and the necessary motion types, motion termination types, and velocities. If movement along the path caused the robot to hit a limit on one of the wrist joints, or when moving from one cut to the next cut, then an additional move was inserted to enable the wrist to re-orientate itself (known as an air move).</P>
+<P>After the robot programme was defined from the Workspace menus then the Workspace text editor was used to inspect and comment the different parts of the programme, as well as to add commands for turning the water jet on or off.
+The next stage was to calibrate the robot and tool (see Figure 4) using Robotrak. A special fitting had been designed that screwed the robotrak cords onto the end of the water-jet. The robot was then moved to 50 teachpoints all with different positions and orientations throughout the envelope, and Workspace automatically took an xyz measurement reading from Robotrak each time the robot paused between movements.</P>
+
+<center><IMG SRC="rpt4.gif" ALT="[IMAGE]"></center>
+<center>Figure 4 - Robot and tool calibration using Robotrak</center>
+
+<P>The teachpoint file and the measurement file were then used in Workspace to instigate a search which in 1 minute found the joint angle offsets, errors in link lengths, misalignment of joint axes, tool xyz offset, and joint compliances, which together make up the signature of the robot.</P>
+<P>Two additional fittings were used to take two additional measurements using Robotrak and thereby find the true tool orientation (see Figure 5).</P>
+
+<center><IMG SRC="rpt5.gif" ALT="[IMAGE]"></center>
+<center>Figure 5 - Robotrak fittings for end of water-jet tool (from left to right): for measuring 50 points; for measuring tool z-axis, for measuring tool x-axis; for teaching points on part.</center>
+
+<P>Robotrak was then disconnected from the robot and a pointer attached to the end of the water-jet tool. This pointer was used to teach three teachpoints which just touched each of the four pelts. By taking these teachpoints back into Workspace and comparing them with the geometry points taught on the pelts it was possible to update the model for the true position of the pelts.</P>
+<P>The robot programme was then downloaded to the robot using the Workspace Send to robot command. This converts all the geometry points in the programme into teachpoints, uses the robot and tool signature to correct the accuracy of the points, merges the teachpoint file and programme file and compiles it to a binary .TP file, and then copies the file into the robot subdirectory.</P>
+
+<H3>The Results</H3>
+<P>It took about 10 hours to complete the whole simulation, calibration and offline programme the 4 parts and their programmes, compared to the 40 hours plus for the programming alone.</P>
+<P>These programmes were then applied to the robot with the calibration package, the tooling was calibrated with a tool fixture, and the first cut proved more consistently accurate in terms of cut angle and position than any manually taught programme was able to achieve.</P>
+<P>The programme created using Workspace and Robotrak ran first time on the robot controller without any modifications. No touch up was required using the teach pendant.</P>
+
+<H3>Summary</H3>
+<P>Robot simulation, calibration, and offline programming produced parts that were cut to a higher accuracy than those cut using manually taught methods. The time taken to programme an accurate path was also reduced drastically. No manual touch up of the points was required primarily because the real-world had been accurately simulated using the Workspace/Robotrak robot, tool, and model calibration methods.</P>
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<P ALIGN=center><A HREF="index.htm"><IMG SRC="home.gif" ALT="[IMAGE]"></a>[ <A HREF="index.htm">Return to Home Page</A> ]</P> 
+
+<center><IMG SRC="line_col.gif" ALT="[IMAGE]"></img></center>
+
+
+<center><h6><b>Workspace</b> and <b>Robotrak</b> are registered trademarks of Robot Simulations Ltd.</h6>
+
+<h6>Copyright &copy; 1996 Robot Simulations Ltd</h6>
+<h6>Last revision 3 April 1996</h6></center>
+</P>
+
+
+
+</BODY>
+
+</HTML>
+
+
+</DOC>
